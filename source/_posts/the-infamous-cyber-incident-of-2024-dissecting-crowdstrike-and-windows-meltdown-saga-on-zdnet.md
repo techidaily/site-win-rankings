@@ -1,7 +1,7 @@
 ---
 title: "The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET"
-date: 2024-09-19 20:44:40
-updated: 2024-09-20 10:49:21
+date: 2024-09-20T02:31:27.012Z
+updated: 2024-09-20T22:34:13.099Z
 tags:
   - windows
 categories:
@@ -91,6 +91,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Microsoft extend the support deadline for Windows 10?
 
 That's certainly a possibility, and there's precedent for it in the experience of Windows XP, which ended support in April 2014, more than 12 years after it was first released. Windows XP users even received emergency security updates well after that official end date, to address the [WannaCry vulnerability](https://www.zdnet.com/article/why-wannacry-ransomware-is-still-a-threat-to-your-pc/) in 2017 and a similar flaw in 2019\. Likewise, Microsoft [issued emergency security updates for Windows 7 in 2021](https://www.zdnet.com/article/install-immediately-microsoft-delivers-emergency-patch-for-printnightmare-security-bug/) after its support had officially ended.
@@ -151,11 +158,25 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-income-on-instagram-comprehensive-step-by-step-guide/"><u>[New] Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows108/"><u>「無料の優れたプログラム：Windows10向け8つの最適なスライドショーツールリスト」</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-free-online-vob-to-wmv-conversion-use-the-easy-to-use-movavi-video-converter/"><u>1. FREE Online VOB to WMV Conversion - Use the Easy-to-Use Movavi Video Converter</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/av1-contre-hevc-lequel-dominera-lavenir-du-streaming-video/"><u>AV1 Contre HEVC : Lequel Dominera L'avenir Du Streaming Vidéo ?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginning-with-adobe-audition-the-fading-start/"><u>Beginning with Adobe Audition The Fading Start</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963834464-detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quality-matters-the-advantages-and-disadvantages-of-different-fps/"><u>In 2024, Quality Matters The Advantages & Disadvantages of Different FPS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-must-watch-movies-a-curated-list-of-childrens-classics-on-disney-plus/"><u>July Must-Watch Movies: A Curated List of Children's Classics on Disney +</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-is-this-a-pigeon-meme-generator/"><u>New 2024 Approved Is This a Pigeon Meme Generator</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/telecharger-et-jouer-gratuitement-la-playlist-en-4k-avec-le-telechargement-video-4k-optimal/"><u>Télécharger Et Jouer Gratuitement La Playlist en 4K Avec Le Téléchargement Vidéo 4K Optimal</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-10-dvd/"><u>Windows 10 DVD動画/静止画取り込み・コピーについて</u></a></li>
+</ul></div>
+

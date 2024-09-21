@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Qnmee Up to Its Higher Price Tag? A Comprehensive Review by Tech Expert on ZDNet
-date: 2024-09-17 19:32:37
-updated: 2024-09-20 11:21:51
+date: 2024-09-15T17:18:33.179Z
+updated: 2024-09-21T05:51:19.963Z
 tags:
   - office-furniture
 categories:
@@ -66,6 +66,19 @@ The model I tested includes the knob, and by default, the knob works to control 
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Switch options
 
 Various switch options are supported, and they are also hot-swappable. The Gateron G Pro Red switches were included with this review unit. [Gateron G Pro Blue](https://www.keychron.com/products/gateron-switch-set?variant=31923910705241) and [Gateron G Pro Brown](https://www.keychron.com/products/gateron-switch-set?variant=31923912376409) are other available options. The [Gateron G Pro Red](https://www.keychron.com/products/gateron-switch-set) switch is a quiet switch, suitable for office use or gaming, with minimal force needed to press the keys. Keychron also sent along a set of [Golden Brown Gateron Cap switches](https://www.keychron.com/products/gateron-cap-switch-set?variant=39371706302553). This switch set has a gentle sound level with tactile behavior. While I enjoy the clicky switches, too, the Gateron Pro Red looks great, and I am able to type faster with it equipped. It's fairly affordable to change out the switches if you want to try something else too.
@@ -81,6 +94,13 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 **Also: [Keychron K3 wireless mechanical keyboard review](https://www.zdnet.com/product/keychron-k3-wireless-mechanical-keyboard/)**
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
 
@@ -119,11 +139,25 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-risk-and-revelation-10-roguelike-game-selection/"><u>[New] In 2024, Risk and Revelation #10 Roguelike Game Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-short-form-script-template/"><u>[Updated] Short-Form Script Template</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-speech-to-text-applications/"><u>2024 Approved Pinnacle Speech-to-Text Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-comprehending-filmora-edits/"><u>2024 Approved The Ultimate Guide to Comprehending Filmora Edits</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-review-of-the-wonderfox-dvd-extractor-tool/"><u>Comprehensive Review of the WonderFox DVD Extractor Tool</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-quality-slow-motion-footage-on-tiktok-platforms/"><u>Crafting Quality Slow Motion Footage on TikTok Platforms</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-top-5-substitutes-for-wondershares-uniconverter-software/"><u>Discover the Top 5 Substitutes for Wondershare's UniConverter Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correct-the-error-when-rpc-service-fails-in-windows-environments/"><u>Expert Tips to Correct the Error When RPC Service Fails in Windows Environments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+</ul></div>
+

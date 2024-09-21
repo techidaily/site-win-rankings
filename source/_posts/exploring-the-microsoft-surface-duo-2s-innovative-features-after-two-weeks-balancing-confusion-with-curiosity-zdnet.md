@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet"
-date: 2024-09-19 13:10:39
-updated: 2024-09-20 12:26:59
+date: 2024-09-13T18:59:34.273Z
+updated: 2024-09-21T09:30:58.814Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,19 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +179,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-2023-guide-to-your-updated-lg-bp550-for-2024/"><u>[Updated] Ultimate 2023 Guide to Your Updated LG BP550 for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/free-m4b-movavi/"><u>全面線上FREE M4B字幕化解決方案 - Movavi</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/flv-mkv-movavi/"><u>網上無限制的FLV MKV變體工具: 通過Movavi提取最大效能</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effektivni-odborne-navrhove-oblasti-v-discordu-pro-mobil-a-pc-jak-sdilet-obrazovku-v-vysokych-skolach/"><u>Effektivní Odborné Návrhové Oblasti v Discordu Pro Mobil a PC - Jak Sdílet Obrazovku v Vysokých Školách</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/faceoff-analysis-llama-against-gpt-4-for-ultimate-language-processing-supremacy/"><u>Faceoff Analysis: Llama Against GPT-4 for Ultimate Language Processing Supremacy</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gratis-online-converter-de-mkv-a-flac-por-movavi/"><u>Gratis Online Converter De MKV a FLAC Por Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/kostenlos-konvertieren-von-webm-in-mp3-effizienter-online-service-bei-movavi/"><u>Kostenlos Konvertieren Von Webm in MP3: Effizienter Online-Service Bei Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-14-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 14 You Should Try Out</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-dos-and-donts-of-creating-an-authentic-tiktok-version-of-ourselves/"><u>The Dos and Don'ts of Creating an Authentic TikTok Version of Ourselves</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/upgrade-decision-iphones-face-off-iphone-14-pro-versus-iphone-13-pro/"><u>Upgrade Decision: IPhones Face-Off - iPhone 14 Pro Versus iPhone 13 Pro</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report"
-date: 2024-09-18 10:44:13
-updated: 2024-09-20 10:42:33
+date: 2024-09-16T00:57:47.367Z
+updated: 2024-09-21T10:44:08.265Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,36 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-legal-implications-and-tips-when-archiving-whatsapp-call-recordings-for-2024/"><u>[New] Legal Implications & Tips When Archiving WhatsApp Call Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[Updated] In 2024, From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/free-m4b-movavi/"><u>全面線上FREE M4B字幕化解決方案 - Movavi</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/flv-mkv-movavi/"><u>網上無限制的FLV MKV變體工具: 通過Movavi提取最大效能</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cracking-the-code-making-your-tl-wn722n-visible-in-windows-again/"><u>Cracking the Code: Making Your TL-WN722N Visible in Windows Again!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/descubre-la-forma-facil-y-gratuita-de-transformar-tus-archivos-aif-en-movavi-una-guia-completa-para-usuarios-interesados/"><u>Descubre La Forma Fácil Y Gratuita De Transformar Tus Archivos AIF en Movavi: Una Guía Completa Para Usuarios Interesados</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effektivni-odborne-navrhove-oblasti-v-discordu-pro-mobil-a-pc-jak-sdilet-obrazovku-v-vysokych-skolach/"><u>Effektivní Odborné Návrhové Oblasti v Discordu Pro Mobil a PC - Jak Sdílet Obrazovku v Vysokých Školách</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gratis-online-converter-de-mkv-a-flac-por-movavi/"><u>Gratis Online Converter De MKV a FLAC Por Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-best-4k-laptops-for-ultimate-gaming/"><u>In 2024, Best 4K Laptops for Ultimate Gaming</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/kostenlos-konvertieren-von-webm-in-mp3-effizienter-online-service-bei-movavi/"><u>Kostenlos Konvertieren Von Webm in MP3: Effizienter Online-Service Bei Movavi</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/kostenlose-konvertierung-von-wmv-in-mp4-mit-movavi-online-tool-effizientes-werkzeug-fur-videokonverter/"><u>Kostenlose Konvertierung Von WMV in MP4 Mit Movavi Online Tool - Effizientes Werkzeug Für Videokonverter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-real-need-for-speed-in-computers-finding-the-right-pace/"><u>The Real Need for Speed in Computers: Finding the Right Pace</u></a></li>
+<li><a href="https://win11.techidaily.com/vivetool-methods-to-activate-cortana-in-windows/"><u>ViveTool Methods to Activate Cortana in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

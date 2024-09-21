@@ -1,7 +1,7 @@
 ---
 title: Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation
-date: 2024-09-18 20:28:30
-updated: 2024-09-20 12:14:45
+date: 2024-09-18T08:25:54.218Z
+updated: 2024-09-21T06:40:09.340Z
 tags:
   - windows
 categories:
@@ -48,6 +48,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -59,6 +66,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -88,6 +102,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +140,25 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-boosting-productivity-utilizing-zoom-on-win11-devices-for-2024/"><u>[New] Boosting Productivity Utilizing Zoom on Win11 Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-render-photos-add-inward-radiant-spread-in-photoshop/"><u>[New] Render Photos Add Inward Radiant Spread in Photoshop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-picks-best-xbox-hdd-models-reviewed-for-2024/"><u>[New] Top Picks Best Xbox HDD Models Reviewed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/archive-aesthetics-merge-infinite-gratis-storage-with-elite-subscriptions/"><u>Archive Aesthetics Merge Infinite, Gratis Storage with Elite Subscriptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-corporate-benefits-of-gpt-technology/"><u>Exploring Corporate Benefits of GPT Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/titre-comprendre-les-fichiers-wmv-comment-lire-graver-and-senseigner-la-manipulation-de-ce-forme-multimedia/"><u>Titre: Comprendre Les Fichiers WMV : Comment Lire, Graver & S'Enseigner La Manipulation De Ce Forme Multimédia</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-15-sostituti-di-obs-studio-per-la-registrazione-e-lo-streaming/"><u>Top 15 Sostituti Di OBS Studio per La Registrazione E Lo Streaming</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-7-best-automated-video-editors-experience-the-trend-of-effortless-videa-edits/"><u>Top 7 Best Automated Video Editors: Experience the Trend of Effortless Videa Edits!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transcodificar-archivos-swf-a-formato-de-video-m4v-online-sin-coste-guia-rapida-con-movavi/"><u>Transcodificar Archivos SWF a Formato De Vídeo M4V Online Sin Coste: Guía Rápida Con Movavi</u></a></li>
+</ul></div>
+

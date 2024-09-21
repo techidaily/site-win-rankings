@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET"
-date: 2024-09-18 11:52:47
-updated: 2024-09-20 12:59:20
+date: 2024-09-18T05:53:41.974Z
+updated: 2024-09-20T23:53:20.363Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,41 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exclusive-free-mcb-visual-tools/"><u>[New] 2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximize-meeting-success-top-recording-tools/"><u>[New] 2024 Approved Maximize Meeting Success Top Recording Tools</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a18-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A18 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-review-of-the-wonderfox-dvd-extractor-tool/"><u>Comprehensive Review of the WonderFox DVD Extractor Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-techniques-for-rejuvenating-windows-10-hardware-drivers/"><u>Comprehensive Techniques for Rejuvenating Windows 10 Hardware Drivers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-top-5-substitutes-for-wondershares-uniconverter-software/"><u>Discover the Top 5 Substitutes for Wondershare's UniConverter Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-steps-to-transform-your-wem-audio-files-into-mp3-and-ogg-formats/"><u>Easy Steps to Transform Your WEM Audio Files Into MP3 & OGG Formats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-wii-cant-read-disc-errors-for-uninterrupted-gaming/"><u>How to Fix 'Wii Can't Read Disc' Errors for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-halo-4-ue4-fatal-error-and-stop-game-crashes-for-a-smooth-2024-experience/"><u>How to Resolve Halo 4 UE4 Fatal Error and Stop Game Crashes for a Smooth 2024 Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitech-g29-racing-wheel-drivers-on-your-pc-works-with-win-10win-11win-7/"><u>Install Logitech G29 Racing Wheel Drivers on Your PC - Works with Win 10/Win 11/Win 7</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
