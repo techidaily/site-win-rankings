@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report"
-date: 2024-09-16T00:57:47.367Z
-updated: 2024-09-21T10:44:08.265Z
+date: 2024-09-23T17:40:13.969Z
+updated: 2024-09-25T21:45:36.095Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,32 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-how-youtube-picks-most-engaging-comments/"><u>[New] In 2024, Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[Updated] In 2024, 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-race-away-slow-motion-on-your-android-device/"><u>2024 Approved Race Away Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://os-tips.techidaily.com/budget-friendly-popsockets-for-iphones-featuring-integrated-magsafe-payment-storage-solutions/"><u>Budget-Friendly PopSockets for iPhones Featuring Integrated MagSafe Payment Storage Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/dji-air-2s-review-the-best-drone/"><u>DJI Air 2S Review: The Best Drone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-frequent-crashes-in-thunder-tier-one-gaming-on-your-computer/"><u>How to Fix Frequent Crashes in Thunder Tier One Gaming on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-common-pitfalls-in-setting-up-amd-gpu-drivers-correctly/"><u>Overcoming Common Pitfalls in Setting Up AMD GPU Drivers Correctly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-transferring-and-saving-disney-films-from-dvds/"><u>Step-by-Step Guide to Transferring & Saving Disney Films From DVDs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-recording-your-tiktok-live-streams-on-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Recording Your TikTok Live Streams on PC, Mac, Android & iOS Devices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-process-transforming-audio-files-into-engaging-youtube-videos/"><u>Step-by-Step Process: Transforming Audio Files Into Engaging YouTube Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

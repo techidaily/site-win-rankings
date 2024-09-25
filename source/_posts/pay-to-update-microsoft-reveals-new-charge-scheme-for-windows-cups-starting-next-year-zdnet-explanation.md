@@ -1,7 +1,7 @@
 ---
 title: Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation
-date: 2024-09-18T08:25:54.218Z
-updated: 2024-09-21T06:40:09.340Z
+date: 2024-09-18T22:04:11.170Z
+updated: 2024-09-25T18:22:30.028Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -47,13 +54,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -68,10 +68,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -97,6 +97,13 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -104,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -147,5 +154,21 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-moments-top-webcams-for-pcs-in-windows/"><u>[New] In 2024, Capturing Moments Top Webcams for PCs in Windows</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-comprehensive-review-of-next-gen-camera-systems-for-2024/"><u>A Comprehensive Review of Next-Gen Camera Systems for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decrease-ambience-tunes-windowsapple-compatible/"><u>Decrease Ambience Tunes Windows/Apple Compatible</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-moto-g34-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Moto G34 5G support MOV videos ?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/1716465486603-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-a25-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy A25 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-tips-capturing-slow-motion-on-gopro-hero-10-for-2024/"><u>Pro's Tips Capturing Slow Motion on GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-symbol-issues-a-step-by-step-guide/"><u>Solving '@' Symbol Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-screen-capture-contenders-a-comprehensive-review-for-2024/"><u>Top Screen Capture Contenders A Comprehensive Review for 2024</u></a></li>
+</ul></div>
 

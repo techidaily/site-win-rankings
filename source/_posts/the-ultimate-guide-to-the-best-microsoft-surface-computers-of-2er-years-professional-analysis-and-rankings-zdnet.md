@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to the Best Microsoft Surface Computers of 2Er Years: Professional Analysis and Rankings | ZDNet"
-date: 2024-09-16T07:36:29.183Z
-updated: 2024-09-21T10:46:54.409Z
+date: 2024-09-24T21:01:50.517Z
+updated: 2024-09-25T18:45:40.250Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -180,5 +200,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-entertainment-find-youtubes-best-narrators-of-23/"><u>[New] 2024 Approved Elevating Entertainment Find YouTube's Best Narrators of '23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>[Updated] 2024 Approved 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-only-guide-youll-need-to-know-about-instagram-reels/"><u>[Updated] 2024 Approved The Only Guide You'll Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-building-an-engaging-listenership-through-rss-crafting/"><u>2024 Approved Building an Engaging Listenership Through RSS Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-curated-compilation-of-online-videoaudio-magicians-for-2024/"><u>A Curated Compilation of Online Video/Audio Magicians for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/explore-microsoft-azures-latest-offering-radius-a-new-horizon-in-open-source-cloud-development-across-multiple-environments-techcrunch/"><u>Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-impact-of-windows-on-hybrid-work-evolution-with-microsoft-insights-zdnet/"><u>Exploring the Impact of Windows on Hybrid Work Evolution with Microsoft Insights - ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-elevating-care-delivery-through-effective-fb-ads/"><u>In 2024, Elevating Care Delivery Through Effective FB Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>In 2024, Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-camera-action-youtubes-17-essentials/"><u>Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-endures-ongoing-consequences-of-early-mobile-strategy-errors-a-10-year-review-zdnet/"><u>Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-post-antitrust-consequences-how-googles-courtroom-setback-reshapes-user-experience-and-shifts-future-search-dynamics-infosphere-blog/"><u>Navigating Post-Antitrust Consequences: How Google's Courtroom Setback Reshapes User Experience and Shifts Future Search Dynamics | InfoSphere Blog</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/powerful-and-sturdy-discover-the-best-windows-tablet-with-pen-for-enhanced-productivity-on-zdnet/"><u>Powerful and Sturdy: Discover the Best Windows Tablet With Pen for Enhanced Productivity on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reconfigure-your-macs-command-key-step-by-step-guide/"><u>Reconfigure Your Mac's Command Key: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-free-screen-recorders-on-windows-10-for-2024/"><u>Top 5 Free Screen Recorders on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-the-legitimacy-of-your-windows-software-a-comprehensive-guide/"><u>Understanding the Legitimacy of Your Windows Software: A Comprehensive Guide</u></a></li>
+</ul></div>
 

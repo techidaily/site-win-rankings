@@ -1,7 +1,7 @@
 ---
 title: "Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet"
-date: 2024-09-16T08:40:58.456Z
-updated: 2024-09-21T06:52:48.970Z
+date: 2024-09-22T18:22:26.480Z
+updated: 2024-09-25T16:32:15.775Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-survivors-guide-top-6-mc-house-plans/"><u>[New] 2024 Approved Survivor's Guide Top 6 MC House Plans</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge-for-2024/"><u>[Updated] Instagram Reels Harnessing TikTok Secrets for Popularity Surge for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-tweets-expert-reviews-of-top-ranked-twitter-client-tools-and-services/"><u>Ace Your Tweets: Expert Reviews of Top-Ranked Twitter Client Tools and Services</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a79-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A79 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-k70-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi K70 Pro Device SIM</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-v/"><u>New 2024 Approved Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/outstanding-oneplus/"><u>Outstanding OnePlus</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+</ul></div>
 

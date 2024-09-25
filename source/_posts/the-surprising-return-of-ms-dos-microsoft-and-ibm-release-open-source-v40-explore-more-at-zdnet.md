@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET"
-date: 2024-09-18T05:53:41.974Z
-updated: 2024-09-20T23:53:20.363Z
+date: 2024-09-20T17:52:48.371Z
+updated: 2024-09-25T20:23:51.050Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-amplify-your-vlog-presence-with-tubebuddys-tools-for-2024/"><u>[New] Amplify Your Vlog Presence with TubeBuddy's Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] In 2024, Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-accessing-your-curated-music-lists-on-youtube/"><u>[Updated] 2024 Approved Accessing Your Curated Music Lists on Youtube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-the-best-hdr-cameras/"><u>[Updated] 2024 Approved Navigating the Best HDR Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pioneering-affordable-switch-emulators/"><u>2024 Approved Pioneering Affordable Switch Emulators</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-restoring-accidentally-erased-files-on-windows-1011-tips-from-zdnet/"><u>Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-stealthy-windows-groovy-tool-in-windows-11-that-accelerates-app-closure-for-a-snappier-system-experience-cnet/"><u>Discover the Stealthy Windows Groovy Tool in Windows 11 that Accelerates App Closure for a Snappier System Experience | CNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/embracing-the-delight-of-apple-a-google-staffer-advocates-for-macbooks-over-lamentable-windows-machines-insights-from-zdnet/"><u>Embracing the Delight of Apple: A Google Staffer Advocates for MacBooks Over Lamentable Windows Machines - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-deskjet-ink-advantage-3050a-drivers-windows-compatible-latest-updates-available/"><u>Free HP Deskjet Ink Advantage 3050A Drivers: Windows Compatible, Latest Updates Available</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>In 2024, Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A25 5G FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/introducing-the-new-era-of-web-navigation-microsofts-bing-ai-chatbot-now-integrated-with-google-chrome-wired-news/"><u>Introducing the New Era of Web Navigation: Microsoft's Bing AI Chatbot Now Integrated with Google Chrome | Wired News</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "New Features Unveiled in Windows 11 Update: Enhanced Android Integration & Quick Voice Typing"
-date: 2024-09-16T20:09:10.590Z
-updated: 2024-09-20T18:01:14.920Z
+date: 2024-09-19T20:00:31.964Z
+updated: 2024-09-25T17:27:16.460Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,11 +48,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -68,10 +75,16 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -91,6 +104,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -102,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -147,5 +160,19 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-rival-tools-that-outclass-sharex/"><u>[New] In 2024, Rival Tools that Outclass ShareX</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-grandest-meme-makeover-utility/"><u>[Updated] Grandest Meme Makeover Utility</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-roadmap-to-financial-growth-through-video-ads-on-youtube/"><u>[Updated] Navigating the Roadmap to Financial Growth Through Video Ads on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-hackers-handbook-navigating-anonymous-instagram-streaming/"><u>2024 Approved The Hacker’s Handbook Navigating Anonymous Instagram Streaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nokia-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nokia</u></a></li>
+<li><a href="https://facebook.techidaily.com/delay-in-implementation-of-whatsapps-updated-privacy-terms/"><u>Delay in Implementation of WhatsApp's Updated Privacy Terms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 2023 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+</ul></div>
 

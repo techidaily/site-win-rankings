@@ -1,7 +1,7 @@
 ---
 title: "The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET"
-date: 2024-09-20T02:31:27.012Z
-updated: 2024-09-20T22:34:13.099Z
+date: 2024-09-23T16:46:25.620Z
+updated: 2024-09-25T19:13:15.898Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,19 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +112,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +191,26 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-supercharged-productivity-while-flipping-audio-switches/"><u>[Updated] Supercharged Productivity While Flipping Audio Switches</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/10-uncover-the-hidden-details/"><u>10 - Uncover the Hidden Details</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-programs-from-your-windows-10-pc-howtogeek/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Programs From Your Windows 10 PC | HowToGeek</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-software-on-your-windows-10-pc-insights-from-zdnet/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Software on Your Windows 10 PC - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-slides-with-auditory-elements-powerpoint/"><u>Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhanced-data-security-in-microsofts-latest-copilot-update-simplified-user-chats-insights-from-zdnet/"><u>Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/explore-microsoft-azures-latest-offering-radius-a-new-horizon-in-open-source-cloud-development-across-multiple-environments-techcrunch/"><u>Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>In 2024, Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-interview-process-for-microsofts-tech-positions-insider-tips-and-strategies/"><u>Mastering the Interview Process for Microsoft's Tech Positions: Insider Tips and Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/mellow-your-playlist-device-specific-techniques/"><u>Mellow Your Playlist Device-Specific Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-new-gadgets-and-gizmos-with-toms-hardware-experts/"><u>Navigating New Gadgets and Gizmos with Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-new-era-top-tier-vr-exercise-machines/"><u>Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/powerful-and-sturdy-discover-the-best-windows-tablet-with-pen-for-enhanced-productivity-on-zdnet/"><u>Powerful and Sturdy: Discover the Best Windows Tablet With Pen for Enhanced Productivity on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reconfigure-your-macs-command-key-step-by-step-guide/"><u>Reconfigure Your Mac's Command Key: Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-zoom-discrepancies-on-windows-11-error-1132/"><u>Resolving Zoom Discrepancies on Windows 11: Error 1132</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-receiving-random-friends-suggestions/"><u>Stop Receiving Random Friends Suggestions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-the-legitimacy-of-your-windows-software-a-comprehensive-guide/"><u>Understanding the Legitimacy of Your Windows Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+</ul></div>
 

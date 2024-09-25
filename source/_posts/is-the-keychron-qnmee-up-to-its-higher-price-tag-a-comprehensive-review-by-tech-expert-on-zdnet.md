@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Qnmee Up to Its Higher Price Tag? A Comprehensive Review by Tech Expert on ZDNet
-date: 2024-09-15T17:18:33.179Z
-updated: 2024-09-21T05:51:19.963Z
+date: 2024-09-20T18:41:19.398Z
+updated: 2024-09-25T18:58:13.571Z
 tags:
   - office-furniture
 categories:
@@ -52,6 +52,13 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** recommends
 
 [The best mechanical keyboards: From mini to macros Mechanical keyboards have become one of the fastest-growing areas of gaming and PC peripherals.  Read now](https://www.zdnet.com/article/best-mechanical-keyboard/)
@@ -60,6 +67,13 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17ca5000-3920-46d3-a543-7da2bfe350bc%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
@@ -67,16 +81,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -96,10 +104,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -146,5 +154,20 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[New] 2024 Approved How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-smooth-art-of-mov-saving-a-win10-insight/"><u>[New] In 2024, The Smooth Art of MOV Saving A Win10 Insight</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows108/"><u>「無料の優れたプログラム：Windows10向け8つの最適なスライドショーツールリスト」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>2024 Approved Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography-for-2024/"><u>A Filmmaker's Handbook Mastering Close-Up Videography for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/action-packed-strategies-how-to-upload-your-gameplays-as-live-videos-on-youtube/"><u>Action-Packed Strategies: How to Upload Your Gameplays as Live Videos on YouTube</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-guide-setting-up-your-hardware-and-configuring-action-preferences/"><u>Comprehensive Guide: Setting Up Your Hardware & Configuring Action! Preferences</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-microsofts-new-tech-frontiers-insights-from-this-weeks-surface-and-artificial-intelligence-event-the-zdnet-report/"><u>Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-essential-guide-to-efficient-youtube-follow-link-design/"><u>In 2024, The Essential Guide to Efficient YouTube Follow Link Design</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-live-video-gaming-step-by-step-action-guidelines-for-hitbox-users/"><u>Mastering the Art of Live Video Gaming - Step by Step Action Guidelines for Hitbox Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-earning-top-dollar-from-your-old-dvd-collection-on-a-local-and-global-scale/"><u>The Ultimate Guide to Earning Top Dollar From Your Old DVD Collection on a Local and Global Scale</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-to-cod-black-ops-4s-lag-spikes-and-fps-issues/"><u>Troubleshooting Solutions to COD Black Ops 4'S Lag Spikes & FPS Issues</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-10-dvd/"><u>Windows 10 DVD動画/静止画取り込み・コピーについて</u></a></li>
+</ul></div>
 

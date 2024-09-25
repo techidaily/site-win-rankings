@@ -1,7 +1,7 @@
 ---
 title: "Save Big with ZDNet: Secure Microsoft's Top-Tier Pro Licenses for Project and Visio at Only $20!"
-date: 2024-09-15T06:57:18.586Z
-updated: 2024-09-21T09:56:10.984Z
+date: 2024-09-19T19:10:37.867Z
+updated: 2024-09-25T18:57:06.460Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -128,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-the-next-chapter-of-cinema-vr-revolution-for-2024/"><u>[New] The Next Chapter of Cinema VR Revolution for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovation-meets-tradition-the-best-frame-makers/"><u>[Updated] In 2024, Innovation Meets Tradition The Best Frame Makers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ai-future-revealed-sam-altman-outlines-microsofts-roadmap-at-build-conference-insights-from-zdnet/"><u>AI Future Revealed: Sam Altman Outlines Microsoft's Roadmap at Build Conference - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/black-friday-blowout-at-microsoft-store-snag-a-300-surface-go-2-or-score-an-acer-2-in-1-for-230-shop-now-on-zdnet/"><u>Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-insights-from-viewing-data-on-youtube-for-2024/"><u>Earning Insights From Viewing Data on YouTube for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-microsoft-surface-duo-2s-innovative-features-after-two-weeks-balancing-confusion-with-curiosity-zdnet/"><u>Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-world-of-artificial-intelligence-desktops-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Desktops – Are They Worth Your Investment?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-30i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 30i Quickly | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-smart-8-hd-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Smart 8 HD Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-the-next-gen-windows-12-on-the-horizon-discover-exclusive-details-and-unexpected-forecasts-with-zdnets-deep-dive/"><u>Is the Next-Gen Windows 12 on the Horizon? Discover Exclusive Details and Unexpected Forecasts with ZDNet's Deep Dive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-the-unfortunate-outcome/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – The Unfortunate Outcome</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/recording-success-how-to-grab-phonescreens-with-snapchat-easily-for-2024/"><u>Recording Success How to Grab Phonescreens with Snapchat Easily for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/super-bowl-commercials-soar-microsofts-copilot-and-temu-triumph-in-download-ratings-techzn/"><u>Super Bowl Commercials Soar: Microsoft's Copilot & Temu Triumph in Download Ratings | TechZN</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-beginners-guide-to-free-screen-capture-software/"><u>The Beginner's Guide to Free Screen Capture Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-guide-to-the-best-microsoft-surface-computers-of-2er-years-professional-analysis-and-rankings-zdnet/"><u>The Ultimate Guide to the Best Microsoft Surface Computers of 2Er Years: Professional Analysis and Rankings | ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-video-editing-tools-you-need-to-know-for-2024/"><u>Top Video Editing Tools You Need to Know for 2024</u></a></li>
+</ul></div>
 
