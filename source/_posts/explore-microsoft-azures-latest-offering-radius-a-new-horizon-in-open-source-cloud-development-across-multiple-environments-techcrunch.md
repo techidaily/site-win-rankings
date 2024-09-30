@@ -1,7 +1,7 @@
 ---
 title: "Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch"
-date: 2024-09-19T20:10:50.617Z
-updated: 2024-09-25T16:42:25.260Z
+date: 2024-09-26T16:50:32.550Z
+updated: 2024-09-29T22:56:36.547Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eap-over-a-thousand-followers-on-youtube-quickly-for-2024/"><u>[New] Leap Over a Thousand Followers on YouTube Quickly for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[New] Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[New] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premium-list-10-budget-friendly-picture-storage-vaults/"><u>[Updated] In 2024, Premium List 10 Budget-Friendly Picture Storage Vaults</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-impact-of-windows-on-hybrid-work-evolution-with-microsoft-insights-zdnet/"><u>Exploring the Impact of Windows on Hybrid Work Evolution with Microsoft Insights - ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Blaze Pro 5G Phone Forgot Password</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/microsoft-endures-ongoing-consequences-of-early-mobile-strategy-errors-a-10-year-review-zdnet/"><u>Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-post-antitrust-consequences-how-googles-courtroom-setback-reshapes-user-experience-and-shifts-future-search-dynamics-infosphere-blog/"><u>Navigating Post-Antitrust Consequences: How Google's Courtroom Setback Reshapes User Experience and Shifts Future Search Dynamics | InfoSphere Blog</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>[New] 2024 Approved Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-state-of-decay-2-keeps-crashing-2024-tips/"><u>[SOLVED] State of Decay 2 Keeps Crashing – 2024 Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-ways-to-make-a-great-educational-video-for-youtube/"><u>[Updated] 2024 Approved Easy Ways to Make a Great Educational Video for YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-flip-the-script-learning-to-negative-play-in-instagram/"><u>[Updated] 2024 Approved Flip the Script Learning to Negative Play in Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-engagement-through-effective-video-strategies-on-fb/"><u>[Updated] Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-one-to-a-hundred-a-guide-to-creating-multiple-tiktoks-of-youself-for-2024/"><u>[Updated] From One to a Hundred A Guide to Creating Multiple TikToks of Youself for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-whatsapp-call-messages/"><u>[Updated] The Essentials of WhatsApp Call Messages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-undisclosed-aspects-what-you-dont-notice-as-a-story-viewer/"><u>[Updated] The Undisclosed Aspects What You Don’t Notice as a Story Viewer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effortless-m4a-slicing-tool-online-learn-the-tricks-for-hassle-free-editing-and-conversion/"><u>Effortless M4A Slicing Tool Online – Learn the Tricks for Hassle-Free Editing and Conversion</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/firefoxyoutube/"><u>Firefox環境下でYoutube再生障害発生時の改善手段 - 最新ガイドライン</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-foray-into-fashionable-mac-made-videos-for-youtube/"><u>First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/free-and-easy-the-ultimate-guide-to-securely-saving-videos-from-vidiocom-using-top-downloaders/"><u>Free and Easy: The Ultimate Guide to Securely Saving Videos From Vidio.com Using Top Downloaders</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/free-video-editing-on-windows-11-a-beginners-guide/"><u>Free Video Editing on Windows 11: A Beginner's Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gamers-guide-to-the-finest-clipboard-applications-top-9-picks/"><u>Gamer's Guide to the Finest Clipboard Applications - Top 9 Picks!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-enable-mov-playback-in-vlc-media-player-top-solutions/"><u>How to Enable MOV Playback in VLC Media Player – Top Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/innovative-and-inspiring-concepts-for-storing-your-dvd-collection/"><u>Innovative and Inspiring Concepts for Storing Your DVD Collection</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mp4-file/"><u>MP4 Fileからオーディオ形式への効果的な変換ガイド</u></a></li>
 </ul></div>
 

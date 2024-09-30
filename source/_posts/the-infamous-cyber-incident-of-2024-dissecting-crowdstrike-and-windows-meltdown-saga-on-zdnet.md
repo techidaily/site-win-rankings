@@ -1,7 +1,7 @@
 ---
 title: "The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET"
-date: 2024-09-23T16:46:25.620Z
-updated: 2024-09-25T19:13:15.898Z
+date: 2024-09-24T21:11:59.397Z
+updated: 2024-09-29T22:49:23.164Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -193,24 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-supercharged-productivity-while-flipping-audio-switches/"><u>[Updated] Supercharged Productivity While Flipping Audio Switches</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/10-uncover-the-hidden-details/"><u>10 - Uncover the Hidden Details</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-programs-from-your-windows-10-pc-howtogeek/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Programs From Your Windows 10 PC | HowToGeek</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-software-on-your-windows-10-pc-insights-from-zdnet/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Software on Your Windows 10 PC - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-slides-with-auditory-elements-powerpoint/"><u>Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/enhanced-data-security-in-microsofts-latest-copilot-update-simplified-user-chats-insights-from-zdnet/"><u>Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/explore-microsoft-azures-latest-offering-radius-a-new-horizon-in-open-source-cloud-development-across-multiple-environments-techcrunch/"><u>Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>In 2024, Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-interview-process-for-microsofts-tech-positions-insider-tips-and-strategies/"><u>Mastering the Interview Process for Microsoft's Tech Positions: Insider Tips and Strategies</u></a></li>
-<li><a href="https://article-files.techidaily.com/mellow-your-playlist-device-specific-techniques/"><u>Mellow Your Playlist Device-Specific Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-new-gadgets-and-gizmos-with-toms-hardware-experts/"><u>Navigating New Gadgets and Gizmos with Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-new-era-top-tier-vr-exercise-machines/"><u>Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/powerful-and-sturdy-discover-the-best-windows-tablet-with-pen-for-enhanced-productivity-on-zdnet/"><u>Powerful and Sturdy: Discover the Best Windows Tablet With Pen for Enhanced Productivity on ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reconfigure-your-macs-command-key-step-by-step-guide/"><u>Reconfigure Your Mac's Command Key: Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-zoom-discrepancies-on-windows-11-error-1132/"><u>Resolving Zoom Discrepancies on Windows 11: Error 1132</u></a></li>
-<li><a href="https://facebook.techidaily.com/stop-receiving-random-friends-suggestions/"><u>Stop Receiving Random Friends Suggestions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-the-legitimacy-of-your-windows-software-a-comprehensive-guide/"><u>Understanding the Legitimacy of Your Windows Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhancing-your-video-cover-images-updating-techniques-for-fb/"><u>[New] 2024 Approved Enhancing Your Video Cover Images Updating Techniques for FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-capitalize-on-your-youtube-shorts-for-cash-flow-for-2024/"><u>[New] How to Capitalize on Your YouTube Shorts for Cash Flow for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tips-enhancing-focus-in-your-youtube-video-for-2024/"><u>[Updated] Essential Tips Enhancing Focus in Your YouTube Video for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-micro-moments-of-fame-do-youtubes-shorts-or-tiktoks-get-the-edge/"><u>2024 Approved Micro-Moments of Fame Do YouTubes Shorts or TikToks Get the Edge?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-system-agility-managing-data-speed-and-wait-time-in-personal-computers/"><u>Boosting System Agility: Managing Data Speed and Wait Time in Personal Computers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-z50-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Z50 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ranked-top-5-ps3-virtual-players-for-pc/"><u>Ranked Top 5 PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
 </ul></div>
 

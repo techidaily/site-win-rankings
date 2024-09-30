@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET"
-date: 2024-09-20T17:52:48.371Z
-updated: 2024-09-25T20:23:51.050Z
+date: 2024-09-27T18:59:28.614Z
+updated: 2024-09-30T04:58:01.255Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-amplify-your-vlog-presence-with-tubebuddys-tools-for-2024/"><u>[New] Amplify Your Vlog Presence with TubeBuddy's Tools for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] In 2024, Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-accessing-your-curated-music-lists-on-youtube/"><u>[Updated] 2024 Approved Accessing Your Curated Music Lists on Youtube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-the-best-hdr-cameras/"><u>[Updated] 2024 Approved Navigating the Best HDR Cameras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pioneering-affordable-switch-emulators/"><u>2024 Approved Pioneering Affordable Switch Emulators</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-guide-restoring-accidentally-erased-files-on-windows-1011-tips-from-zdnet/"><u>Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-the-stealthy-windows-groovy-tool-in-windows-11-that-accelerates-app-closure-for-a-snappier-system-experience-cnet/"><u>Discover the Stealthy Windows Groovy Tool in Windows 11 that Accelerates App Closure for a Snappier System Experience | CNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/embracing-the-delight-of-apple-a-google-staffer-advocates-for-macbooks-over-lamentable-windows-machines-insights-from-zdnet/"><u>Embracing the Delight of Apple: A Google Staffer Advocates for MacBooks Over Lamentable Windows Machines - Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-hp-deskjet-ink-advantage-3050a-drivers-windows-compatible-latest-updates-available/"><u>Free HP Deskjet Ink Advantage 3050A Drivers: Windows Compatible, Latest Updates Available</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>In 2024, Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A25 5G FRP?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Plus by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/introducing-the-new-era-of-web-navigation-microsofts-bing-ai-chatbot-now-integrated-with-google-chrome-wired-news/"><u>Introducing the New Era of Web Navigation: Microsoft's Bing AI Chatbot Now Integrated with Google Chrome | Wired News</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-words-to-wax-mastering-voice-note-techniques/"><u>[New] 2024 Approved From Words to Wax Mastering Voice Note Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-walkthrough-creating-channel-banners/"><u>[New] A Comprehensive Walkthrough Creating Channel Banners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>[New] Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-nostalgic-compassion-preferred-android-emulators-for-3ds-for-2024/"><u>[Updated] Nostalgic Compassion Preferred Android Emulators for 3DS for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-asus-realtek-sound-card-software-no-cost/"><u>Download ASUS Realtek Sound Card Software - No Cost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-reactivating-voice-chats-in-among-us-for-windows-players/"><u>Essential Fixes: Reactivating Voice Chats in Among Us for Windows Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30i-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix Hot 30i Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-k70-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi K70 FRP</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-your-way-into-microsofts-tech-team-strategies-by-zdnet-experts/"><u>Navigating Your Way Into Microsoft's Tech Team - Strategies by ZDNet Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/perhaps-bing-has-no-real-chance-against-google-a-closer-look-revealed-by-zdnet/"><u>Perhaps Bing Has No Real Chance Against Google: A Closer Look Revealed by ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/prevent-system-crashes-with-easy-recovery-drive-setup-on-your-windows-pc-a-step-by-step-guide/"><u>Prevent System Crashes with Easy Recovery Drive Setup on Your Windows PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/save-big-with-zdnet-secure-microsofts-top-tier-pro-licenses-for-project-and-visio-at-only-20/"><u>Save Big with ZDNet: Secure Microsoft's Top-Tier Pro Licenses for Project and Visio at Only $20!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-your-microsoft-project-and-visio-professionals-for-a-steal-only-20-avaliable-now-with-exclusive-deal-from-zdnet/"><u>Secure Your Microsoft Project and Visio Professionals for a Steal – Only $20 Avaliable Now with Exclusive Deal From ZDNet!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/steve-ballmer-ex-microsoft-leader-concedes-to-absence-of-valor-insights-from-zdnet/"><u>Steve Ballmer, Ex-Microsoft Leader, Concedes to Absence of Valor - Insights From ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

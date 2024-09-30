@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Qnmee Up to Its Higher Price Tag? A Comprehensive Review by Tech Expert on ZDNet
-date: 2024-09-20T18:41:19.398Z
-updated: 2024-09-25T18:58:13.571Z
+date: 2024-09-24T23:09:40.552Z
+updated: 2024-09-29T18:00:34.661Z
 tags:
   - office-furniture
 categories:
@@ -53,10 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -68,10 +68,10 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17ca5000-3920-46d3-a543-7da2bfe350bc%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keyboard software
@@ -81,10 +81,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -103,18 +103,18 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Daily usage experiences and conclusion
 
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -156,18 +156,22 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-elevate-your-social-influence-the-six-step-guide-to-instagram-verified-status/"><u>[New] 2024 Approved How to Elevate Your Social Influence The Six-Step Guide to Instagram Verified Status</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-smooth-art-of-mov-saving-a-win10-insight/"><u>[New] In 2024, The Smooth Art of MOV Saving A Win10 Insight</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows108/"><u>「無料の優れたプログラム：Windows10向け8つの最適なスライドショーツールリスト」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>2024 Approved Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography-for-2024/"><u>A Filmmaker's Handbook Mastering Close-Up Videography for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/action-packed-strategies-how-to-upload-your-gameplays-as-live-videos-on-youtube/"><u>Action-Packed Strategies: How to Upload Your Gameplays as Live Videos on YouTube</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comprehensive-guide-setting-up-your-hardware-and-configuring-action-preferences/"><u>Comprehensive Guide: Setting Up Your Hardware & Configuring Action! Preferences</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-microsofts-new-tech-frontiers-insights-from-this-weeks-surface-and-artificial-intelligence-event-the-zdnet-report/"><u>Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-essential-guide-to-efficient-youtube-follow-link-design/"><u>In 2024, The Essential Guide to Efficient YouTube Follow Link Design</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-live-video-gaming-step-by-step-action-guidelines-for-hitbox-users/"><u>Mastering the Art of Live Video Gaming - Step by Step Action Guidelines for Hitbox Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-guide-to-earning-top-dollar-from-your-old-dvd-collection-on-a-local-and-global-scale/"><u>The Ultimate Guide to Earning Top Dollar From Your Old DVD Collection on a Local and Global Scale</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-solutions-to-cod-black-ops-4s-lag-spikes-and-fps-issues/"><u>Troubleshooting Solutions to COD Black Ops 4'S Lag Spikes & FPS Issues</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-10-dvd/"><u>Windows 10 DVD動画/静止画取り込み・コピーについて</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-creative-potential-with-free-effs/"><u>[New] Unleash Creative Potential with Free Effs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-begin-recording-your-webcam-via-vlc-player/"><u>[Updated] 2024 Approved Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-comprehensive-summary-hero4-black-usage/"><u>[Updated] 2024 Approved Comprehensive Summary Hero4 Black Usage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-precision-and-power-a-filmmakers-guide-to-professional-voice-over-techniques-for-2024/"><u>[Updated] Precision and Power A Filmmaker's Guide to Professional Voice-Over Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streamlining-media-transfer-fb-video-to-whatsapp-for-2024/"><u>[Updated] Streamlining Media Transfer FB Video to WhatsApp for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-disappointing-chatgpt-tools-that-will-waste-your-time-and-effort/"><u>5 Disappointing ChatGPT Tools That Will Waste Your Time and Effort</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/av1-decoded-for-starters-for-2024/"><u>AV1 Decoded for Starters for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-restoring-accidentally-erased-files-on-windows-1011-tips-from-zdnet/"><u>Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-stealthy-windows-groovy-tool-in-windows-11-that-accelerates-app-closure-for-a-snappier-system-experience-cnet/"><u>Discover the Stealthy Windows Groovy Tool in Windows 11 that Accelerates App Closure for a Snappier System Experience | CNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/embracing-the-delight-of-apple-a-google-staffer-advocates-for-macbooks-over-lamentable-windows-machines-insights-from-zdnet/"><u>Embracing the Delight of Apple: A Google Staffer Advocates for MacBooks Over Lamentable Windows Machines - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/introducing-the-new-era-of-web-navigation-microsofts-bing-ai-chatbot-now-integrated-with-google-chrome-wired-news/"><u>Introducing the New Era of Web Navigation: Microsoft's Bing AI Chatbot Now Integrated with Google Chrome | Wired News</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/sharing-content-video-posts-on-instagram-guide-for-2024/"><u>Sharing Content Video Posts on Instagram Guide for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/single-inbox-zero-junk-mail-proven-methods-from-zdnets-top-tips-on-keeping-unwanted-email-at-bay/"><u>Single Inbox, Zero Junk Mail: Proven Methods From ZDNet's Top Tips on Keeping Unwanted Email at Bay</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-entrepreneurs-blueprint-for-profiting-from-video-content-for-2024/"><u>The Entrepreneur's Blueprint for Profiting From Video Content for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet"
-date: 2024-09-23T20:27:13.883Z
-updated: 2024-09-25T17:40:57.632Z
+date: 2024-09-24T01:50:36.681Z
+updated: 2024-09-29T23:20:49.204Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +193,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-slideshow-maker-how-to-make-a-facebook-slideshow/"><u>[New] Facebook Slideshow Maker How to Make a Facebook Slideshow</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-list-where-to-pull-off-ringtone-files/"><u>[New] Ultimate List Where To Pull Off Ringtone Files</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included/"><u>[Updated] In 2024, How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-chapter-inclusion-in-youtube-videos-professional-edition/"><u>2024 Approved Navigating Chapter Inclusion in YouTube Videos Professional Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfection-your-path-to-exceptional-edits/"><u>2024 Approved Pixel Perfection Your Path to Exceptional Edits</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/bouncie-gps-tracking-solution-an-easy-to-use-and-budget-friendly-car-locator/"><u>Bouncie GPS Tracking Solution - An Easy-to-Use & Budget-Friendly Car Locator</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comprehensive-review-of-the-wonderfox-dvd-extractor-tool/"><u>Comprehensive Review of the WonderFox DVD Extractor Tool</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-the-top-5-substitutes-for-wondershares-uniconverter-software/"><u>Discover the Top 5 Substitutes for Wondershare's UniConverter Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-steps-to-transform-your-wem-audio-files-into-mp3-and-ogg-formats/"><u>Easy Steps to Transform Your WEM Audio Files Into MP3 & OGG Formats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-creating-your-avatar-with-confidence-for-2024/"><u>From Novice to Expert Creating Your Avatar with Confidence for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-drivers-for-steelseries-arctis-5-gaming-headphones/"><u>How to Install Drivers for SteelSeries Arctis 5 Gaming Headphones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-compreenhensive-guide-for-youtube-short-video-creators/"><u>In 2024, Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-mobility-and-innovation-with-the-gen-12-x1-carbon-from-lenovo-the-latest-review-you-need-to-read/"><u>Revolutionizing Mobility and Innovation with the Gen 12 X1 Carbon From Lenovo – The Latest Review You Need to Read</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-game-capture-faceoff-evaluate-obs-and-shadowplay/"><u>[New] In 2024, Game Capture Faceoff Evaluate OBS & ShadowPlay</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts/"><u>[New] In 2024, Harness the Power of Video Editing Cropping to Perfect Instagram Posts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004506146-solved-far-cry-6-not-launching-on-pc/"><u>[SOLVED] 'Far Cry 6 Not Launching' On PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-11-tips-for-facebook-video-marketing-to-drive-more-traffic/"><u>[Updated] 11 Tips for Facebook Video Marketing to Drive More Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-online-platforms-for-youtube-media-growth/"><u>2024 Approved Top Online Platforms for YouTube Media Growth</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/download-free-recovery-images-for-dell-hp-lenovo-and-microsoft-surface-systems-using-windowslinux/"><u>Download FREE Recovery Images for Dell, HP, Lenovo & Microsoft Surface Systems Using Windows/Linux</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p55-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Itel P55 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-mac-studio-for-optimal-audiovisual-capture/"><u>In 2024, Ultimate Mac Studio for Optimal Audiovisual Capture</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-endures-ongoing-consequences-of-early-mobile-strategy-errors-a-10-year-review-zdnet/"><u>Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-post-antitrust-consequences-how-googles-courtroom-setback-reshapes-user-experience-and-shifts-future-search-dynamics-infosphere-blog/"><u>Navigating Post-Antitrust Consequences: How Google's Courtroom Setback Reshapes User Experience and Shifts Future Search Dynamics | InfoSphere Blog</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/revolutionize-your-desktop-efficiency-mastering-the-windows-11-taskbar-insights-by-zdnet/"><u>Revolutionize Your Desktop Efficiency: Mastering the Windows 11 Taskbar - Insights by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-werfaultexe-errors-on-your-pc-easily-with-these-6-strategies/"><u>Troubleshoot and Fix werFault.exe Errors on Your PC Easily with These 6 Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-calling-functions-on-your-android-phone/"><u>Ultimate Guide: Restoring Calling Functions on Your Android Phone</u></a></li>
 </ul></div>
 

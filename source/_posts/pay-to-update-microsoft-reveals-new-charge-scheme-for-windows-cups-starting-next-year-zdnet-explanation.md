@@ -1,7 +1,7 @@
 ---
 title: Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation
-date: 2024-09-18T22:04:11.170Z
-updated: 2024-09-25T18:22:30.028Z
+date: 2024-09-25T09:18:03.949Z
+updated: 2024-09-30T00:20:19.601Z
 tags:
   - windows
 categories:
@@ -40,10 +40,16 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -61,6 +67,13 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -68,10 +81,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -97,13 +110,6 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -111,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,19 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-moments-top-webcams-for-pcs-in-windows/"><u>[New] In 2024, Capturing Moments Top Webcams for PCs in Windows</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-comprehensive-review-of-next-gen-camera-systems-for-2024/"><u>A Comprehensive Review of Next-Gen Camera Systems for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decrease-ambience-tunes-windowsapple-compatible/"><u>Decrease Ambience Tunes Windows/Apple Compatible</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-motorola-moto-g34-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Moto G34 5G support MOV videos ?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716465486603-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-a25-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy A25 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pros-tips-capturing-slow-motion-on-gopro-hero-10-for-2024/"><u>Pro's Tips Capturing Slow Motion on GoPro Hero 10 for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-symbol-issues-a-step-by-step-guide/"><u>Solving '@' Symbol Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-screen-capture-contenders-a-comprehensive-review-for-2024/"><u>Top Screen Capture Contenders A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-decoding-the-underlying-messages-in-snapchats-symbolic-language/"><u>[New] 2024 Approved Decoding the Underlying Messages in Snapchat's Symbolic Language</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-watch-facebook-live-on-roku/"><u>[Updated] How to Watch Facebook Live on Roku?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/10-uncover-the-hidden-details/"><u>10 - Uncover the Hidden Details</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-taking-a-step-back-in-time-with-instagram-videos/"><u>2024 Approved Taking a Step Back in Time with Instagram Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-programs-from-your-windows-10-pc-howtogeek/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Programs From Your Windows 10 PC | HowToGeek</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-software-on-your-windows-10-pc-insights-from-zdnet/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Software on Your Windows 10 PC - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210428845-effective-ways-to-correct-and-stop-windows-update-error-code-0x802n4002e-from-affecting-your-pc/"><u>Effective Ways to Correct and Stop Windows Update Error Code 0X802n4002E From Affecting Your PC!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhanced-data-security-in-microsofts-latest-copilot-update-simplified-user-chats-insights-from-zdnet/"><u>Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-elite-hdr-camera-choices/"><u>In 2024, Navigating the World of Elite HDR Camera Choices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-interview-process-for-microsofts-tech-positions-insider-tips-and-strategies/"><u>Mastering the Interview Process for Microsoft's Tech Positions: Insider Tips and Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/powerful-and-sturdy-discover-the-best-windows-tablet-with-pen-for-enhanced-productivity-on-zdnet/"><u>Powerful and Sturdy: Discover the Best Windows Tablet With Pen for Enhanced Productivity on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reconfigure-your-macs-command-key-step-by-step-guide/"><u>Reconfigure Your Mac's Command Key: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps-for-2024/"><u>The Essential Guide to Video Hue Correction (11 Steps) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-non-vizio-non-jbl-soundbar-delivers-ultimate-audio-experience/"><u>Top-Ranking Non-Vizio, Non-JBL Soundbar Delivers Ultimate Audio Experience</u></a></li>
 </ul></div>
 

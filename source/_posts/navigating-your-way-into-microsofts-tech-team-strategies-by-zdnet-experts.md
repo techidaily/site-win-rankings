@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Into Microsoft's Tech Team - Strategies by ZDNet Experts
-date: 2024-09-23T20:59:05.719Z
-updated: 2024-09-25T17:44:05.070Z
+date: 2024-09-24T08:07:37.852Z
+updated: 2024-09-29T16:57:53.005Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-get-snapchat-on-mac-easy-guide/"><u>2024 Approved How to Get Snapchat on Mac? [Easy Guide]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/detailed-analysis-of-amd-ryzen-9-9950x-engineering-sample-benchmarked-using-blender-at-multiple-thermal-design-power-configurations-evidence-of-improved-per7/"><u>Detailed Analysis of AMD Ryzen 9 9950X 'Engineering Sample' Benchmarked Using Blender at Multiple Thermal Design Power Configurations - Evidence of Improved Performance Efficiency</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-bluetooth-audio-glitches-in-your-windows-pc-step-by-step-fixes/"><u>How to Eliminate Bluetooth Audio Glitches in Your Windows PC: Step-by-Step Fixes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-avi-gif-transformation-an-all-inclusive-guide-by-filmora-for-2024/"><u>Master AVI-GIF Transformation An All-Inclusive Guide by Filmora for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/microsoft-leader-claims-technology-key-to-true-employee-satisfaction-insights-from-zdnet/"><u>Microsoft Leader Claims Technology Key to True Employee Satisfaction - Insights From ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/perhaps-bing-has-no-real-chance-against-google-a-closer-look-revealed-by-zdnet/"><u>Perhaps Bing Has No Real Chance Against Google: A Closer Look Revealed by ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/prevent-system-crashes-with-easy-recovery-drive-setup-on-your-windows-pc-a-step-by-step-guide/"><u>Prevent System Crashes with Easy Recovery Drive Setup on Your Windows PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/save-big-with-zdnet-secure-microsofts-top-tier-pro-licenses-for-project-and-visio-at-only-20/"><u>Save Big with ZDNet: Secure Microsoft's Top-Tier Pro Licenses for Project and Visio at Only $20!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-microsoft-project-and-visio-professionals-for-a-steal-only-20-avaliable-now-with-exclusive-deal-from-zdnet/"><u>Secure Your Microsoft Project and Visio Professionals for a Steal – Only $20 Avaliable Now with Exclusive Deal From ZDNet!</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-shadowban-its-meaning-and-evasion-tactics/"><u>Unveiling Shadowban: Its Meaning & Evasion Tactics</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-take-your-audio-to-the-next-level-top-10-editing-software/"><u>Updated 2024 Approved Take Your Audio to the Next Level Top 10 Editing Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-blur-out-not-into-discovering-photo-clarity-web-tools/"><u>[New] Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dive-into-free-download-final-cut-pro/"><u>[Updated] Dive Into FREE Download Final Cut Pro</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-selection-of-classroom-laptops-and-desktops-your-complete-guide/"><u>Mastering the Selection of Classroom Laptops and Desktops: Your Complete Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/rhythm-and-recording-in-snapchat/"><u>Rhythm & Recording in Snapchat</u></a></li>
 </ul></div>
 

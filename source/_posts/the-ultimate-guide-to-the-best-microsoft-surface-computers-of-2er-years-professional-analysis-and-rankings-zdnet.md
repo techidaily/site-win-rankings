@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to the Best Microsoft Surface Computers of 2Er Years: Professional Analysis and Rankings | ZDNet"
-date: 2024-09-24T21:01:50.517Z
-updated: 2024-09-25T18:45:40.250Z
+date: 2024-09-28T02:08:54.289Z
+updated: 2024-09-30T10:10:59.346Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +148,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +208,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-entertainment-find-youtubes-best-narrators-of-23/"><u>[New] 2024 Approved Elevating Entertainment Find YouTube's Best Narrators of '23</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>[Updated] 2024 Approved 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-only-guide-youll-need-to-know-about-instagram-reels/"><u>[Updated] 2024 Approved The Only Guide You'll Need to Know About Instagram Reels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-building-an-engaging-listenership-through-rss-crafting/"><u>2024 Approved Building an Engaging Listenership Through RSS Crafting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-curated-compilation-of-online-videoaudio-magicians-for-2024/"><u>A Curated Compilation of Online Video/Audio Magicians for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/explore-microsoft-azures-latest-offering-radius-a-new-horizon-in-open-source-cloud-development-across-multiple-environments-techcrunch/"><u>Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-impact-of-windows-on-hybrid-work-evolution-with-microsoft-insights-zdnet/"><u>Exploring the Impact of Windows on Hybrid Work Evolution with Microsoft Insights - ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-elevating-care-delivery-through-effective-fb-ads/"><u>In 2024, Elevating Care Delivery Through Effective FB Ads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>In 2024, Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/s-camera-action-youtubes-17-essentials/"><u>Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/microsoft-endures-ongoing-consequences-of-early-mobile-strategy-errors-a-10-year-review-zdnet/"><u>Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-post-antitrust-consequences-how-googles-courtroom-setback-reshapes-user-experience-and-shifts-future-search-dynamics-infosphere-blog/"><u>Navigating Post-Antitrust Consequences: How Google's Courtroom Setback Reshapes User Experience and Shifts Future Search Dynamics | InfoSphere Blog</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/powerful-and-sturdy-discover-the-best-windows-tablet-with-pen-for-enhanced-productivity-on-zdnet/"><u>Powerful and Sturdy: Discover the Best Windows Tablet With Pen for Enhanced Productivity on ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reconfigure-your-macs-command-key-step-by-step-guide/"><u>Reconfigure Your Mac's Command Key: Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-free-screen-recorders-on-windows-10-for-2024/"><u>Top 5 Free Screen Recorders on Windows 10 for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-the-legitimacy-of-your-windows-software-a-comprehensive-guide/"><u>Understanding the Legitimacy of Your Windows Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>[Updated] 2024 Approved Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[Updated] In 2024, From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/advanced-archiving-preserving-full-fbm-call-history/"><u>Advanced Archiving Preserving Full FBM Call History</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chuckle-champions-twitters-comedy-corner-for-2024/"><u>Chuckle-Champions Twitter’s Comedy Corner for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iency-in-action-rapid-removal-of-youtube-discussions-for-2024/"><u>Efficiency in Action Rapid Removal of YouTube Discussions for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-enable-mov-playback-in-vlc-media-player-top-solutions/"><u>How to Enable MOV Playback in VLC Media Player – Top Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/innovative-and-inspiring-concepts-for-storing-your-dvd-collection/"><u>Innovative and Inspiring Concepts for Storing Your DVD Collection</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mp4-file/"><u>MP4 Fileからオーディオ形式への効果的な変換ガイド</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-on-windows-7/"><u>Quick & Simple Guide to Fast DVD Ripping on Windows 7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-in-the-rush-free-zone-unveiling-three-ways-to-slowdown-youtube-streams-62-chars-slightly-over-but-justified-with-context/"><u>Revel in the Rush-Free Zone Unveiling Three Ways to Slowdown YouTube Streams (62 Chars, Slightly over but Justified with Context)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-zte-nubia-z60-ultra-by-drfone-android/"><u>Three Ways to Sim Unlock ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-4-best-free-web-based-calendars-for-efficient-time-management/"><u>Top 4 Best Free Web-Based Calendars for Efficient Time Management</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big with ZDNet: Secure Microsoft's Top-Tier Pro Licenses for Project and Visio at Only $20!"
-date: 2024-09-19T19:10:37.867Z
-updated: 2024-09-25T18:57:06.460Z
+date: 2024-09-22T23:30:25.118Z
+updated: 2024-09-30T05:37:00.378Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-next-chapter-of-cinema-vr-revolution-for-2024/"><u>[New] The Next Chapter of Cinema VR Revolution for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovation-meets-tradition-the-best-frame-makers/"><u>[Updated] In 2024, Innovation Meets Tradition The Best Frame Makers</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ai-future-revealed-sam-altman-outlines-microsofts-roadmap-at-build-conference-insights-from-zdnet/"><u>AI Future Revealed: Sam Altman Outlines Microsoft's Roadmap at Build Conference - Insights From ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/black-friday-blowout-at-microsoft-store-snag-a-300-surface-go-2-or-score-an-acer-2-in-1-for-230-shop-now-on-zdnet/"><u>Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earning-insights-from-viewing-data-on-youtube-for-2024/"><u>Earning Insights From Viewing Data on YouTube for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-microsoft-surface-duo-2s-innovative-features-after-two-weeks-balancing-confusion-with-curiosity-zdnet/"><u>Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-world-of-artificial-intelligence-desktops-are-they-worth-your-investment/"><u>Exploring the World of Artificial Intelligence Desktops – Are They Worth Your Investment?</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-30i-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 30i Quickly | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-smart-8-hd-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Smart 8 HD Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/is-the-next-gen-windows-12-on-the-horizon-discover-exclusive-details-and-unexpected-forecasts-with-zdnets-deep-dive/"><u>Is the Next-Gen Windows 12 on the Horizon? Discover Exclusive Details and Unexpected Forecasts with ZDNet's Deep Dive</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-the-unfortunate-outcome/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – The Unfortunate Outcome</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/recording-success-how-to-grab-phonescreens-with-snapchat-easily-for-2024/"><u>Recording Success How to Grab Phonescreens with Snapchat Easily for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/super-bowl-commercials-soar-microsofts-copilot-and-temu-triumph-in-download-ratings-techzn/"><u>Super Bowl Commercials Soar: Microsoft's Copilot & Temu Triumph in Download Ratings | TechZN</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-beginners-guide-to-free-screen-capture-software/"><u>The Beginner's Guide to Free Screen Capture Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-ultimate-guide-to-the-best-microsoft-surface-computers-of-2er-years-professional-analysis-and-rankings-zdnet/"><u>The Ultimate Guide to the Best Microsoft Surface Computers of 2Er Years: Professional Analysis and Rankings | ZDNet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-video-editing-tools-you-need-to-know-for-2024/"><u>Top Video Editing Tools You Need to Know for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-the-secret-to-friends-livestream-participation/"><u>[Updated] 2024 Approved Discover the Secret to Friend's Livestream Participation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-inside-look-at-youtubes-creator-workshop-space/"><u>[Updated] Inside Look at YouTube's Creator Workshop Space</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>In 2024, Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-gskills-new-high-speed-ddr5-6400-32gb-ram-optimized-compatibility-with-intel-and-amd-processors-for-enhanced-performance/"><u>Introducing G.SKILL's New High-Speed DDR5-6400 32GB RAM: Optimized Compatibility with Intel and AMD Processors for Enhanced Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-roulette-top-strategies-for-tv-show-capture-for-2024/"><u>Recording Roulette Top Strategies for TV Show Capture for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-transferring-and-saving-disney-films-from-dvds/"><u>Step-by-Step Guide to Transferring & Saving Disney Films From DVDs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-recording-your-tiktok-live-streams-on-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Recording Your TikTok Live Streams on PC, Mac, Android & iOS Devices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-process-transforming-audio-files-into-engaging-youtube-videos/"><u>Step-by-Step Process: Transforming Audio Files Into Engaging YouTube Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-runners-companion-a-detailed-look-at-the-garmin-forerunner-945-feature-rich-watch-review/"><u>The Runner's Companion - A Detailed Look at the Garmin Forerunner 945 Feature-Rich Watch Review</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
 </ul></div>
 

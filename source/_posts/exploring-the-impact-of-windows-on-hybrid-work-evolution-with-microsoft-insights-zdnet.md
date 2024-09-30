@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Windows on Hybrid Work Evolution with Microsoft Insights - ZDNet
-date: 2024-09-19T20:57:04.466Z
-updated: 2024-09-25T16:25:47.942Z
+date: 2024-09-27T08:23:15.243Z
+updated: 2024-09-29T18:41:10.910Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets/"><u>[New] In 2024, Unlocking Potential How to Maximize Whiteboards in Zoom Meets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-trending-topics-tally-10-tweets-triumphing-for-2024/"><u>[Updated] Trending Topics Tally 10 Tweets Triumphing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>2024 Approved Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-practices-for-incorporating-b-footage-in-projects-for-2024/"><u>Best Practices for Incorporating B-Footage in Projects for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/black-friday-blowout-at-microsoft-store-snag-a-300-surface-go-2-or-score-an-acer-2-in-1-for-230-shop-now-on-zdnet/"><u>Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/download-free-recovery-images-for-dell-hp-lenovo-and-microsoft-surface-systems-using-windowslinux/"><u>Download FREE Recovery Images for Dell, HP, Lenovo & Microsoft Surface Systems Using Windows/Linux</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/explore-microsoft-azures-latest-offering-radius-a-new-horizon-in-open-source-cloud-development-across-multiple-environments-techcrunch/"><u>Explore Microsoft Azure's Latest Offering: Radius – A New Horizon in Open-Source Cloud Development Across Multiple Environments | TechCrunch</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-microsoft-surface-duo-2s-innovative-features-after-two-weeks-balancing-confusion-with-curiosity-zdnet/"><u>Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/free-to-use-vimeo-tips-to-master-your-videos/"><u>Free-to-Use Vimeo Tips to Master Your Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-out-of-your-speakers-instant-download-of-realtek-asio-driver-for-windows-10-users/"><u>Get the Best Out of Your Speakers: Instant Download of Realtek Asio Driver for Windows 10 Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/revolutionize-your-desktop-efficiency-mastering-the-windows-11-taskbar-insights-by-zdnet/"><u>Revolutionize Your Desktop Efficiency: Mastering the Windows 11 Taskbar - Insights by ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-11-update-costs-microsoft-introduces-new-annual-fee-starting-next-year-learn-the-expected-prices/"><u>Windows 11 Update Costs: Microsoft Introduces New Annual Fee Starting Next Year - Learn the Expected Prices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-microsoft-audio-driver-in-windows/"><u>[Download] Microsoft Audio Driver In Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-recommendations-high-quality-mac-video-grabber-tools/"><u>[Updated] In 2024, Expert Recommendations High-Quality Mac Video Grabber Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/key-components-in-upgrading-from-standard-to-4k-lenses/"><u>Key Components in Upgrading From Standard to 4K Lenses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching/"><u>New In 2024, Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-on-windows-7/"><u>Quick & Simple Guide to Fast DVD Ripping on Windows 7</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/shrink-your-sounds-mastering-vlcs-audio-compression-techniques/"><u>Shrink Your Sounds: Mastering VLC's Audio Compression Techniques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-recording-your-tiktok-live-streams-on-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Recording Your TikTok Live Streams on PC, Mac, Android & iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-camon-20-premier-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Camon 20 Premier 5G ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
 

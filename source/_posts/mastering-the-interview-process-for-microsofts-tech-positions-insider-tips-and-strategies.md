@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Interview Process for Microsoft's Tech Positions: Insider Tips and Strategies"
-date: 2024-09-23T16:00:27.171Z
-updated: 2024-09-25T21:32:24.334Z
+date: 2024-09-28T03:59:55.030Z
+updated: 2024-09-29T16:27:03.029Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-start-to-finish-itunes-video-logging/"><u>[New] 2024 Approved From Start to Finish ITunes Video Logging</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-decoding-youtubes-srt-download-with-3-methods-for-2024/"><u>[Updated] Decoding YouTube's SRT Download with 3 Methods for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-exploring-biggest-fifa-footage-trends-in-graphics-for-2024/"><u>[Updated] Exploring Biggest FIFA Footage Trends in Graphics for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-14-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 14 Apple ID on MacBook</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g24-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G24 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-google-pixel-8-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Google Pixel 8 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476919329-quickly-resolve-your-iphone-and-ipad-widget-issues-with-these-10-tips/"><u>Quickly Resolve Your iPhone and iPad Widget Issues with These 10 Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-ensuring-smooth-device-integration-post-windows-11-update/"><u>Step-by-Step Guide: Ensuring Smooth Device Integration Post Windows 11 Update</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-melody-rights-on-instagram-a-full-breakdown/"><u>[New] 2024 Approved Navigating Melody Rights on Instagram A Full Breakdown</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] 2024 Approved How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cool-climates-with-a-warm-twist-selecting-video-bgs-for-2024/"><u>[Updated] Cool Climates with a Warm Twist Selecting Video Bg's for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a15-4g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A15 4G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-comprehensive-list-of-microsoft-business-applications-ios-2022-edition/"><u>Best Comprehensive List of Microsoft Business Applications (iOS) - 2022 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cross-promotion-mastery-sharing-igtv-to-fb/"><u>Cross-Promotion Mastery Sharing IGTV to FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-external-monitors-without-graphics-card/"><u>Enabling External Monitors without Graphics Card</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhanced-data-security-in-microsofts-latest-copilot-update-simplified-user-chats-insights-from-zdnet/"><u>Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-impact-of-windows-on-hybrid-work-evolution-with-microsoft-insights-zdnet/"><u>Exploring the Impact of Windows on Hybrid Work Evolution with Microsoft Insights - ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco Phone?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-precision-editing-harnessing-photoshops-eraser/"><u>In 2024, Precision Editing Harnessing Photoshop’s Eraser</u></a></li>
+<li><a href="https://facebook.techidaily.com/leading-your-facebook-collective-with-strong-standards/"><u>Leading Your Facebook Collective with Strong Standards</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-endures-ongoing-consequences-of-early-mobile-strategy-errors-a-10-year-review-zdnet/"><u>Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet</u></a></li>
 </ul></div>
 

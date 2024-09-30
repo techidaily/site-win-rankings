@@ -1,7 +1,7 @@
 ---
 title: "Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet"
-date: 2024-09-22T18:22:26.480Z
-updated: 2024-09-25T16:32:15.775Z
+date: 2024-09-29T01:46:12.013Z
+updated: 2024-09-29T16:27:34.863Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-survivors-guide-top-6-mc-house-plans/"><u>[New] 2024 Approved Survivor's Guide Top 6 MC House Plans</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge-for-2024/"><u>[Updated] Instagram Reels Harnessing TikTok Secrets for Popularity Surge for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ace-your-tweets-expert-reviews-of-top-ranked-twitter-client-tools-and-services/"><u>Ace Your Tweets: Expert Reviews of Top-Ranked Twitter Client Tools and Services</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a79-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A79 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-k70-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi K70 Pro Device SIM</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-v/"><u>New 2024 Approved Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outstanding-oneplus/"><u>Outstanding OnePlus</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-res-aerial-showdown-dji-vs-gopro-capture/"><u>[New] High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>[New] Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/10-uncover-the-hidden-details/"><u>10 - Uncover the Hidden Details</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comparing-leading-free-and-paid-zoom-transcription-systems/"><u>2024 Approved Comparing Leading Free & Paid Zoom Transcription Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-pinnacle-eight-video-recording-apps/"><u>2024 Approved Pinnacle Eight Video Recording Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/automatic-pet-feeder-review-a-balanced-approach-to-managing-your-pets-diet-with-petsafe/"><u>Automatic Pet Feeder Review: A Balanced Approach to Managing Your Pet's Diet with PetSafe</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-programs-from-your-windows-10-pc-howtogeek/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Programs From Your Windows 10 PC | HowToGeek</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-eliminating-unwanted-pre-installed-software-on-your-windows-10-pc-insights-from-zdnet/"><u>Complete Guide: Eliminating Unwanted Pre-Installed Software on Your Windows 10 PC - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-lite-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Lite 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y78plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y78+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/steve-ballmer-ex-microsoft-leader-concedes-to-absence-of-valor-insights-from-zdnet/"><u>Steve Ballmer, Ex-Microsoft Leader, Concedes to Absence of Valor - Insights From ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-surprising-return-of-ms-dos-microsoft-and-ibm-release-open-source-v40-explore-more-at-zdnet/"><u>The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/ultimate-verdict-testing-the-reliability-of-the-185wh-50000mah-battery-pack-by-maxoak/"><u>Ultimate Verdict: Testing the Reliability of the 185Wh / 50,000mAh Battery Pack by MaxOak</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A79 5G? | Dr.fone</u></a></li>
 </ul></div>
 

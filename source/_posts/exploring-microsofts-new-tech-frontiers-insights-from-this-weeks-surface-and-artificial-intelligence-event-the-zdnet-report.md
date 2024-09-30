@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report"
-date: 2024-09-23T17:40:13.969Z
-updated: 2024-09-25T21:45:36.095Z
+date: 2024-09-26T17:27:56.648Z
+updated: 2024-09-30T08:09:36.299Z
 tags:
   - microsoft
 categories:
@@ -114,30 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-how-youtube-picks-most-engaging-comments/"><u>[New] In 2024, Exploring How YouTube Picks Most Engaging Comments</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[Updated] In 2024, 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-race-away-slow-motion-on-your-android-device/"><u>2024 Approved Race Away Slow Motion on Your Android Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/budget-friendly-popsockets-for-iphones-featuring-integrated-magsafe-payment-storage-solutions/"><u>Budget-Friendly PopSockets for iPhones Featuring Integrated MagSafe Payment Storage Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dji-air-2s-review-the-best-drone/"><u>DJI Air 2S Review: The Best Drone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-frequent-crashes-in-thunder-tier-one-gaming-on-your-computer/"><u>How to Fix Frequent Crashes in Thunder Tier One Gaming on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-common-pitfalls-in-setting-up-amd-gpu-drivers-correctly/"><u>Overcoming Common Pitfalls in Setting Up AMD GPU Drivers Correctly</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-transferring-and-saving-disney-films-from-dvds/"><u>Step-by-Step Guide to Transferring & Saving Disney Films From DVDs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-recording-your-tiktok-live-streams-on-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Recording Your TikTok Live Streams on PC, Mac, Android & iOS Devices</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-process-transforming-audio-files-into-engaging-youtube-videos/"><u>Step-by-Step Process: Transforming Audio Files Into Engaging YouTube Videos</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-perfect-videos-in-total-quietude/"><u>[New] In 2024, How To Record Perfect Videos in Total Quietude</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[Updated] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-time-extension/"><u>[Updated] Unlocking the Potential of Time Extension</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm57ch5y2y44gr5l2c44km44kl44kv44oq44k544oe44k544op44kk44oi6kof6aoplus44gu44ob44ol44o844oi44oq44ki44or77ya44gk44gg44gh44gn5ael44kb44ki44gg44cn/"><u>「簡単に作れるクリスマスライト装飾のチュートリアル：おうちで始めよう」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-engaging-strategies-for-amplifying-your-youtube-fanbase/"><u>2024 Approved Engaging Strategies for Amplifying Your YouTube Fanbase</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-top-ios-psp-emulation-tools-for-gamers-for-2024/"><u>Exploring Top iOS PSP Emulation Tools for Gamers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-the-higher-expense-worth-it-a-comprehensive-review-of-keychrons-q5-mechanical-keyboard-on-zdnet/"><u>Is the Higher Expense Worth It? A Comprehensive Review of Keychron's Q5 Mechanical Keyboard on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-cross-platform-data-transfer-connect-your-windows-computer-and-android-with-google-quick-share/"><u>Mastering Cross-Platform Data Transfer: Connect Your Windows Computer & Android with Google Quick Share</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsofts-security-forum-examines-strategies-against-potential-worldwide-tech-crisis-can-they-deliver/"><u>Microsoft's Security Forum Examines Strategies Against Potential Worldwide Tech Crisis - Can They Deliver?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/new-features-unveiled-in-windows-11-update-enhanced-android-integration-and-quick-voice-typing/"><u>New Features Unveiled in Windows 11 Update: Enhanced Android Integration & Quick Voice Typing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/pay-to-update-microsoft-reveals-new-charge-scheme-for-windows-cups-starting-next-year-zdnet-explanation/"><u>Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/prepare-your-budget-microsoft-announces-costly-windows-11-updates-beginning-next-year-insights-from-zdnet/"><u>Prepare Your Budget: Microsoft Announces Costly Windows 11 Updates Beginning Next Year - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/say-goodbye-to-macbook-air-discover-the-lightweight-powerful-windows-companion-featured-on-zdnet/"><u>Say Goodbye to MacBook Air: Discover the Lightweight, Powerful Windows Companion Featured on ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/single-inbox-zero-junk-mail-proven-methods-from-zdnets-top-tips-on-keeping-unwanted-email-at-bay/"><u>Single Inbox, Zero Junk Mail: Proven Methods From ZDNet's Top Tips on Keeping Unwanted Email at Bay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A25 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-t2-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo T2 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
