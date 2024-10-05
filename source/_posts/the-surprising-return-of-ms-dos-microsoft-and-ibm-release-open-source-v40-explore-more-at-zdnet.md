@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET"
-date: 2024-09-27T18:59:28.614Z
-updated: 2024-09-30T04:58:01.255Z
+date: 2024-09-28T17:00:53.120Z
+updated: 2024-10-05T16:16:10.642Z
 tags:
   - microsoft
 categories:
@@ -114,27 +114,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-words-to-wax-mastering-voice-note-techniques/"><u>[New] 2024 Approved From Words to Wax Mastering Voice Note Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-comprehensive-walkthrough-creating-channel-banners/"><u>[New] A Comprehensive Walkthrough Creating Channel Banners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>[New] Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-nostalgic-compassion-preferred-android-emulators-for-3ds-for-2024/"><u>[Updated] Nostalgic Compassion Preferred Android Emulators for 3DS for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-asus-realtek-sound-card-software-no-cost/"><u>Download ASUS Realtek Sound Card Software - No Cost</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-fixes-reactivating-voice-chats-in-among-us-for-windows-players/"><u>Essential Fixes: Reactivating Voice Chats in Among Us for Windows Players</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30i-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix Hot 30i Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-k70-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi K70 FRP</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-your-way-into-microsofts-tech-team-strategies-by-zdnet-experts/"><u>Navigating Your Way Into Microsoft's Tech Team - Strategies by ZDNet Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/perhaps-bing-has-no-real-chance-against-google-a-closer-look-revealed-by-zdnet/"><u>Perhaps Bing Has No Real Chance Against Google: A Closer Look Revealed by ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/prevent-system-crashes-with-easy-recovery-drive-setup-on-your-windows-pc-a-step-by-step-guide/"><u>Prevent System Crashes with Easy Recovery Drive Setup on Your Windows PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/save-big-with-zdnet-secure-microsofts-top-tier-pro-licenses-for-project-and-visio-at-only-20/"><u>Save Big with ZDNet: Secure Microsoft's Top-Tier Pro Licenses for Project and Visio at Only $20!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-microsoft-project-and-visio-professionals-for-a-steal-only-20-avaliable-now-with-exclusive-deal-from-zdnet/"><u>Secure Your Microsoft Project and Visio Professionals for a Steal – Only $20 Avaliable Now with Exclusive Deal From ZDNet!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/steve-ballmer-ex-microsoft-leader-concedes-to-absence-of-valor-insights-from-zdnet/"><u>Steve Ballmer, Ex-Microsoft Leader, Concedes to Absence of Valor - Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>[New] 2024 Approved Unlock Video Insights Mastering YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-narratives-before-night-an-analysis-of-storytelling-videos/"><u>2024 Approved Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-of-the-beat-the-ultimate-ranking-of-top-10-watched-youtubes-in-music-2013-unlocking-viral-beats-spotlight-on-2014s-top-10-youtube-sensations/"><u>Best of the Beat: The Ultimate Ranking of Top 10 Watched YouTubes in Music, 201#3: 'Unlocking Viral Beats: Spotlight on 2014'S Top 10 YouTube Sensations!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compatibilidad-de-av1-con-plex-como-ver-contenido-avanzado/"><u>Compatibilidad De AV1 Con Plex: Cómo Ver Contenido Avanzado</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-the-latest-aio-zip-package-of-mx-player-includes-eac3-codec-v1490/"><u>Get the Latest AIO ZIP Package of MX Player - Includes EAC3 Codec [V1.49.0]</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-does-youtube-request-video-converter-access-comprehensive-malwarecare-tutorial/"><u>How Does YouTube Request Video Converter Access? Comprehensive MalwareCare Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-find-x6-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Find X6 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-s23-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy S23 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-your-pdf-safe-from-malware-tips-for-identifying-dangerous-pdf-files/"><u>Is Your PDF Safe From Malware? Tips for Identifying Dangerous PDF Files</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/master-the-process-of-converting-wav-recordings-to-compressed-m4a-format/"><u>Master the Process of Converting WAV Recordings to Compressed M4A Format</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

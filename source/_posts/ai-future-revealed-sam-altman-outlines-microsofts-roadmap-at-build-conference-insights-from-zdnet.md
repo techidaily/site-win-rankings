@@ -1,7 +1,7 @@
 ---
 title: "AI Future Revealed: Sam Altman Outlines Microsoft's Roadmap at Build Conference - Insights From ZDNet"
-date: 2024-09-25T09:32:33.281Z
-updated: 2024-09-30T10:32:26.676Z
+date: 2024-09-28T19:50:52.507Z
+updated: 2024-10-05T18:04:55.592Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-deeper-look-into-magix-visual-processing/"><u>[New] A Deeper Look Into MAGIX Visual Processing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-instruction-loading-windows-movie-maker-60/"><u>[Updated] In 2024, Step-by-Step Instruction Loading Windows Movie Maker 6.0</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-industry-leaders-top-notch-free-presentation-resources/"><u>2024 Approved Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/webpgif8-webpgif/"><u>人気のWebPとGIFフォルト自動変換無料ツールトップ8 - WebP・GIF対応スイチャーソフト</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convertisseur-video-rapide-changer-facilement-mpeg-en-wav-gratuitement-sur-movevia/"><u>Convertisseur Vidéo Rapide : Changer Facilement MPEG en WAV Gratuitement Sur MoveVia</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-adventure-to-audience-transforming-gopro-footage-with-social-media/"><u>From Adventure to Audience Transforming Gopro Footage with Social Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-v5-edge-versus-nikon-km-170-ultimate-comparison/"><u>In 2024, GoPro V5 Edge Versus Nikon KM-170 Ultimate Comparison</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y100-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y100 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-release-magicard-rio-pro-driver-game-enthusiasts-available-for-win-10817-users/"><u>Latest Release: Magicard Rio Pro Driver Game Enthusiasts! Available for Win 10/8.1/7 Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-process-transforming-audio-files-into-engaging-youtube-videos/"><u>Step-by-Step Process: Transforming Audio Files Into Engaging YouTube Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20c-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-dvd-issues-solving-the-problem-of-vlc-not-playing-dvds-in-windows-11/"><u>Troubleshooting DVD Issues: Solving the Problem of VLC Not Playing DVDs in Windows 11</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-guide-mastering-movie-downloads-with-myflixer/"><u>Ultimate Guide: Mastering Movie Downloads with MyFlixer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-tutorial-on-watermark-free-webm-file-editing-using-open-source-tools/"><u>Ultimate Tutorial on Watermark-Free WebM File Editing Using Open Source Tools</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unlocking-sound-3-painless-gratis-techniques-for-retrieving-audio-from-flv-formats/"><u>Unlocking Sound: 3 Painless, Gratis Techniques for Retrieving Audio From Flv Formats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiently-downloading-youtube-sections-in-minutes/"><u>[New] 2024 Approved Efficiently Downloading YouTube Sections in Minutes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-elegance-ideal-websites-for-photo-framing/"><u>[New] Capturing Elegance Ideal Websites for Photo Framing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>[New] Find the Perfect Mix Funny, Touching IG Meme Stories of Ten</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-bring-your-stories-alive-techniques-for-animation-in-text/"><u>[New] In 2024, Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-camon-30-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Camon 30 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-of-the-beat-the-ultimate-ranking-of-top-10-watched-youtubes-in-music-2013-unlocking-viral-beats-spotlight-on-2014s-top-10-youtube-sensations/"><u>Best of the Beat: The Ultimate Ranking of Top 10 Watched YouTubes in Music, 201#3: 'Unlocking Viral Beats: Spotlight on 2014'S Top 10 YouTube Sensations!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/exploring-performance-in-depth-look-at-lenovos-yoga-slim-7x-and-the-state-of-windows-on-arm-with-qualcomm-snapdragon/"><u>Exploring Performance: In-Depth Look at Lenovo's Yoga Slim 7X and the State of Windows on ARM with Qualcomm Snapdragon</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-does-youtube-request-video-converter-access-comprehensive-malwarecare-tutorial/"><u>How Does YouTube Request Video Converter Access? Comprehensive MalwareCare Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y200e-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y200e 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-it-possible-for-malware-to-propagate-via-wi-fi-networks-without-physical-connection/"><u>Is It Possible for Malware to Propagate via Wi-Fi Networks Without Physical Connection?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-your-pdf-safe-from-malware-tips-for-identifying-dangerous-pdf-files/"><u>Is Your PDF Safe From Malware? Tips for Identifying Dangerous PDF Files</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-rated-tool-for-editing-picture-backdrops-transform-your-images-with-ease/"><u>Top-Rated Tool for Editing Picture Backdrops: Transform Your Images with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-guide-effortless-import-of-vcf-file-into-your-android-phone/"><u>Ultimate Guide: Effortless Import of VCF File Into Your Android Phone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

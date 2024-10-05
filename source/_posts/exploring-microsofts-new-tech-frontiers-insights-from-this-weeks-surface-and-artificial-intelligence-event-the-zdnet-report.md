@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report"
-date: 2024-09-26T17:27:56.648Z
-updated: 2024-09-30T08:09:36.299Z
+date: 2024-10-03T20:39:34.220Z
+updated: 2024-10-05T17:18:54.453Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,22 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-perfect-videos-in-total-quietude/"><u>[New] In 2024, How To Record Perfect Videos in Total Quietude</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[Updated] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-time-extension/"><u>[Updated] Unlocking the Potential of Time Extension</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44cm57ch5y2y44gr5l2c44km44kl44kv44oq44k544oe44k544op44kk44oi6kof6aoplus44gu44ob44ol44o844oi44oq44ki44or77ya44gk44gg44gh44gn5ael44kb44ki44gg44cn/"><u>「簡単に作れるクリスマスライト装飾のチュートリアル：おうちで始めよう」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-engaging-strategies-for-amplifying-your-youtube-fanbase/"><u>2024 Approved Engaging Strategies for Amplifying Your YouTube Fanbase</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/exploring-top-ios-psp-emulation-tools-for-gamers-for-2024/"><u>Exploring Top iOS PSP Emulation Tools for Gamers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/is-the-higher-expense-worth-it-a-comprehensive-review-of-keychrons-q5-mechanical-keyboard-on-zdnet/"><u>Is the Higher Expense Worth It? A Comprehensive Review of Keychron's Q5 Mechanical Keyboard on ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-cross-platform-data-transfer-connect-your-windows-computer-and-android-with-google-quick-share/"><u>Mastering Cross-Platform Data Transfer: Connect Your Windows Computer & Android with Google Quick Share</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/microsofts-security-forum-examines-strategies-against-potential-worldwide-tech-crisis-can-they-deliver/"><u>Microsoft's Security Forum Examines Strategies Against Potential Worldwide Tech Crisis - Can They Deliver?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/new-features-unveiled-in-windows-11-update-enhanced-android-integration-and-quick-voice-typing/"><u>New Features Unveiled in Windows 11 Update: Enhanced Android Integration & Quick Voice Typing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/pay-to-update-microsoft-reveals-new-charge-scheme-for-windows-cups-starting-next-year-zdnet-explanation/"><u>Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/prepare-your-budget-microsoft-announces-costly-windows-11-updates-beginning-next-year-insights-from-zdnet/"><u>Prepare Your Budget: Microsoft Announces Costly Windows 11 Updates Beginning Next Year - Insights From ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/say-goodbye-to-macbook-air-discover-the-lightweight-powerful-windows-companion-featured-on-zdnet/"><u>Say Goodbye to MacBook Air: Discover the Lightweight, Powerful Windows Companion Featured on ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/single-inbox-zero-junk-mail-proven-methods-from-zdnets-top-tips-on-keeping-unwanted-email-at-bay/"><u>Single Inbox, Zero Junk Mail: Proven Methods From ZDNet's Top Tips on Keeping Unwanted Email at Bay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a25-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A25 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-t2-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo T2 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-simple-screen-capture-techniques-to-grab-youtube-soundtracks/"><u>[New] 2024 Approved Simple Screen-Capture Techniques to Grab YouTube Soundtracks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-exploring-options-for-advanced-livestreaming-setups/"><u>[Updated] 2024 Approved Exploring Options for Advanced Livestreaming Setups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-latest-powerhouses-the-ryzen-9-5900xt-and-ryzen-7-5800xt-launch-today-save-big-with-prices-from-249-to-349-leading-the-previous-generation-ryzen-5000-s4/"><u>AMD's Latest Powerhouses: The Ryzen 9 5900XT & Ryzen 7 5800XT Launch Today – Save Big with Prices From $249 to $349, Leading the Previous Generation Ryzen 5000 Series</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-methods-to-reboot-your-pc-on-windows-8/"><u>Effective Methods to Reboot Your PC on Windows 8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/empowering-low-vision-individuals-essential-iphone-features-to-know/"><u>Empowering Low-Vision Individuals: Essential iPhone Features to Know</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/practical-strategies-for-recording-on-the-clubhouse-platform/"><u>Practical Strategies for Recording on the Clubhouse Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-mic-for-effective-zoom-communications-on-microsofts-latest-operating-systems/"><u>Reviving Your Mic for Effective Zoom Communications on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/seamless-conversion-tactics-switching-your-video-from-vob-to-avi-with-ease/"><u>Seamless Conversion Tactics: Switching Your Video From VOB to AVI with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-utilizing-apowerrecover-for-file-recovery/"><u>Step-by-Step Tutorial on Utilizing ApowerRecover for File Recovery</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
