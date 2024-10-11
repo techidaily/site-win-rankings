@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet"
-date: 2024-10-02T20:05:41.432Z
-updated: 2024-10-05T19:30:24.892Z
+date: 2024-10-05T20:30:32.490Z
+updated: 2024-10-11T04:07:26.220Z
 tags:
   - windows
 categories:
@@ -44,16 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,16 +187,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-efficiently-design-your-google-image-mosaic-today/"><u>[New] In 2024, Efficiently Design Your Google Image Mosaic Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-15-great-online-photo-editing-tools-2023-free/"><u>[Updated] Ultimate Guide 15 Great Online Photo Editing Tools 2023 (Free)</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-ultimate-guide-to-mastering-samsung-kies-tips-and-techniques-for-effortless-data-backup-and-restoration/"><u>1. Ultimate Guide to Mastering Samsung Kies: Tips & Techniques for Effortless Data Backup and Restoration</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-a-new-era-for-cameras-exploring-the-multicam-revolution/"><u>2024 Approved A New Era for Cameras Exploring the MultiCam Revolution</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/acid-pro-insights-and-looking-for-alternatives-for-2024/"><u>ACID Pro Insights & Looking for Alternatives for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-cognitive-conclaves-educational-yt-powerhouses/"><u>In 2024, Cognitive Conclaves Educational YT Powerhouses</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-cs-go-playbacks-your-ultimate-tutorial-on-video-recording-strategies/"><u>Mastering the Art of CS Go Playbacks: Your Ultimate Tutorial on Video Recording Strategies</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/simple-methods-for-moving-songs-from-your-iphone-4s-to-iphone-6/"><u>Simple Methods for Moving Songs From Your iPhone 4S to iPhone 6</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-35-strategies-to-thwart-ransomware-attacks-insights-from-malwarefox/"><u>Top 35 Strategies to Thwart Ransomware Attacks – Insights From MalwareFox</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-tips-mastering-chatgpt-for-effective-freelancing/"><u>Top Tips: Mastering ChatGPT for Effective Freelancing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-adding-media-instagrams-guide-for-2024/"><u>[New] Adding Media Instagram's Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/inge-worthy-content-crafting-episodes-that-viewers-love/"><u>[New] Binge-Worthy Content Crafting Episodes That Viewers Love</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimal-ram-assignment-for-superior-minecraft-gaming-for-2024/"><u>[New] Optimal Ram Assignment for Superior Minecraft Gaming for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-free-tool-your-android-unhindered-for-2024/"><u>[Updated] Best Free Tool Your Android, Unhindered for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastered-moments-top-tunes-from-googles-platform/"><u>2024 Approved Mastered Moments Top Tunes From Google's Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-vs-free-gpt-4-showdown-unveiling-the-top-6-advantages-for-loyal-subscribers/"><u>ChatGPT Plus vs Free GPT-4 Showdown: Unveiling the Top 6 Advantages for Loyal Subscribers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-retrieving-files-from-an-unresponsive-ios-device/"><u>Complete Guide: Retrieving Files From an Unresponsive iOS Device</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-step-by-step-tutorial-capturing-screenshots-on-your-acer-device/"><u>Complete Step-by-Step Tutorial: Capturing Screenshots on Your Acer Device</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-leading-replacements-for-bearshare-you-shouldnt-miss/"><u>Discover the Leading Replacements for BearShare You Shouldn't Miss!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-guide-capturing-your-windows-10-screen-without-hiccups/"><u>Easy Guide: Capturing Your Windows 10 Screen Without Hiccups</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fixing-issues-with-screenr-effective-strategies-and-tips/"><u>Fixing Issues with Screenr: Effective Strategies and Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-pro-with-manycam-advanced-webcam-and-softcam-functionality/"><u>Live Streaming Pro with ManyCam: Advanced Webcam and SoftCam Functionality</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-recording-anywhere-saving-your-favorite-shows-from-amazons-library/"><u>Mastering the Art of Recording Anywhere: Saving Your Favorite Shows From Amazon's Library</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/seamless-syncing-transferring-ios-display-to-panasonic-tv-with-ease/"><u>Seamless Syncing: Transferring iOS Display to Panasonic TV with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-your-savvy-purchases-smart-shoppers-guide-to-preventing-cyber-threats-courtese-of-malwarefox/"><u>Secure Your Savvy Purchases: Smart Shopper's Guide to Preventing Cyber Threats, Courtese of MalwareFox</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-windows-11-movie-file-saving/"><u>Step-by-Step Windows 11 Movie File Saving</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-6-ultimate-tools-for-a-perfect-video-logo-swap-discover-here/"><u>Top 6 Ultimate Tools for a Perfect Video Logo Swap - Discover Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-smartwatches-predictions-on-apple-watch-ultra-2-specs-launch-window-and-market-pricing/"><u>What's Next for Smartwatches? Predictions on Apple Watch Ultra 2 Specs, Launch Window & Market Pricing</u></a></li>
 </ul></div>
 

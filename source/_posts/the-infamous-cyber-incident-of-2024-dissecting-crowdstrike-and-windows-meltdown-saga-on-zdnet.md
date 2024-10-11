@@ -1,7 +1,7 @@
 ---
 title: "The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET"
-date: 2024-09-30T16:04:45.977Z
-updated: 2024-10-05T17:00:19.348Z
+date: 2024-10-09T00:10:42.846Z
+updated: 2024-10-11T01:24:43.095Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +181,19 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>[New] Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>[Updated] 2024 Approved Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-new-normal-for-vr-industry-insights/"><u>[Updated] The New Normal for VR Industry Insights</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-tutorial-on-how-to-replicate-content-between-samsung-mobile-and-pc-systems/"><u>Complete Tutorial on How to Replicate Content Between Samsung Mobile and PC Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>In 2024, Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>In 2024, The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-for-enhanced-user-experience-and-compliance/"><u>Leveraging Cookiebot for Enhanced User Experience and Compliance</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-screen-photography-on-iphone-xs/"><u>Mastering the Art of Screen Photography on iPhone XS</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/phonemanagerpro-v20-by-apowersoft-latest-update-now-available/"><u>PhoneManagerPro v2.0 by Apowersoft: Latest Update Now Available</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-windows-11-against-spying-comprehensive-guide-to-privacy-remedies-and-malwarefox-insights/"><u>Secure Windows 11 Against Spying: Comprehensive Guide to Privacy Remedies and MalwareFox Insights</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-how-to-successfully-play-johnny-trigger-on-a-personal-pc/"><u>Step-by-Step Tutorial: How To Successfully Play Johnny Trigger on a Personal PC</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/superior-options-replacing-vocaroo-expert-tools-for-web-based-voice-capture/"><u>Superior Options Replacing Vocaroo: Expert Tools for Web-Based Voice Capture</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unveiling-apowercompress-the-latest-tool-packed-with-exceptional-functionality/"><u>Unveiling ApowerCompress: The Latest Tool Packed With Exceptional Functionality</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-live-stream-magic-setting-up-logitech-cam-for-videos/"><u>[New] 2024 Approved Live-Stream Magic Setting Up Logitech Cam for Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-customize-twitter-video-image-for-2024/"><u>[Updated] Customize Twitter Video Image for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-melody-seeker-find-mp3-on-fb/"><u>[Updated] Melody Seeker Find MP3 on FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-is-av1-better-than-vp9-learn-it-here/"><u>2024 Approved Is AV1 Better Than VP9? Learn It Here</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-superior-pandora-replacements-for-an-unmatched-internet-radio-experience/"><u>Discover Superior Pandora Replacements for an Unmatched Internet Radio Experience</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-steps-to-modify-pdf-files-using-google-drive-or-google-docs/"><u>Easy Steps to Modify PDF Files Using Google Drive or Google Docs</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-windows-and-wsl-after-a-major-update/"><u>Harmonizing Windows and WSL After a Major Update</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-multifunctionality-with-hp-chromebook-11-a-top-pick-for-students-professionals-and-gamers/"><u>Mastering Multifunctionality with HP Chromebook 11 - A Top Pick for Students, Professionals, & Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/offizielle-gewinn-codes-fur-winx-dvd-ripper-premium-sonderangebote-und-ermassigungen/"><u>OFFIZIELLE Gewinn-Codes Für WinX DVD Ripper Premium – Sonderangebote Und Ermäßigungen</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-resolve-malwarebytes-cannot-connect-to-services-issue/"><u>Step-by-Step Guide to Resolve 'Malwarebytes Cannot Connect to Services' Issue</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-finest-no-cost-task-management-tools-boost-your-organizational-skills-with-these-7-picks/"><u>The Finest No-Cost Task Management Tools: Boost Your Organizational Skills with These 7 Picks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-rated-phone-sync-software-best-contact-backup-solutions/"><u>Top-Rated Phone Sync Software: Best Contact Backup Solutions</u></a></li>
 </ul></div>
 

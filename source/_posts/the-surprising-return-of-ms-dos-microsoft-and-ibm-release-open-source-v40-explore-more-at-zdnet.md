@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Return of MS-DOS: Microsoft and IBM Release Open Source v4.0 - Explore More at ZDNET"
-date: 2024-09-28T17:00:53.120Z
-updated: 2024-10-05T16:16:10.642Z
+date: 2024-10-05T22:50:39.964Z
+updated: 2024-10-10T16:43:01.372Z
 tags:
   - microsoft
 categories:
@@ -114,24 +114,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>[New] 2024 Approved Unlock Video Insights Mastering YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-narratives-before-night-an-analysis-of-storytelling-videos/"><u>2024 Approved Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfect-your-content-mix-horizontal-videos-on-the-igtv-stage/"><u>[New] 2024 Approved Perfect Your Content Mix Horizontal Videos on the IGTV Stage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-peek-into-the-heart-of-youtubes-video-operations-for-2024/"><u>[New] A Peek Into the Heart of YouTube's Video Operations for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-make-your-mark-active-living-on-facebook-for-2024/"><u>[New] How to Make Your Mark Active Living on Facebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elite-cinematic-promo-reels/"><u>[Updated] Elite Cinematic Promo Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[Updated] In 2024, Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinterests-top-free-tools-effortless-video-downloads-online/"><u>2024 Approved Pinterest’s Top Free Tools Effortless Video Downloads Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/automate-windows-7-power-off-at-specific-times-for/"><u>Automate Windows 7 Power Off at Specific Times For</u></a></li>
 <li><a href="https://win-rankings.techidaily.com/best-of-the-beat-the-ultimate-ranking-of-top-10-watched-youtubes-in-music-2013-unlocking-viral-beats-spotlight-on-2014s-top-10-youtube-sensations/"><u>Best of the Beat: The Ultimate Ranking of Top 10 Watched YouTubes in Music, 201#3: 'Unlocking Viral Beats: Spotlight on 2014'S Top 10 YouTube Sensations!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/compatibilidad-de-av1-con-plex-como-ver-contenido-avanzado/"><u>Compatibilidad De AV1 Con Plex: Cómo Ver Contenido Avanzado</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/get-the-latest-aio-zip-package-of-mx-player-includes-eac3-codec-v1490/"><u>Get the Latest AIO ZIP Package of MX Player - Includes EAC3 Codec [V1.49.0]</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-does-youtube-request-video-converter-access-comprehensive-malwarecare-tutorial/"><u>How Does YouTube Request Video Converter Access? Comprehensive MalwareCare Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-find-x6-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo Find X6 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-s23-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy S23 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/clear-your-android-device-from-malware-without-software-a-diy-tutorial-by-malwarefox/"><u>Clear Your Android Device From Malware Without Software – A DIY Tutorial by MalwareFox</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-epson-wf-2540-driver-downloads-for-all-windows-versions-including-7-81-and-10/"><u>Easy Installation Guide: Epson WF 2540 Driver Downloads for All Windows Versions Including 7, 8.1 & 10</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/essential-applications-crafting-clear-icon-backgrounds-with-these-10-methods/"><u>Essential Applications: Crafting Clear Icon Backgrounds with These 10 Methods</u></a></li>
 <li><a href="https://win-rankings.techidaily.com/is-your-pdf-safe-from-malware-tips-for-identifying-dangerous-pdf-files/"><u>Is Your PDF Safe From Malware? Tips for Identifying Dangerous PDF Files</u></a></li>
 <li><a href="https://win-rankings.techidaily.com/master-the-process-of-converting-wav-recordings-to-compressed-m4a-format/"><u>Master the Process of Converting WAV Recordings to Compressed M4A Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/momentum-builds-with-windows-11s-upcoming-feature-unveil/"><u>Momentum Builds with Windows 11’S Upcoming Feature Unveil</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-steps-to-mirror-your-cell-phone-interface-with-your-laptop-or-desktop/"><u>Simple Steps to Mirror Your Cell Phone Interface with Your Laptop or Desktop</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

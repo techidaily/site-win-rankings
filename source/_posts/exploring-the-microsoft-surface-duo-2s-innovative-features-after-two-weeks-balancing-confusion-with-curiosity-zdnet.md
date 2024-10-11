@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet"
-date: 2024-09-30T16:36:48.291Z
-updated: 2024-10-05T20:17:38.801Z
+date: 2024-10-09T22:02:07.976Z
+updated: 2024-10-10T18:21:03.199Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,15 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-discover-top-30-steadicam-choices-for-superior-dslr-footage-for-2024/"><u>[Updated] Discover Top 30 Steadicam Choices for Superior DSLR Footage for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-the-ultimate-guide-top-8-free-introduction-template-websites-of-2023/"><u>1. The Ultimate Guide: Top 8 Free Introduction Template Websites of 2023</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-xr-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone XR Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-top-10-twitch-streaming-platforms-the-ultimate-guide/"><u>Best Top 10 Twitch Streaming Platforms: The Ultimate Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fast-and-easy-ways-to-edit-videos-using-your-iphone/"><u>Fast and Easy Ways to Edit Videos Using Your iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-convertitore-alaw-offline-and-online-linstallazione-e-utilizzo-completa-in-gratuito/"><u>Movavi Convertitore Alaw Offline & OnLine: L'Installazione E Utilizzo Completa In Gratuito</u></a></li>
-<li><a href="https://facebook.techidaily.com/saturation-point-is-facebook-there-now/"><u>Saturation Point – Is Facebook There Now?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls/"><u>Saving Your Focus A Guide to Quieting Naysayers on Google Video Calls</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-converting-your-m4b-recordings-into-mp3-for-any-device/"><u>Step-by-Step Tutorial: Converting Your M4B Recordings Into MP3 for Any Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/uncharted-territory-6-secrets-to-documenting-your-minecraft-journey/"><u>Uncharted Territory 6 Secrets to Documenting Your Minecraft Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-facebook-streaming-on-roku-devices/"><u>[New] 2024 Approved Navigating Facebook Streaming on Roku Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[New] Conquer & Cease The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-personalizing-your-android-device-sound-system/"><u>[Updated] The Ultimate Guide to Personalizing Your Android Device Sound System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-the-interview-landscape-a-guide/"><u>2024 Approved Navigating the Interview Landscape A Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-step-by-step-tutorial-capturing-screenshots-on-your-acer-device/"><u>Complete Step-by-Step Tutorial: Capturing Screenshots on Your Acer Device</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-leading-replacements-for-bearshare-you-shouldnt-miss/"><u>Discover the Leading Replacements for BearShare You Shouldn't Miss!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-guide-capturing-your-windows-10-screen-without-hiccups/"><u>Easy Guide: Capturing Your Windows 10 Screen Without Hiccups</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-psd-borderline-elegance-for-2024/"><u>Expert PSD Borderline Elegance for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-top-5-alternative-practices-to-jing-a-comprehensive-review/"><u>Exploring Top 5 Alternative Practices to Jing: A Comprehensive Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-track-remedies-to-address-fortnites-load-difficulties-expert-advice/"><u>Fast-Track Remedies to Address Fortnite's Load Difficulties: Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correct-the-mistaken-deletion-of-btballoondll-on-your-system/"><u>Guide to Correct the Mistaken Deletion of BTBalloon.DLL on Your System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>In 2024, Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-recording-anywhere-saving-your-favorite-shows-from-amazons-library/"><u>Mastering the Art of Recording Anywhere: Saving Your Favorite Shows From Amazon's Library</u></a></li>
+<li><a href="https://video-capture.techidaily.com/prime-10-terraria-game-enhancements-for-2024/"><u>Prime 10 Terraria Game Enhancements for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/seamless-syncing-transferring-ios-display-to-panasonic-tv-with-ease/"><u>Seamless Syncing: Transferring iOS Display to Panasonic TV with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/stress-free-guide-converting-flac-files-to-mp3-with-ease/"><u>Stress-Free Guide: Converting FLAC Files to MP3 with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-guide-to-finding-the-best-iphone-x11se-pdf-readers-11-options-included/"><u>The Ultimate Guide to Finding the Best iPhone X/11/SE PDF Readers - 11 Options Included!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-6-ultimate-tools-for-a-perfect-video-logo-swap-discover-here/"><u>Top 6 Ultimate Tools for a Perfect Video Logo Swap - Discover Here</u></a></li>
 </ul></div>
 

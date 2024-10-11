@@ -1,7 +1,7 @@
 ---
 title: Pay to Update? Microsoft Reveals New Charge Scheme for Windows Cups Starting Next Year | ZDNet Explanation
-date: 2024-09-29T19:43:06.604Z
-updated: 2024-10-05T20:34:45.110Z
+date: 2024-10-10T03:26:42.325Z
+updated: 2024-10-11T04:05:11.458Z
 tags:
   - windows
 categories:
@@ -33,13 +33,6 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -55,6 +48,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -67,18 +67,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -91,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -98,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -109,19 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,18 +156,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-explore-these-best-5-iphone-podcast-platforms-now/"><u>[New] Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-pdf-software-for-windows-11-users-fast-secure-and-free-download-now/"><u>Best PDF Software for Windows 11 Users - Fast, Secure & Free Download Now!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/creating-a-burned-dvd-on-your-mac-from-various-file-formats/"><u>Creating a Burned DVD on Your Mac From Various File Formats</u></a></li>
-<li><a href="https://techidaily.com/experience-the-benefits-of-customized-content-through-cookiebot-solutions/"><u>Experience the Benefits of Customized Content Through Cookiebot Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fast-and-easy-methods-for-transferring-images-from-your-mac-to-an-ipad/"><u>Fast and Easy Methods for Transferring Images From Your Mac to an iPad</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-105-classic-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia 105 Classic Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-your-images-with-a-stunning-azure-backdrop-a-step-by-step-guide/"><u>Transforming Your Images with a Stunning Azure Backdrop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-your-ipad-into-a-dual-display-a-step-by-step-guide-for-windows-users/"><u>Transforming Your iPad Into a Dual Display: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-tips-on-how-to-deactivate-your-apple-devices-find-my-functionality-by-bypassing-the-lock-screen/"><u>Ultimate Tips on How to Deactivate Your Apple Device's 'Find My' Functionality by Bypassing the Lock Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-gadget-offers-score-deals-on-galaxy-s24-fire-tv-stick-plus-essential-eco-friendly-tech-products/"><u>Unbeatable Gadget Offers: Score Deals on Galaxy S24, Fire TV Stick + Essential Eco-Friendly Tech Products!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts-for-2024/"><u>[New] Transforming Virtual Worlds Enhancing Spark AR with Custom LUTs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-n3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find N3 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/action-packed-strategies-how-to-upload-your-gameplays-as-live-videos-on-youtube/"><u>Action-Packed Strategies: How to Upload Your Gameplays as Live Videos on YouTube</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-guide-setting-up-your-hardware-and-configuring-action-preferences/"><u>Comprehensive Guide: Setting Up Your Hardware & Configuring Action! Preferences</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-microsofts-new-tech-frontiers-insights-from-this-weeks-surface-and-artificial-intelligence-event-the-zdnet-report/"><u>Exploring Microsoft's New Tech Frontiers: Insights From This Week’s Surface and Artificial Intelligence Event - The ZDNet Report</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/extend-the-life-of-your-aging-computer-top-5-tricks-for-preparing-it-for-windows-11-no-cost-required-zdnet-solutions/"><u>Extend the Life of Your Aging Computer: Top 5 Tricks for Preparing It for Windows 11 (No Cost Required) | ZDNet Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-classification-of-fb-video-sizes/"><u>In 2024, Classification of FB Video Sizes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel FRP</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-live-video-gaming-step-by-step-action-guidelines-for-hitbox-users/"><u>Mastering the Art of Live Video Gaming - Step by Step Action Guidelines for Hitbox Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tailoring-tutorials-for-square-shaped-video-sharing/"><u>Tailoring Tutorials for Square-Shaped Video Sharing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-fabrication-suite/"><u>Video Fabrication Suite</u></a></li>
 </ul></div>
 

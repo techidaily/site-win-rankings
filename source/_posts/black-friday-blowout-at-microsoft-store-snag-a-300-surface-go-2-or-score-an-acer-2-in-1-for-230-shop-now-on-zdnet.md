@@ -1,7 +1,7 @@
 ---
 title: "Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet"
-date: 2024-09-29T16:10:19.949Z
-updated: 2024-10-05T19:59:24.646Z
+date: 2024-10-08T18:04:31.720Z
+updated: 2024-10-11T04:24:19.218Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +208,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-comprehensive-solution-for-partially-muted-fb-video-tracks-for-2024/"><u>[New] Comprehensive Solution for Partially Muted FB Video Tracks for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-ultimate-companion-for-mastering-mov-recordings-on-windows-10/"><u>[Updated] In 2024, Your Ultimate Companion for Mastering MOV Recordings on Windows 10</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/2-step-by-step-methods-for-cleaning-up-your-pdf-documents-no-more-clutter/"><u>2. Step-by-Step Methods for Cleaning Up Your PDF Documents: No More Clutter!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-g54-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola G54 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-guide-retrieving-files-from-an-unresponsive-ios-device/"><u>Complete Guide: Retrieving Files From an Unresponsive iOS Device</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/csrssexe-threat-analysis-identifying-trojans-vs-viruses-and-comprehensive-removal-guide/"><u>CSRSS.exe Threat Analysis: Identifying Trojans Vs. Viruses & Comprehensive Removal Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevating-performance-a-step-by-step-guide-to-enhancing-frames-per-second-fps-in-tainted-grail-conquest/"><u>Elevating Performance: A Step-by-Step Guide to Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fixing-issues-with-screenr-effective-strategies-and-tips/"><u>Fixing Issues with Screenr: Effective Strategies and Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-f5-5g-frp-by-drfone-android/"><u>How Can We Bypass Poco F5 5G FRP?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/peak-psd-opacity-adjustments/"><u>Peak PSD Opacity Adjustments</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/slowly-quieting-tracks-with-fl-studio/"><u>Slowly Quieting Tracks with FL Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-save-malfunction-resolve-it-with-ease/"><u>Snip-and-Save Malfunction? Resolve It with Ease</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-viewing-instagram-reels-from-your-desktop-pc-or-laptop/"><u>Step-by-Step Guide: Viewing Instagram Reels From Your Desktop PC or Laptop</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-strategies-for-removing-ios-calendar-apps-efficiently/"><u>Top Strategies for Removing iOS Calendar Apps Efficiently</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-tips-for-enjoying-fallout-76-on-an-apple-smartphone/"><u>Ultimate Tips for Enjoying Fallout 76 on an Apple Smartphone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-surpass-your-competition-effective-youtube-seo-tips/"><u>[New] 2024 Approved Surpass Your Competition Effective YouTube SEO Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-digital-dialogue-diaries-the-full-year-tweets-summary-for-2024/"><u>[New] Digital Dialogue Diaries The Full-Year Tweets Summary for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-what-frames-per-second-yields-best-cinematic-slow-motion/"><u>[New] In 2024, What Frames Per Second Yields Best Cinematic Slow Motion?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-screencapping-a-practical-sequential-handbook-for-2024/"><u>[New] Innovative Screencapping A Practical, Sequential Handbook for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-step-by-step-guide-removing-a-see-through-backdrop-from-your-images/"><u>1. Step-by-Step Guide: Removing a See-Through Backdrop From Your Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-make-the-most-out-of-your-devices-with-apc-back-ups-be600m1s-usb-charging-comprehensive-review/"><u>How to Make the Most Out of Your Devices with APC Back-UPS BE600M1's USB Charging – Comprehensive Review</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-rated-tool-for-editing-picture-backdrops-transform-your-images-with-ease/"><u>Top-Rated Tool for Editing Picture Backdrops: Transform Your Images with Ease</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-guide-to-the-top-5-image-organizers-for-your-mobile-devices-androidios/"><u>Ultimate Guide to the Top 5 Image Organizers for Your Mobile Devices (Android/iOS)</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-guide-effortless-import-of-vcf-file-into-your-android-phone/"><u>Ultimate Guide: Effortless Import of VCF File Into Your Android Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-supercharge-your-fcpx-experience-10-free-plugins-you-wont-want-to-miss/"><u>Updated Supercharge Your FCPX Experience 10 Free Plugins You Wont Want to Miss</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-the-msi-steam-deck-triumph-in-the-battleground-of-portable-gaming-techspectrum/"><u>Will the MSI Steam Deck Triumph in the Battleground of Portable Gaming | TechSpectrum</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/your-ultimate-checklist-for-broadcasting-bts-seventeens-epic-stage-show-directly-into-your-living-room/"><u>Your Ultimate Checklist for Broadcasting BTS SEVENTEEN’s Epic Stage Show Directly Into Your Living Room!</u></a></li>
 </ul></div>
 

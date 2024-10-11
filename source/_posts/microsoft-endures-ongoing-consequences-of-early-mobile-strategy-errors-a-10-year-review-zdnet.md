@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Endures Ongoing Consequences of Early Mobile Strategy Errors: A 10-Year Review | ZDNet"
-date: 2024-10-01T18:26:58.942Z
-updated: 2024-10-05T19:58:15.601Z
+date: 2024-10-06T21:52:34.424Z
+updated: 2024-10-10T22:47:48.627Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cutting-edge-audio-gear-best-mics-for-podcasts/"><u>[New] 2024 Approved Cutting-Edge Audio Gear Best Mics For Podcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209147637-solution-expedite-your-pcs-performance-get-rid-of-high-cpu-load-stuck-by-shell-infrastructures/"><u>[Solution] Expedite Your PC's Performance - Get Rid of High CPU Load Stuck by Shell Infrastructures!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-imovie-why-does-it-alter-my-videos/"><u>[Updated] 2024 Approved IMovie Why Does It Alter My Videos?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-superior-pandora-replacements-for-an-unmatched-internet-radio-experience/"><u>Discover Superior Pandora Replacements for an Unmatched Internet Radio Experience</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-the-ultimate-5-spyware-elimination-programs-keep-malicious-trackers-at-bay/"><u>Discover the Ultimate 5 Spyware Elimination Programs – Keep Malicious Trackers at Bay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-ios-advantages-for-chatgpt-users/"><u>Exploring the iOS Advantages for ChatGPT Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-does-biometric-identification-work-and-why-its-important/"><u>How Does Biometric Identification Work and Why It's Important</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/live-links-debate-is-software-superior-to-gear/"><u>Live Links Debate Is Software Superior to Gear?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-made-simple-discover-the-power-of-manycam-as-your-go-to-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover the Power of ManyCam as Your Go-To Virtual Camera Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-activating-the-cropping-feature-in-lightworks/"><u>Step-by-Step Guide to Activating the Cropping Feature in Lightworks</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-resolve-malwarebytes-cannot-connect-to-services-issue/"><u>Step-by-Step Guide to Resolve 'Malwarebytes Cannot Connect to Services' Issue</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-broadcasting-among-sus-gaming-sessions-for-pc-users/"><u>Step-by-Step Tutorial: Broadcasting 'Among Sus' Gaming Sessions for PC Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-finest-no-cost-task-management-tools-boost-your-organizational-skills-with-these-7-picks/"><u>The Finest No-Cost Task Management Tools: Boost Your Organizational Skills with These 7 Picks</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-rated-phone-sync-software-best-contact-backup-solutions/"><u>Top-Rated Phone Sync Software: Best Contact Backup Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-guide-how-to-effectively-record-sound-from-the-web/"><u>Ultimate Guide: How to Effectively Record Sound From the Web</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-social-media-analysts-toolkit-making-sense-of-instagram-stats/"><u>[Updated] The Social Media Analyst's Toolkit Making Sense of Instagram Stats</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-undead-uncovered-ranking-the-best-zombie-game-clusters-for-2024/"><u>[Updated] Undead Uncovered Ranking the Best Zombie Game Clusters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vimeo-vs-youtube-dissecting-the-streamers-choices/"><u>[Updated] Vimeo vs YouTube Dissecting the Streamers' Choices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-steps-to-recover-erased-sms-conversations-on-an-ios-device/"><u>1. Steps to Recover Erased SMS Conversations on an iOS Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-an-ideal-oculus-rift-environment-for-2024/"><u>Creating an Ideal Oculus Rift Environment for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-hulu-recording-guide-for-pcmacios-devices/"><u>In 2024, Comprehensive Hulu Recording Guide for PC/Mac/iOS Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-cs-go-playbacks-your-ultimate-tutorial-on-video-recording-strategies/"><u>Mastering the Art of CS Go Playbacks: Your Ultimate Tutorial on Video Recording Strategies</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-squid-game-tactics-score-at-least-456-in-pc-edition/"><u>Mastering the Squid Game Tactics: Score at Least 456 in PC Edition</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/regain-control-of-your-network-expert-tips-for-recovering-iphone-e-6-phonebook-data/"><u>Regain Control of Your Network: Expert Tips for Recovering iPhone E 6 Phonebook Data</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/revolutionize-photography-ultimate-image-background-modification-software-of-2022/"><u>Revolutionize Photography: Ultimate Image Background Modification Software of 2022</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-methods-for-moving-songs-from-your-iphone-4s-to-iphone-6/"><u>Simple Methods for Moving Songs From Your iPhone 4S to iPhone 6</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-successfully-repairing-outlook-connection-issues/"><u>Solution Guide: Successfully Repairing Outlook Connection Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-35-strategies-to-thwart-ransomware-attacks-insights-from-malwarefox/"><u>Top 35 Strategies to Thwart Ransomware Attacks – Insights From MalwareFox</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-free-online-radio-platforms-your-ultimate-guide-to-unlimited-listening/"><u>Top Free Online Radio Platforms: Your Ultimate Guide to Unlimited Listening</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4vwebm-obs-streamyard/"><u>무료 온라인 M4V/WEBM 이미지를 OBS에서 바인딩하기 - StreamYard</u></a></li>
 </ul></div>
 

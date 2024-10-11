@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams Misuse Sparks Managerial Meltdown – The Unfortunate Outcome
-date: 2024-09-30T19:45:54.976Z
-updated: 2024-10-05T19:02:58.337Z
+date: 2024-10-03T17:41:08.802Z
+updated: 2024-10-11T00:57:36.172Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-balancing-bandwidth-for-obs-streams/"><u>[New] In 2024, Balancing Bandwidth for OBS Streams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conquering-the-labyrinth-of-lesser-known-youtube-content/"><u>[Updated] In 2024, Conquering the Labyrinth of Lesser-Known YouTube Content</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/automate-windows-7-power-off-at-specific-times-for/"><u>Automate Windows 7 Power Off at Specific Times For</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/clear-your-android-device-from-malware-without-software-a-diy-tutorial-by-malwarefox/"><u>Clear Your Android Device From Malware Without Software – A DIY Tutorial by MalwareFox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-recovering-or-replacing-missing-winhttpdll-files-on-windows-pcs/"><u>Comprehensive Guide to Recovering or Replacing Missing Winhttp.dll Files on Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-twitch-chat-mysteries-essential-tips-for-new-stream-watchers/"><u>Decoding Twitch Chat Mysteries: Essential Tips for New Stream Watchers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/"><u>Diagnosing & Resolving Interface Issues: ChatGPT's Trouble with Plugin Connectivity</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-applications-crafting-clear-icon-backgrounds-with-these-10-methods/"><u>Essential Applications: Crafting Clear Icon Backgrounds with These 10 Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/holistic-motion-comprehensiveness-review/"><u>Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/master-the-process-of-converting-wav-recordings-to-compressed-m4a-format/"><u>Master the Process of Converting WAV Recordings to Compressed M4A Format</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/simple-steps-to-mirror-your-cell-phone-interface-with-your-laptop-or-desktop/"><u>Simple Steps to Mirror Your Cell Phone Interface with Your Laptop or Desktop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-speedy-recorder-device-with-guided-soundtrack/"><u>[New] 2024 Approved Speedy Recorder Device with Guided Soundtrack</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-examining-screen-capture-efficacy-obs-studio-vs-fraps/"><u>[New] In 2024, Examining Screen Capture Efficacy OBS Studio vs Fraps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personalized-whatsapp-tones-on-iphoneandroid-devices/"><u>[Updated] Personalized WhatsApp Tones on iPhone/Android Devices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/2021s-top-5-editing-solutions-for-integrating-images-into-tiktok-reels-with-ease/"><u>2021'S Top 5 Editing Solutions for Integrating Images Into TikTok Reels with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-powerpoint-to-video-converters/"><u>2024 Approved Best PowerPoint to Video Converters</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/a-beginners-guide-editing-pdf-documents-with-google-workspace-applications/"><u>A Beginner's Guide: Editing PDF Documents with Google Workspace Applications</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-tutorial-mastering-the-apowersoft-image-watermark-elimination-tool/"><u>Comprehensive Tutorial: Mastering the Apowersoft Image Watermark Elimination Tool</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-audio-extractor-from-soundcloud-quick-and-simple-music-downloads/"><u>Easy Audio Extractor From SoundCloud – Quick and Simple Music Downloads.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 13 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-12-mini-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 12 mini Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-drivers-for-optimal-performance-on-windows-pcs/"><u>Latest MPOW Bluetooth Drivers for Optimal Performance on Windows PCs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-screen-photography-on-iphone-xs/"><u>Mastering the Art of Screen Photography on iPhone XS</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/persistent-pop-ups-in-windows-understanding-reasons-behind-continuous-file-explorer-opens-with-expertise-from-malwarefox/"><u>Persistent Pop-Ups in Windows: Understanding Reasons Behind Continuous File Explorer Opens with Expertise From MalwareFox</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-windows-11-against-spying-comprehensive-guide-to-privacy-remedies-and-malwarefox-insights/"><u>Secure Windows 11 Against Spying: Comprehensive Guide to Privacy Remedies and MalwareFox Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-motorola-edge-40-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Edge 40 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-list-best-free-android-messaging-apps-ever/"><u>The Ultimate List: Best Free Android Messaging Apps Ever</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y100t? | Dr.fone</u></a></li>
 </ul></div>
 

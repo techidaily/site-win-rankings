@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet"
-date: 2024-10-04T19:42:14.254Z
-updated: 2024-10-05T19:48:15.575Z
+date: 2024-10-08T20:10:47.338Z
+updated: 2024-10-10T20:06:22.477Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-pnp-watchdog-bsod-error/"><u>[Fixed] Driver PNP Watchdog BSoD Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-bumper-buddies-bonanza-for-youths/"><u>[New] In 2024, Bumper Buddies Bonanza for Youths</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-live-mastery-4-key-tv-broadcast-tips/"><u>[Updated] In 2024, FB Live Mastery 4 Key TV Broadcast Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-engaging-emojis-boost-your-videos-appeal-without-payments/"><u>2024 Approved Engaging Emojis Boost Your Video's Appeal Without Payments</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-red-magic-9-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Red Magic 9 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-step-by-step-tutorial-capturing-screenshots-on-your-acer-device/"><u>Complete Step-by-Step Tutorial: Capturing Screenshots on Your Acer Device</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-the-leading-replacements-for-bearshare-you-shouldnt-miss/"><u>Discover the Leading Replacements for BearShare You Shouldn't Miss!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-guide-capturing-your-windows-10-screen-without-hiccups/"><u>Easy Guide: Capturing Your Windows 10 Screen Without Hiccups</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-top-5-alternative-practices-to-jing-a-comprehensive-review/"><u>Exploring Top 5 Alternative Practices to Jing: A Comprehensive Review</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-non-working-wireless-charger-7-proven-methods-for-your-iphone-device/"><u>Fix Your Non-Working Wireless Charger: 7 Proven Methods for Your iPhone Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-art-of-recording-anywhere-saving-your-favorite-shows-from-amazons-library/"><u>Mastering the Art of Recording Anywhere: Saving Your Favorite Shows From Amazon's Library</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/seamless-syncing-transferring-ios-display-to-panasonic-tv-with-ease/"><u>Seamless Syncing: Transferring iOS Display to Panasonic TV with Ease</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/stress-free-guide-converting-flac-files-to-mp3-with-ease/"><u>Stress-Free Guide: Converting FLAC Files to MP3 with Ease</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-path-to-success-sheryls-story-at-facebook/"><u>The Path to Success: Sheryl's Story at Facebook</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-ultimate-guide-to-finding-the-best-iphone-x11se-pdf-readers-11-options-included/"><u>The Ultimate Guide to Finding the Best iPhone X/11/SE PDF Readers - 11 Options Included!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-12-gratuit-unternehmens-umwandeln-hochauflosendes-video-fur-windows-und-mac-von-4k-nach-full-hd/"><u>Top 12 Gratuit Unternehmens Umwandeln Hochauflösendes Video Für Windows Und Mac - Von 4K Nach Full HD</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-6-ultimate-tools-for-a-perfect-video-logo-swap-discover-here/"><u>Top 6 Ultimate Tools for a Perfect Video Logo Swap - Discover Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-dall-es-potential-with-png-and-jpg-conversions/"><u>Unlocking DALL-E's Potential with PNG and JPG Conversions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-fast-forward-video-on-tiktok/"><u>[New] 2024 Approved How to Fast Forward Video on Tiktok?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-highest-qp-for-gradual-video-playback/"><u>[Updated] 2024 Approved Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[Updated] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/roku-or-fire-tv-stick-choosing-the-perfect-streaming-device-for-your-needs/"><u>Roku or Fire TV Stick - Choosing the Perfect Streaming Device for Your Needs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/shrink-your-sounds-mastering-vlcs-audio-compression-techniques/"><u>Shrink Your Sounds: Mastering VLC's Audio Compression Techniques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-transferring-and-saving-disney-films-from-dvds/"><u>Step-by-Step Guide to Transferring & Saving Disney Films From DVDs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-recording-your-tiktok-live-streams-on-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Recording Your TikTok Live Streams on PC, Mac, Android & iOS Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Qnmee Up to Its Higher Price Tag? A Comprehensive Review by Tech Expert on ZDNet
-date: 2024-10-03T18:24:40.674Z
-updated: 2024-10-05T16:41:26.002Z
+date: 2024-10-03T22:53:02.458Z
+updated: 2024-10-11T01:13:11.535Z
 tags:
   - office-furniture
 categories:
@@ -53,10 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -67,18 +67,18 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17ca5000-3920-46d3-a543-7da2bfe350bc%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch options
 
@@ -97,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -110,10 +110,16 @@ The Keychron Q5 keyboard is available in a barebones model for $175 up to a full
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Alternatives to consider
@@ -156,19 +162,22 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-crisis-on-social-media-managing-negative-feedback-and-maintaining-a-positive-reputation/"><u>[Navigating Crisis on Social Media: Managing Negative Feedback and Maintaining a Positive Reputation]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bandicam-revolutionizing-screen-capture-for-modern-media/"><u>[Updated] In 2024, Bandicam Revolutionizing Screen Capture for Modern Media</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-top-5-essential-android-photo-editing-software/"><u>[Updated] Unveiling Top 5 Essential Android Photo Editing Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amp-up-your-home-studio-secure-official-focusrite-scarlett-2i2-driver-for-pc-windows/"><u>Amp Up Your Home Studio: Secure Official Focusrite Scarlett 2I2 Driver for PC (Windows)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhanced-ambiance-with-logitechs-new-windows-11-compatible-led-illumination-options/"><u>Enhanced Ambiance with Logitech's New Windows 11 Compatible LED Illumination Options</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/six-effective-strategies-to-protect-your-mobile-device-from-cyber-threats/"><u>Six Effective Strategies to Protect Your Mobile Device From Cyber Threats</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-capturing-screenshots-on-your-asus-computer-or-tablet/"><u>Step-by-Step Guide: Capturing Screenshots on Your ASUS Computer or Tablet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-reflecting-your-android-devices-display-on-windows-11/"><u>Step-by-Step Guide: Reflecting Your Android Device's Display on Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi A2 FRP</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-rated-eco-friendly-chroma-key-software-of-2021/"><u>Top-Rated Eco-Friendly Chroma Key Software of 2021</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-guide-mastering-fortnite-gameplay-on-your-pc/"><u>Ultimate Guide: Mastering Fortnite Gameplay on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/zap-zaps-revitalizing-a-sluggish-windows-11-experience/"><u>Zap Zaps: Revitalizing a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-steps-to-rotate-video-in-vlc/"><u>[New] In 2024, Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-echoharvest-app-reviews-step-by-step-guide/"><u>[New] In 2024, EchoHarvest App Reviews Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-flying-into-photography-discovering-the-dji-spark-advantage/"><u>[Updated] Flying Into Photography Discovering the DJI Spark Advantage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[Updated] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ai-future-revealed-sam-altman-outlines-microsofts-roadmap-at-build-conference-insights-from-zdnet/"><u>AI Future Revealed: Sam Altman Outlines Microsoft's Roadmap at Build Conference - Insights From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/beyond-macbook-air-explore-how-this-featherlight-windows-ultrabook-surpasses-apples-offering-zdnet/"><u>Beyond MacBook Air: Explore How This Featherlight Windows Ultrabook Surpasses Apple's Offering | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-lg-television-experience-exclusive-audio-enhancements-guaranteed-to-impress-apple-fans/"><u>Enhance Your LG Television Experience: Exclusive Audio Enhancements Guaranteed to Impress Apple Fans</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-msi-gs65-drivers-collection-compatible-with-windows-os/"><u>Essential MSI GS65 Drivers Collection - Compatible with Windows OS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-hyperx-soundcard-driver-tweaks/"><u>Essential Tips for HyperX Soundcard Driver Tweaks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-find-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Find X6 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-the-next-gen-windows-12-on-the-horizon-discover-exclusive-details-and-unexpected-forecasts-with-zdnets-deep-dive/"><u>Is the Next-Gen Windows 12 on the Horizon? Discover Exclusive Details and Unexpected Forecasts with ZDNet's Deep Dive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-the-unfortunate-outcome/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown – The Unfortunate Outcome</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/smart-zooms-on-snapchat-enhance-photo-and-video-quality-for-2024/"><u>Smart Zooms on Snapchat Enhance Photo & Video Quality for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/super-bowl-commercials-soar-microsofts-copilot-and-temu-triumph-in-download-ratings-techzn/"><u>Super Bowl Commercials Soar: Microsoft's Copilot & Temu Triumph in Download Ratings | TechZN</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-assessment-of-andaseat-kaiser-3-in-2022-features-performance-and-buyers-guide-on-zdnet/"><u>The Ultimate Assessment of AndaSeat Kaiser 3 in 202^2: Features, Performance & Buyer’s Guide on ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-guide-to-the-best-microsoft-surface-computers-of-2er-years-professional-analysis-and-rankings-zdnet/"><u>The Ultimate Guide to the Best Microsoft Surface Computers of 2Er Years: Professional Analysis and Rankings | ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-ranked-acoustic-drapes-of-2024-a-comprehensive-review-by-zdnet/"><u>Top-Ranked Acoustic Drapes of 2024: A Comprehensive Review by ZDNET</u></a></li>
 </ul></div>
 
