@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.8 Karaoke Software: Enhanced Audio Features & New Updates - Free Download From PCDJ"
-date: 2024-11-23T18:34:19.668Z
-updated: 2024-11-30T16:30:28.326Z
+date: 2024-12-05T18:23:07.600Z
+updated: 2024-12-08T16:50:21.451Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,16 +84,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-video-ideas-to-spark-inspiration-for-2024/"><u>[Updated] Best YouTube Video Ideas to Spark Inspiration for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-request-info-on-obtaining-full-shared-content-on-messengers/"><u>[Updated] Request Info on Obtaining Full Shared Content on Messengers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-zero-5g-2023-turbo-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Zero 5G 2023 Turbo to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/master-the-art-of-virality-top-facebook-video-marketing-strategies-for-2024/"><u>Master the Art of Virality Top Facebook Video Marketing Strategies for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/optimizing-data-transfer-with-automatic-smb-compression-on-windows-server-vehicles-that-can-be-driven-and-they-are-often-used-in-off-road-conditions-or-area130/"><u>Optimizing Data Transfer with Automatic SMB Compression on Windows Server Vehicles that Can Be Driven, and They Are Often Used in Off-Road Conditions or Areas with Limited Accessibility.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-itel-p40plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel P40+? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/swift-and-simple-methods-for-transferring-data-from-your-synology-nas-to-a-windowsmac/"><u>Swift & Simple Methods for Transferring Data From Your Synology NAS to a Windows/Mac</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transitionner-votre-disque-dur-de-portable-vers-un-ssd-en-quatre-etapes-le-guide-ultime/"><u>Transitionner Votre Disque Dur De Portable Vers Un SSD en Quatre Étapes : Le Guide Ultime</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-11-how-to-fix-missing-bcd-file-errors/"><u>Windows 11: How to Fix Missing BCD File Errors</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-how-often-are-temporary-files-deleted-by-default/"><u>Windows: How Often Are Temporary Files Deleted by Default?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-harness-the-potential-of-instagram-videos-for-brand-growth-for-2024/"><u>[New] Harness the Potential of Instagram Videos for Brand Growth for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-breaking-into-the-livestream-scene-on-youtube-with-under-a-thousand-views-for-2024/"><u>[Updated] Breaking Into the Livestream Scene on YouTube with Under a Thousand Views for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-10-tools-for-masterful-online-subtitle-edits/"><u>[Updated] Pinnacle 10 Tools for Masterful Online Subtitle Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>2024 Approved Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-8-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel 8 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhance-your-private-party-experience-discover-fresh-melodies-with-our-latest-song-addition-to-karaoke-cloud-pro-subscription-as-of-apr-9th/"><u>Enhance Your Private Party Experience - Discover Fresh Melodies with Our Latest Song Addition to Karaoke Cloud Pro Subscription as of Apr. 9Th!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-home-network-a-detailed-evaluation-of-the-netgear-ac1200-wireless-expander-ex6200/"><u>Enhancing Your Home Network: A Detailed Evaluation of the Netgear AC1200 Wireless Expander (EX6200)</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/excessive-use-of-antifreeze-admixtures-or-other-chemicals-may-lead-to-durability-issues-and-should-be-avoided/"><u>Excessive Use of Antifreeze Admixtures or Other Chemicals May Lead to Durability Issues and Should Be Avoided.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-mastering-the-art-of-tweeting-tiktoks/"><u>In 2024, Mastering the Art of Tweeting TikToks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unveiling-the-11-most-innovative-sound-recording-options/"><u>In 2024, Unveiling the 11 Most Innovative Sound Recording Options</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-regional-configuration-steps-to-modify-language-keyboard-and-local-preferences-via-the-control-panel-tips-from-yl-computing/"><u>Navigating Regional Configuration: Steps to Modify Language, Keyboard, and Local Preferences via the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-compatible-gpu-selection-made-easy-expert-advice-from-yl-computing/"><u>Windows-Compatible GPU Selection Made Easy: Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

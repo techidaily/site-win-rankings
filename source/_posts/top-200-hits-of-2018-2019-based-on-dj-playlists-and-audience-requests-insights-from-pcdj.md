@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2024-11-25T19:46:21.144Z
-updated: 2024-11-30T16:23:47.546Z
+date: 2024-12-07T19:58:58.445Z
+updated: 2024-12-08T19:40:05.314Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,14 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>[Updated] Understanding Picture In Picture How to Use It for YouTube</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/2-share-your-gaming-moments-seamlessly-expert-tips-for-streaming-ps4-clips-onto-an-iphone-device/"><u>2. Share Your Gaming Moments Seamlessly: Expert Tips for Streaming PS4 Clips Onto an iPhone Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209883647-9781644110423-cannabis-for-couples/"><u>Cannabis for Couples | Free Book</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-step-by-step-manual-on-replacing-the-hard-drive-in-a-toshiba-tecra-a50-c-laptop/"><u>Complete Step-by-Step Manual on Replacing the Hard Drive in a Toshiba Tecra A50-C Laptop</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/complete-strategy-for-file-recovery-from-flash-and-exfat-memory-cards-usb-sticks-and-more/"><u>Complete Strategy for File Recovery From Flash and ExFAT Memory Cards, USB Sticks, and More</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-face-creation-the-top-generators-for-artificial-faces-for-2024/"><u>New Free Online Face Creation The Top Generators for Artificial Faces for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-solution-ensuring-seamless-synchronization-of-outlook-on-your-mac-computer/"><u>Step-by-Step Solution: Ensuring Seamless Synchronization of Outlook on Your Mac Computer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/44or44k944kz44oz44gu44k544oa44od44kv44gv6imv5aw944gg44gr44gp5yuv44gl44gx44gl44kj44gp44gq44gj44gm44gn44gf55cg55sx44go5aplusplus562w/"><u>パソコンのスペックは良好だけど動かしづらくなってきた理由と対策</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[Updated] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] 2024 Approved Graphical Forecast The Dominant '23 Social Themes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-start-crafting-movies-xp-edition-install-guide-for-2024/"><u>[Updated] Start Crafting Movies Xp Edition Install Guide for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1732510821688-yl/"><u>现金流管理：实时网格方法教程—由 YL 计算机演绎</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/edit-like-a-pro-comprehensive-tips-for-modifying-excel-worksheets-in-windows-environments-software-guru/"><u>Edit Like a Pro: Comprehensive Tips for Modifying Excel Worksheets in Windows Environments - Software Guru</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-mkv-subtitle-removal-techniques-a-step-by-step-guide/"><u>Effortless MKV Subtitle Removal Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guarding-your-crypto-assets-against-threats-protective-strategies-by-yl-software-experts/"><u>Guarding Your Crypto Assets Against Threats - Protective Strategies by YL Software Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>In 2024, Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-note-50-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme Note 50 FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/no-cost-to-you-heres-a-list-of-7-free-editing-apps-for-2024/"><u>No Cost to You? Here's a List of 7 Free Editing Apps for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/nutritional-counseling-high-risk-patients-may-receive-guidance-on-proper-nutrition-supplements-like-folic-acid-iron-calcium-and-managing-dietary-restriction91/"><u>Nutritional Counseling: High-Risk Patients May Receive Guidance on Proper Nutrition, Supplements (Like Folic Acid, Iron, Calcium), and Managing Dietary Restrictions for Specific Medical Conditions or Complications During Pregnancy.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-windows-bsod-issues-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows BSOD Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/uncovering-the-reasons-behind-sluggish-performance-post-cpu-upgrade-insights-from-yl-computing/"><u>Uncovering the Reasons Behind Sluggish Performance Post-CPU Upgrade: Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-computings-sparkling-hd-diamond-descent-captivating-video-looper-in-full-hd-1080p-resolution/"><u>YL Computing's Sparkling HD Diamond Descent - Captivating Video Looper in Full HD 1080P Resolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2024-11-29T19:37:58.198Z
-updated: 2024-11-30T16:56:38.583Z
+date: 2024-12-03T22:40:44.497Z
+updated: 2024-12-08T23:24:29.580Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,14 +107,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes/"><u>[New] Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/drive/"><u>解决一Drive不同步问题：恢复损失数据的方法</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728506541717-windows-11/"><u>无法运行Windows 11的电脑修复指南及绕过策略</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audiovisual-transition-mastery-in-adobe-premiere/"><u>Audiovisual Transition Mastery in Adobe Premiere</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/get-your-no-cost-blu-ray-playback-programs-now-cross-platform-support-including-windows-and-mac-featuring-winxdvd/"><u>Get Your No Cost Blu-Ray Playback Programs Now: Cross Platform Support Including Windows & Mac, Featuring WinXDVD</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-retrace-your-steps-flipping-iphone-videography/"><u>In 2024, Retrace Your Steps Flipping iPhone Videography</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-converting-iphone-contacts-into-vcard-format/"><u>Step-by-Step Tutorial on Converting iPhone Contacts Into vCard Format</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/two-easy-methods-to-set-up-windows-11-on-your-latest-solid-state-drive/"><u>Two Easy Methods to Set Up Windows 11 on Your Latest Solid State Drive</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-decoding-the-purpose-why-does-fb-use-a-blue-icon/"><u>[New] 2024 Approved Decoding the Purpose Why Does FB Use a Blue Icon?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-combine-videos-on-iphone-for-2024/"><u>[New] How to Combine Videos on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-craft-how-to-produce-mukbang-videos/"><u>[New] In 2024, Mastering the Craft How to Produce Mukbang Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[New] Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-every-sound-simultaneously-an-interactive-audio-map-of-musical-styles-by-pcdj/"><u>Discover Every Sound Simultaneously: An Interactive Audio Map of Musical Styles by PCDJ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-gaming-fix-overwatch-voice-chat-glitches-instantly/"><u>Get Back to Gaming: Fix Overwatch Voice Chat Glitches Instantly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-fix-the-connection-was-reset-issue-on-your-windows-pc-tips-from-yl-computing/"><u>How to Fix the 'Connection Was Reset' Issue on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-through-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper Through Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-adjusting-your-account-settings-in-yl-software-systems/"><u>Step-by-Step Instructions on Adjusting Your Account Settings in YL Software Systems</u></a></li>
 </ul></div>
 

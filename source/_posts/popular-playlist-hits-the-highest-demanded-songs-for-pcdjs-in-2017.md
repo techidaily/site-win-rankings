@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2024-11-27T18:42:39.032Z
-updated: 2024-11-30T17:17:23.058Z
+date: 2024-12-04T23:17:25.646Z
+updated: 2024-12-08T21:20:37.754Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cultivating-your-persona-in-the-world-of-gamers/"><u>[New] In 2024, Cultivating Your Persona in the World of Gamers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-yuneecs-game-changer-typhoon-q500/"><u>[New] In 2024, Yuneec's Game-Changer Typhoon Q500</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] In 2024, Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-maximizing-audio-capture-essential-techniques-for-facetime/"><u>2024 Approved Maximizing Audio Capture Essential Techniques for FaceTime</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-g24-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto G24? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ajuda-gratuita-como-reverter-a-perda-de-arquivos-em-planilhas-do-excel-que-nao-foram-salvas-ou-deletadas/"><u>Ajuda Gratuita: Como Reverter a Perda De Arquivos Em Planilhas Do Excel Que Não Foram Salvas Ou Deletadas</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728488773975-aomei/"><u>AOMEI バックアップサービスに最適なパートナーシップ提案 - 豊富な専門知識と技術力で共に成長</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guida-passo-passo-per-scoprire-e-cancellare-una-partizione-nascosta-su-ununita-usb-esterna/"><u>Guida Passo-Passo per Scoprire E Cancellare Una Partizione Nascosta Su Un'Unità USB Esterna</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-projecting-film-costs-for-your-music-video/"><u>In 2024, Projecting Film Costs for Your Music Video</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/lalternativa-preferibile-a-acronis-server-sicura-ed-affidabilita-garantite/"><u>L'Alternativa Preferibile a Acronis Server: Sicura Ed Affidabilità Garantite</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/simple-guide-to-reverting-your-pc-back-to-an-earlier-windows-7-system-date/"><u>Simple Guide to Reverting Your PC Back to an Earlier Windows 7 System Date</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-instructions-for-converting-avi-to-divx-on-multiple-systems/"><u>Step-by-Step Instructions for Converting AVI to DivX on Multiple Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unleashing-creative-naming-top-10-ai-podcast-names/"><u>Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-free-online-music-libraries-15-picks/"><u>[Updated] 2024 Approved Essential Free Online Music Libraries 15 Picks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/adjusting-your-pcs-energy-options-a-step-by-step-guide-from-the-windows-control-panel-tips-by-techsavvy/"><u>Adjusting Your PC's Energy Options: A Step-by-Step Guide From the Windows Control Panel - Tips by TechSavvy</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/age-defying-language-acquisition-tips/"><u>Age-Defying Language Acquisition Tips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/captivating-computer-decor-with-yl-softwares-bunny-and-butterfly-themed-backgrounds-stunning-visual-content-for-pc-and-mobile-screens/"><u>Captivating Computer Decor with YL Software's Bunny and Butterfly Themed Backgrounds - Stunning Visual Content for PC & Mobile Screens</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dont-skip-this-weeks-hot-tiktok-tests-for-2024/"><u>Don't Skip This Week's Hot TikTok Tests for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhance-your-private-party-experience-discover-fresh-melodies-with-our-latest-song-addition-to-karaoke-cloud-pro-subscription-as-of-apr-9th/"><u>Enhance Your Private Party Experience - Discover Fresh Melodies with Our Latest Song Addition to Karaoke Cloud Pro Subscription as of Apr. 9Th!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-disabled-windows-account-access/"><u>Restoring Disabled Windows Account Access</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-securely-removing-and-rebuilding-your-scanner-drivers-tips-from-yl-tech-solutions/"><u>Step-by-Step Guide: Securely Removing & Rebuilding Your Scanner Drivers - Tips From YL Tech Solutions</u></a></li>
 </ul></div>
 

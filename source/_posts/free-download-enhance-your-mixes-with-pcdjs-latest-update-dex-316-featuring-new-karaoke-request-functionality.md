@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Enhance Your Mixes with PCDJ's Latest Update - DEX 3.16 Featuring New Karaoke Request Functionality!"
-date: 2024-11-25T19:28:13.760Z
-updated: 2024-11-30T18:45:22.995Z
+date: 2024-12-02T17:47:42.529Z
+updated: 2024-12-08T23:27:37.861Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fill-the-airwaves-with-no-cost-songs-for-2024/"><u>[New] Fill the Airwaves with No-Cost Songs for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-radiant-renderings-perfecting-video-light-quality/"><u>[New] In 2024, Radiant Renderings Perfecting Video Light Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sounds-of-laughter-top-ringtones-downloaders/"><u>[New] Sounds of Laughter Top Ringtones Downloaders</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tagging-towards-triumph-the-best-instagram-hashtags/"><u>[Updated] 2024 Approved Tagging Towards Triumph The Best Instagram Hashtags</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-are-vloggers-compensated-for-product-critiques/"><u>[Updated] In 2024, Are Vloggers Compensated for Product Critiques?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-seamless-steps-preserving-your-iphone-conversations-with-5-simple-archiving-techniques/"><u>1. Seamless Steps: Preserving Your iPhone Conversations with 5 Simple Archiving Techniques</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-kyf-tgdyd-isdar-ahtyaty-windows-server-bshkl-amn-ofaaal-kl-asboaa/"><u>1. كيف تجديد إصدار احتياطي Windows Server بشكل آمن وفعال كل أسبوع؟</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/3-effective-strategies-how-to-properly-install-windows-on-partition-1-of-your-disk/"><u>3 Effective Strategies: How to Properly Install Windows on Partition 1 of Your Disk</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/deciphering-windows-server-201/"><u>Deciphering Windows Server 201</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix?</u></a></li>
-<li><a href="https://facebook.techidaily.com/intrusion-warning-keep-an-eye-out-for-facebook-anomalies/"><u>Intrusion Warning: Keep an Eye Out for Facebook Anomalies</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-to-fix-increase-page-file-size-for-red-dead-redemption-2/"><u>Quick Solutions to Fix 'Increase Page File Size for Red Dead Redemption 2'</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solucionados-mantenimiento-tecnico-asegurese-de-que-el-equipo-este-apagado-antes-del-servicio/"><u>Solucionados | Mantenimiento Técnico: Asegúrese De Que El Equipo Esté Apagado Antes Del Servicio</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-resetting-your-forgotten-email-password/"><u>Step-by-Step Guide: Resetting Your Forgotten Email Password</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/almmarsat-alrysya-ofhm-alnskh-alahtyaty-dlyl-shaml-mkabl/"><u>الممارسات الرئيسية وفهم النسخ الاحتياطي: دليل شامل مقابل</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-picture-preview-compilation/"><u>[Updated] 2024 Approved Best Picture Preview Compilation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-bandicam-vs-camtasia-which-one-is-better/"><u>[Updated] In 2024, Bandicam vs Camtasia, Which One Is Better?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[Updated] In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>[Updated] Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-pcs-performance-effective-tips-for-clearing-disk-space-yl-software-solutions/"><u>Boost Your PC's Performance: Effective Tips for Clearing Disk Space – YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-premium-sound-leading-stereo-speakers-review/"><u>Expert Picks for Premium Sound: Leading Stereo Speakers Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726227498202-gifmov-movavi/"><u>GIF到MOV的免費在線轉換服務 - Movavi 上網改格式器</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-fix-scanning-issues-with-calibration-errors-on-windows-tips-from-yl-computing/"><u>How to Fix Scanning Issues with Calibration Errors on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-audio-setup-on-your-devices-with-tips-from-yl-software-experts/"><u>Mastering Audio Setup on Your Devices with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/premium-karaoke-streaming-service-with-fresh-tracks-for-festive-celebrations-on-october-9-2021/"><u>Premium Karaoke Streaming Service with Fresh Tracks for Festive Celebrations on October 9, 2021</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-essential-upkeep-tactics-to-boost-your-computers-efficiency-a-guide-from-yl-computing/"><u>Top Essential Upkeep Tactics to Boost Your Computer's Efficiency: A Guide From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2024-11-25T19:20:34.468Z
-updated: 2024-11-30T17:25:04.374Z
+date: 2024-12-04T19:33:37.297Z
+updated: 2024-12-08T16:42:28.838Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-crafting-compelling-narratives-in-tiktok-the-top-5-caption-techniques-to-try/"><u>[New] Crafting Compelling Narratives in TikTok The Top 5 Caption Techniques to Try</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation/"><u>[New] In 2024, Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>[Updated] Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-recommendations-elite-ios-audio-makers/"><u>[Updated] In 2024, Superior Recommendations Elite iOS Audio Makers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-incorporating-apple-music-in-visual-content/"><u>[Updated] Incorporating Apple Music in Visual Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[Updated] Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-6-reliable-windows-backup-solutions-compatible-with-windows-11-10-8-and-7/"><u>Best 6 Reliable Windows Backup Solutions Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-se-2022-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone SE (2022) Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/leichter-windows-11-pe-erstellung-fur-eine-bootfahige-datentragerherstellung/"><u>Leichter Windows 11 PE-Erstellung Für Eine Bootfähige Datenträgerherstellung</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/section-3a-the-role-of-cultural-sensitivity-in-global-media-production/"><u>Section 3A: The Role of Cultural Sensitivity in Global Media Production</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-factory-reset-windows-pc-and-retain-personal-data/"><u>Step-by-Step Tutorial: Factory Reset Windows PC and Retain Personal Data</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/uberwindung-von-updatefehlern-error-4000-auf-ihrem-iphone-mit-tipps-fur-ios-7/"><u>Überwindung Von Updatefehlern (Error 4000) Auf Ihrem iPhone Mit Tipps Für iOS 7</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728494884736-windows-11/"><u>Windows 11: 如何修復超期未同步的資料並解決訊息存取錯誤</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-seamlessly-into-avi-for-2024/"><u>[New] How to Convert YouTube Videos Seamlessly Into AVI for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-showdown-top-10-royale-warriors-games/"><u>[Updated] 2024 Approved Ultimate Showdown Top 10 Royale Warriors' Games</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/avoid-incompatibility-mishaps-how-yl-software-helps-you-assess-new-device-hardware-suitability-before-buying/"><u>Avoid Incompatibility Mishaps: How YL Software Helps You Assess New Device Hardware Suitability Before Buying</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/captivating-santa-themed-wallpapers-hd-backgrounds-and-seasonal-imagery-create-cozy-vibes-with-yl-computing-solutions/"><u>Captivating Santa-Themed Wallpapers, HD Backgrounds & Seasonal Imagery - Create Cozy Vibes with YL Computing Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/curing-compounds-can-be-an-alternative-to-wet-curing-especially-when-water-is-scarce-or-practical-application-of-cover-materials-is-difficult/"><u>Curing Compounds Can Be an Alternative to Wet Curing, Especially when Water Is Scarce or Practical Application of Cover Materials Is Difficult.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-malware-defense-techniques-explained-expert-advice-from-yl-software/"><u>Effective Malware Defense Techniques Explained - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-c55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme C55 Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>In 2024, Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/maximizing-pc-performance-through-consistent-defragmentation-benefits-unveiled-by-yl-solutions/"><u>Maximizing PC Performance Through Consistent Defragmentation - Benefits Unveiled by YL Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-free-vvc-a-mp3-guida-completa-di-convertitori-di-testo-voce-e-formati-con-movavi/"><u>Online Free VVC a MP3: Guida Completa Di Convertitori Di Testo-Voce E Formati Con Movavi</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/seamless-steps-upgrading-your-motherboard-and-cpu-without-losing-windows/"><u>Seamless Steps: Upgrading Your Motherboard & CPU Without Losing Windows</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-architects-of-rebellion-who-led-the-taiping-revolution-expert-analysis-from-yl-digital-solutions/"><u>The Architects of Rebellion: Who Led the Taiping Revolution? Expert Analysis From YL Digital Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-tutorial-easy-steps-for-acquiring-your-first-crypto-assets/"><u>YL Software Tutorial: Easy Steps for Acquiring Your First Crypto Assets</u></a></li>
 </ul></div>
 
