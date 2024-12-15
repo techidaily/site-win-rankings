@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2024-12-03T22:40:44.497Z
-updated: 2024-12-08T23:24:29.580Z
+date: 2024-12-13T16:52:52.667Z
+updated: 2024-12-14T22:10:47.149Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,14 +107,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-decoding-the-purpose-why-does-fb-use-a-blue-icon/"><u>[New] 2024 Approved Decoding the Purpose Why Does FB Use a Blue Icon?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-how-to-combine-videos-on-iphone-for-2024/"><u>[New] How to Combine Videos on iPhone for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-craft-how-to-produce-mukbang-videos/"><u>[New] In 2024, Mastering the Craft How to Produce Mukbang Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[New] Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-every-sound-simultaneously-an-interactive-audio-map-of-musical-styles-by-pcdj/"><u>Discover Every Sound Simultaneously: An Interactive Audio Map of Musical Styles by PCDJ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-back-to-gaming-fix-overwatch-voice-chat-glitches-instantly/"><u>Get Back to Gaming: Fix Overwatch Voice Chat Glitches Instantly</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-the-connection-was-reset-issue-on-your-windows-pc-tips-from-yl-computing/"><u>How to Fix the 'Connection Was Reset' Issue on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-through-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper Through Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-adjusting-your-account-settings-in-yl-software-systems/"><u>Step-by-Step Instructions on Adjusting Your Account Settings in YL Software Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thrifty-shoppers-guide-to-cameras/"><u>[New] Thrifty Shopper's Guide to Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-aural-archive-download-preserve-and-examine-tracks/"><u>[Updated] In 2024, Aural Archive Download, Preserve & Examine Tracks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/accelerate-your-computer-the-top-features-you-should-disable-for-better-speed-yl-computing/"><u>Accelerate Your Computer: The Top Features You Should Disable for Better Speed (YL Computing)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-find-out-what-bios-version-youre-running-on-windows-11/"><u>Effortless Methods to Find Out What BIOS Version You're Running on Windows 11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/explore-the-latest-tracks-on-karaoke-cloud-pro-arena-no-autumnal-themes-here/"><u>Explore the Latest Tracks on Karaoke Cloud Pro ARENA: No Autumnal Themes Here!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-fix-a-scanner-unable-to-detect-its-driver-solutions-from-yl-computing/"><u>How to Fix a Scanner Unable to Detect Its Driver: Solutions From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-download-and-deploy-llama-2/"><u>Quick Guide to Download & Deploy Llama 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-itel-s23-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Itel S23 has been deleted</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-deleting-unwanted-files-and-expanding-disk-capacity-tips-from-yl-computing/"><u>Step-by-Step Guide to Deleting Unwanted Files & Expanding Disk Capacity - Tips From YL Computing</u></a></li>
 </ul></div>
 

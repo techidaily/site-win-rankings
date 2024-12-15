@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2024-12-07T19:58:58.445Z
-updated: 2024-12-08T19:40:05.314Z
+date: 2024-12-07T17:33:10.350Z
+updated: 2024-12-15T03:13:05.231Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[Updated] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] 2024 Approved Graphical Forecast The Dominant '23 Social Themes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-start-crafting-movies-xp-edition-install-guide-for-2024/"><u>[Updated] Start Crafting Movies Xp Edition Install Guide for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1732510821688-yl/"><u>现金流管理：实时网格方法教程—由 YL 计算机演绎</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/edit-like-a-pro-comprehensive-tips-for-modifying-excel-worksheets-in-windows-environments-software-guru/"><u>Edit Like a Pro: Comprehensive Tips for Modifying Excel Worksheets in Windows Environments - Software Guru</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortless-mkv-subtitle-removal-techniques-a-step-by-step-guide/"><u>Effortless MKV Subtitle Removal Techniques: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guarding-your-crypto-assets-against-threats-protective-strategies-by-yl-software-experts/"><u>Guarding Your Crypto Assets Against Threats - Protective Strategies by YL Software Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>In 2024, Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-note-50-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme Note 50 FRP Bypass</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/no-cost-to-you-heres-a-list-of-7-free-editing-apps-for-2024/"><u>No Cost to You? Here's a List of 7 Free Editing Apps for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/nutritional-counseling-high-risk-patients-may-receive-guidance-on-proper-nutrition-supplements-like-folic-acid-iron-calcium-and-managing-dietary-restriction91/"><u>Nutritional Counseling: High-Risk Patients May Receive Guidance on Proper Nutrition, Supplements (Like Folic Acid, Iron, Calcium), and Managing Dietary Restrictions for Specific Medical Conditions or Complications During Pregnancy.</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/resolving-windows-bsod-issues-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows BSOD Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/uncovering-the-reasons-behind-sluggish-performance-post-cpu-upgrade-insights-from-yl-computing/"><u>Uncovering the Reasons Behind Sluggish Performance Post-CPU Upgrade: Insights From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-computings-sparkling-hd-diamond-descent-captivating-video-looper-in-full-hd-1080p-resolution/"><u>YL Computing's Sparkling HD Diamond Descent - Captivating Video Looper in Full HD 1080P Resolution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-right-time-to-invest-in-your-next-4k-lens-for-2024/"><u>[New] The Right Time to Invest in Your Next 4K Lens for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-elite-camera-set-optimal-webcams-for-windows-11/"><u>[Updated] In 2024, The Elite Camera Set Optimal Webcams for Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-seamlessly-preserve-your-ppt-video-recording-tips-for-2024/"><u>[Updated] Seamlessly Preserve Your PPT Video Recording Tips for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/binance-announces-bnb-smart-chain-upgrade-hard-fork-on-august-30th-temporary-depositwithdrawal-pause-for-network-stability-official-source/"><u>Binance Announces BNB Smart Chain Upgrade: Hard Fork on August 30Th, Temporary Deposit/Withdrawal Pause for Network Stability [Official Source]</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-pcs-performance-essential-techniques-for-speeding-up-your-hard-drive-yl-computing/"><u>Boost Your PC's Performance: Essential Techniques for Speeding Up Your Hard Drive - YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-difference-karaoke-cloud-pro-vs-streaming-services/"><u>Discover the Difference: Karaoke Cloud Pro Vs. Streaming Services</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/elevate-your-music-journey-unleash-your-inner-star-in-karaoke-cloud-pro-live-sessions/"><u>Elevate Your Music Journey – Unleash Your Inner Star in Karaoke Cloud Pro Live Sessions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhance-your-scans-with-ease-a-guide-to-adjusting-brightness-and-contrast-by-yl-software-experts/"><u>Enhance Your Scans with Ease: A Guide to Adjusting Brightness and Contrast by YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-meets-bing-seeking-supreme-generative-ai-chatbot/"><u>GPT Meets Bing - Seeking Supreme Generative AI Chatbot</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-c51-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme C51 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/manipulating-windows-11-shutdown-time-tips-when-tasks-are-in-progress/"><u>Manipulating Windows 11 Shutdown Time: Tips when Tasks Are in Progress</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-10-best-radio-sound-effects-most-popular/"><u>New In 2024, 10 Best Radio Sound Effects Most Popular</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-high-latency-issues-on-systems-with-guidance-from-yl-software-experts/"><u>Resolving High Latency Issues on Systems with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/seamless-setup-syncing-firewall-configurations-with-network-adapters-guided-by-yl-software/"><u>Seamless Setup: Syncing Firewall Configurations with Network Adapters, Guided by YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sing-your-heart-out-new-releases-on-the-party-cdj-karaoke-subscription-3-26-18-release-date/"><u>Sing Your Heart Out: New Releases on the Party CDJ Karaoke Subscription (3-26-18 Release Date)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-contact-list-correct-it-with-these-3-methods/"><u>Struggling with Your iPhone's Contact List? Correct It With These 3 Methods!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
 </ul></div>
 

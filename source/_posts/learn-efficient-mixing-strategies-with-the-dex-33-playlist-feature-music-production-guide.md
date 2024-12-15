@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2024-12-04T19:33:37.297Z
-updated: 2024-12-08T16:42:28.838Z
+date: 2024-12-09T00:13:33.364Z
+updated: 2024-12-14T18:56:06.306Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-videos-seamlessly-into-avi-for-2024/"><u>[New] How to Convert YouTube Videos Seamlessly Into AVI for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-showdown-top-10-royale-warriors-games/"><u>[Updated] 2024 Approved Ultimate Showdown Top 10 Royale Warriors' Games</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/avoid-incompatibility-mishaps-how-yl-software-helps-you-assess-new-device-hardware-suitability-before-buying/"><u>Avoid Incompatibility Mishaps: How YL Software Helps You Assess New Device Hardware Suitability Before Buying</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-santa-themed-wallpapers-hd-backgrounds-and-seasonal-imagery-create-cozy-vibes-with-yl-computing-solutions/"><u>Captivating Santa-Themed Wallpapers, HD Backgrounds & Seasonal Imagery - Create Cozy Vibes with YL Computing Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/curing-compounds-can-be-an-alternative-to-wet-curing-especially-when-water-is-scarce-or-practical-application-of-cover-materials-is-difficult/"><u>Curing Compounds Can Be an Alternative to Wet Curing, Especially when Water Is Scarce or Practical Application of Cover Materials Is Difficult.</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-malware-defense-techniques-explained-expert-advice-from-yl-software/"><u>Effective Malware Defense Techniques Explained - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enshrouded-crasher-fixed-optimized-stability-for-your-pc/"><u>Enshrouded Crasher Fixed: Optimized Stability for Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-c55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme C55 Data? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>In 2024, Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/maximizing-pc-performance-through-consistent-defragmentation-benefits-unveiled-by-yl-solutions/"><u>Maximizing PC Performance Through Consistent Defragmentation - Benefits Unveiled by YL Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-free-vvc-a-mp3-guida-completa-di-convertitori-di-testo-voce-e-formati-con-movavi/"><u>Online Free VVC a MP3: Guida Completa Di Convertitori Di Testo-Voce E Formati Con Movavi</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/seamless-steps-upgrading-your-motherboard-and-cpu-without-losing-windows/"><u>Seamless Steps: Upgrading Your Motherboard & CPU Without Losing Windows</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-architects-of-rebellion-who-led-the-taiping-revolution-expert-analysis-from-yl-digital-solutions/"><u>The Architects of Rebellion: Who Led the Taiping Revolution? Expert Analysis From YL Digital Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-software-tutorial-easy-steps-for-acquiring-your-first-crypto-assets/"><u>YL Software Tutorial: Easy Steps for Acquiring Your First Crypto Assets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premium-photo-vault-services-for-2024/"><u>[New] Premium Photo Vault Services for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-techniques-for-quality-audio-on-ipads-for-2024/"><u>[Updated] Advanced Techniques for Quality Audio on iPads for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unveil-the-art-of-intrigue-with-our-handpicked-tiktok-themes/"><u>[Updated] In 2024, Unveil the Art of Intrigue with Our Handpicked TikTok Themes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/analyzing-the-latest-in-facetune-a-comprehensive-review/"><u>Analyzing the Latest in Facetune - A Comprehensive Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/configuring-energy-management-on-windows-11-a-step-by-step-guide/"><u>Configuring Energy Management on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/free-download-enhance-your-mixes-with-pcdjs-latest-update-dex-316-featuring-new-karaoke-request-functionality/"><u>Free Download: Enhance Your Mixes with PCDJ's Latest Update - DEX 3.16 Featuring New Karaoke Request Functionality!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-overclock-graphics-cards-in-windows-a-guide-from-yl-software-experts/"><u>How to Overclock Graphics Cards in Windows: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-google-pixel-7a-lock-screen-password-by-drfone-android/"><u>How to Reset your Google Pixel 7a Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-htc-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your HTC Device SIM</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>In 2024, Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-adjusting-date-and-time-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-trending-dj-tracks-of-2017-a-comprehensive-list/"><u>Top Trending DJ Tracks of 2017: A Comprehensive List</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultra-hd-ants-on-a-canvas-marvel-ant-man-series-of-wallpapers-from-yl-computing-developed-by-yl-software/"><u>Ultra-HD Ants on a Canvas: Marvel Ant-Man Series of Wallpapers From YL Computing, Developed by YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/unlock-new-karaoke-horizons-cloudpro-upgrades-of-june-14-bring-an-assorted-array-of-tracks-for-pcdj-mastery/"><u>Unlock New Karaoke Horizons: CloudPro Upgrades of June '14 Bring an Assorted Array of Tracks for PCDJ Mastery!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
 </ul></div>
 

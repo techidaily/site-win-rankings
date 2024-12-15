@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest Video Link Functionality in PCDJ DEX Version 3.6: A Comprehensive Demo"
-date: 2024-12-03T17:16:19.361Z
-updated: 2024-12-08T19:34:21.288Z
+date: 2024-12-09T03:15:11.058Z
+updated: 2024-12-14T16:56:55.196Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,24 +57,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-date-labeling-tips-for-image-archivists/"><u>[New] 2024 Approved Date Labeling Tips for Image Archivists</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>[New] In 2024, How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vibrant-visuals-minimal-jitter/"><u>[Updated] 2024 Approved Vibrant Visuals, Minimal Jitter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-real-deal-behind-asmr-videos/"><u>[Updated] The Real Deal Behind ASMR Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-14-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 14 Pro to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/answer/"><u>Answer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/expert-guide-restoring-damaged-documents-on-your-pc-with-windows-tips-from-yl-computing/"><u>Expert Guide: Restoring Damaged Documents on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-does-yl-software-ensure-timely-notifications-of-your-cryptocurrency-holdings/"><u>How Does YL Software Ensure Timely Notifications of Your Cryptocurrency Holdings?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-resolve-graphics-card-incompatibility-issues-on-your-pc-expert-tips-by-yl-computing/"><u>How to Resolve Graphics Card Incompatibility Issues on Your PC: Expert Tips by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/minimize-pc-memory-consumption-with-easy-tips-from-yl-computing/"><u>Minimize PC Memory Consumption with Easy Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/safeguarding-your-digital-assets-expert-tips-on-preventing-crypto-scams-by-yl-computing/"><u>Safeguarding Your Digital Assets: Expert Tips on Preventing Crypto Scams by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-to-find-and-fix-corrupted-windows-registry-entries-powered-by-yl-software/"><u>Step-by-Step Tutorial to Find & Fix Corrupted Windows Registry Entries - Powered by YL Software</u></a></li>
-<li><a href="https://win-popular.techidaily.com/top-5-strategies-to-fix-persistent-iphone-backup-issues/"><u>Top 5 Strategies to Fix Persistent iPhone Backup Issues</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transforming-videos-into-audio-a-comprehensive-guide-by-yl-computing/"><u>Transforming Videos Into Audio: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 11</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/upgrade-to-the-next-level-of-digital-djing-with-reds-latest-release-dex-3-re-red-edition/"><u>Upgrade to the Next Level of Digital DJing with RED's Latest Release: DEX 3 RE (Red Edition)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-of-the-best-10-recorders-for-your-device-for-2024/"><u>[New] Best of the Best #10 Recorders for Your Device for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-your-roadmap-to-creating-top-notch-srt-files/"><u>2024 Approved Your Roadmap to Creating Top-Notch SRT Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-analysis-comprehensive-camstudio-recorder/"><u>Expert Analysis Comprehensive CamStudio Recorder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-prompt-to-masterpiece-writing-stunning-poems-with-chatgpt-assistance/"><u>From Prompt to Masterpiece: Writing Stunning Poems with ChatGPT Assistance</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-will-blockchain-reshape-global-financial-systems-insights-from-yl-computings-innovation-in-tech/"><u>How Will Blockchain Reshape Global Financial Systems? – Insights From YL Computing's Innovation in Tech</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/kostenloser-windows-11-32-bit-zu-64-bit-aufrusten-garantiert-sicheres-datenmanagement/"><u>Kostenloser Windows 11 32-Bit Zu 64-Bit-Aufrüsten - Garantiert Sicheres Datenmanagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210363924-9781637303580-permission-to-create/"><u>Permission to Create | Free Book</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/quiet-your-clatter-professional-guide-by-yl-software-to-resolve-disruptive-printer-noises/"><u>Quiet Your Clatter: Professional Guide by YL Software to Resolve Disruptive Printer Noises</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-when-asus-laptops-function-keys-stop-working-properly/"><u>Troubleshooting Tips When ASUS Laptop's Function Keys Stop Working Properly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-defender-vs-alternative-antivirus-solutions-a-comparative-analysis-insights-from-yl-computing/"><u>Windows Defender Vs. Alternative Antivirus Solutions: A Comparative Analysis - Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-how-to-efficiently-transferring-files-to-compact-discs-and-dvds-with-expert-advice-from-yl-software/"><u>Windows How-To: Efficiently Transferring Files to Compact Discs and DVDs with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

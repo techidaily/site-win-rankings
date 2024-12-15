@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2024-12-04T23:17:25.646Z
-updated: 2024-12-08T21:20:37.754Z
+date: 2024-12-10T17:32:20.314Z
+updated: 2024-12-14T18:55:27.121Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,14 +79,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-free-online-music-libraries-15-picks/"><u>[Updated] 2024 Approved Essential Free Online Music Libraries 15 Picks</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/adjusting-your-pcs-energy-options-a-step-by-step-guide-from-the-windows-control-panel-tips-by-techsavvy/"><u>Adjusting Your PC's Energy Options: A Step-by-Step Guide From the Windows Control Panel - Tips by TechSavvy</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/age-defying-language-acquisition-tips/"><u>Age-Defying Language Acquisition Tips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-computer-decor-with-yl-softwares-bunny-and-butterfly-themed-backgrounds-stunning-visual-content-for-pc-and-mobile-screens/"><u>Captivating Computer Decor with YL Software's Bunny and Butterfly Themed Backgrounds - Stunning Visual Content for PC & Mobile Screens</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/dont-skip-this-weeks-hot-tiktok-tests-for-2024/"><u>Don't Skip This Week's Hot TikTok Tests for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/enhance-your-private-party-experience-discover-fresh-melodies-with-our-latest-song-addition-to-karaoke-cloud-pro-subscription-as-of-apr-9th/"><u>Enhance Your Private Party Experience - Discover Fresh Melodies with Our Latest Song Addition to Karaoke Cloud Pro Subscription as of Apr. 9Th!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-disabled-windows-account-access/"><u>Restoring Disabled Windows Account Access</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-securely-removing-and-rebuilding-your-scanner-drivers-tips-from-yl-tech-solutions/"><u>Step-by-Step Guide: Securely Removing & Rebuilding Your Scanner Drivers - Tips From YL Tech Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-restoring-streamlined-views-where-are-your-vids/"><u>[New] Restoring Streamlined Views Where Are Your Vids?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-engaging-oratory-insights-part-8/"><u>[Updated] Engaging Oratory Insights Part 8</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/butterfly-themed-wallpapers-and-graphics-ideal-design-elements-by-yl-computing/"><u>Butterfly-Themed Wallpapers & Graphics: Ideal Design Elements by YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solutions-to-get-your-madden-22-running-smoothly-again/"><u>Easy Solutions to Get Your Madden 22 Running Smoothly Again</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/grab-your-dual-nomad-iphone-cases-at-half-price-today-exclusive-offer/"><u>Grab Your Dual Nomad iPhone Cases at Half Price Today - Exclusive Offer !</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-job-interviews-with-confidence-and-competence/"><u>In 2024, Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solving-your-pcs-audio-problem-a-step-by-step-guide-on-repairing-a-malfunctioning-sound-card/"><u>Solving Your PC's Audio Problem: A Step-by-Step Guide on Repairing a Malfunctioning Sound Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/thriving-in-a-multi-task-world-on-windows-11/"><u>Thriving in a Multi-Task World on Windows 11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubled-with-your-usb-solutions-for-when-windows-ignores-your-external-hard-drive-tech-advice-by-yl-computing/"><u>Troubled with Your USB: Solutions for When Windows Ignores Your External Hard Drive - Tech Advice by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-why-your-hard-drive-is-producing-unusual-clicks-insights-from-yl-softwares-tech-team/"><u>Understanding Why Your Hard Drive Is Producing Unusual Clicks: Insights From YL Software's Tech Team</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-11-dvd/"><u>Windows 11に最適化 - DVD コンプレッション用高画質ソフトウェアとその使い方</u></a></li>
 </ul></div>
 

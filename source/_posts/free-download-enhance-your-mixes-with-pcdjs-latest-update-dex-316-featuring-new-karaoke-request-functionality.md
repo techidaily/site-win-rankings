@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Enhance Your Mixes with PCDJ's Latest Update - DEX 3.16 Featuring New Karaoke Request Functionality!"
-date: 2024-12-02T17:47:42.529Z
-updated: 2024-12-08T23:27:37.861Z
+date: 2024-12-07T16:08:02.493Z
+updated: 2024-12-14T22:03:14.562Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,17 +76,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-picture-preview-compilation/"><u>[Updated] 2024 Approved Best Picture Preview Compilation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-bandicam-vs-camtasia-which-one-is-better/"><u>[Updated] In 2024, Bandicam vs Camtasia, Which One Is Better?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-secrets-to-excellent-screen-recordings-on-lenovo/"><u>[Updated] In 2024, Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>[Updated] Mastering the Craft Selecting the Top 5 Web-Based Title Makers</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-pcs-performance-effective-tips-for-clearing-disk-space-yl-software-solutions/"><u>Boost Your PC's Performance: Effective Tips for Clearing Disk Space – YL Software Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-premium-sound-leading-stereo-speakers-review/"><u>Expert Picks for Premium Sound: Leading Stereo Speakers Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726227498202-gifmov-movavi/"><u>GIF到MOV的免費在線轉換服務 - Movavi 上網改格式器</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-scanning-issues-with-calibration-errors-on-windows-tips-from-yl-computing/"><u>How to Fix Scanning Issues with Calibration Errors on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-audio-setup-on-your-devices-with-tips-from-yl-software-experts/"><u>Mastering Audio Setup on Your Devices with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/premium-karaoke-streaming-service-with-fresh-tracks-for-festive-celebrations-on-october-9-2021/"><u>Premium Karaoke Streaming Service with Fresh Tracks for Festive Celebrations on October 9, 2021</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-essential-upkeep-tactics-to-boost-your-computers-efficiency-a-guide-from-yl-computing/"><u>Top Essential Upkeep Tactics to Boost Your Computer's Efficiency: A Guide From YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-download-installation-and-operation-simplified-guide-to-ez-grabber/"><u>[New] In 2024, Download, Installation, and Operation Simplified Guide to EZ Grabber</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-soundscape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>[New] Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-key-to-viral-instagram-posts/"><u>[New] The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-bringing-your-screens-to-life-with-camstudios-latest-tools/"><u>[Updated] Bringing Your Screens to Life with CamStudio's Latest Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-kinemasters-secrets-to-transition-excellence/"><u>[Updated] Kinemaster's Secrets to Transition Excellence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>2024 Approved From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-skyrocket-your-earnings-by-mastering-youtube-shorts-monetization/"><u>2024 Approved Skyrocket Your Earnings by Mastering YouTube Shorts Monetization</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/altering-linguistic-preferences-in-your-system-a-guide-by-yl-computing/"><u>Altering Linguistic Preferences in Your System: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/can-refreshing-your-graphics-cards-drivers-fix-display-problems-expert-advice-from-yl-computing/"><u>Can Refreshing Your Graphics Card's Drivers Fix Display Problems? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/economic-downturn-sparks-rise-in-chinese-protest-movements-amid-real-estate-uncertainties-reveals-freedom-house-an-analysis-by-yl-computing-yl-software/"><u>Economic Downturn Sparks Rise in Chinese Protest Movements Amid Real Estate Uncertainties, Reveals 'Freedom House': An Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-evolution-of-faith-a-deep-dive-into-chinas-spiritual-heritage/"><u>Exploring the Evolution of Faith: A Deep Dive Into China's Spiritual Heritage</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-top-third-party-applications-to-optimize-recovery-operations-insights-by-yl-software-experts/"><u>Exploring Top Third-Party Applications to Optimize Recovery Operations: Insights by YL Software Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x50-gt-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 GT Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/restoring-your-data-after-hard-drive-failure-expert-advice-from-yl-software/"><u>Restoring Your Data After Hard Drive Failure: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-collection-of-call-of-duty-warzone-stunning-high-res-wallpapers-and-visuals-official-yl-software-graphics/"><u>Ultimate Collection of Call of Duty: Warzone Stunning High-Res Wallpapers & Visuals - Official YL Software Graphics</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-insights-a-comprehensive-walkthrough-for-adding-fresh-accounts-to-your-yl-computing-platform/"><u>YL Software Insights: A Comprehensive Walkthrough for Adding Fresh Accounts to Your YL Computing Platform</u></a></li>
 </ul></div>
 
