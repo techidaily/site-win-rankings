@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2024-12-09T18:29:42.900Z
-updated: 2024-12-14T18:10:07.437Z
+date: 2024-12-22T23:07:27.711Z
+updated: 2024-12-23T16:17:36.991Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,19 +63,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-dominance-youtubes-best-female-gamers/"><u>[New] 2024 Approved Digital Dominance YouTube's Best Female Gamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>[New] The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-youtube-to-insta-a-video-posting-guide-for-2024/"><u>[Updated] From YouTube to Insta A Video Posting Guide for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults/"><u>2024 Approved A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-steps-to-prevent-unplanned-recordings-in-qt/"><u>2024 Approved Steps to Prevent Unplanned Recordings in QT</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-your-gpus-cooling-efficiency-a-guide-tech-insights-by-yl/"><u>Determining Your GPU's Cooling Efficiency: A Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-tutorial-to-enable-continuous-updates-in-your-windows-11-system-with-help-from-yl-software-experts/"><u>Easy Tutorial to Enable Continuous Updates in Your Windows 11 System with Help From YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-swap-out-a-damaged-ssd-or-hdd-on-your-computer-the-complete-guide-from-yl-technologies/"><u>How Can You Swap Out a Damaged SSD or HDD on Your Computer - The Complete Guide From YL Technologies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fostering-creativity-the-most-innovative-6-nft-services/"><u>In 2024, Fostering Creativity The Most Innovative 6 NFT Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-naming-excellence-the-top-10-ai-powered-title-makers/"><u>In 2024, Naming Excellence The Top 10 AI-Powered Title Makers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ize-more-strategies-for-youtubes-updated-partner-plan/"><u>Monetize More Strategies for YouTube's Updated Partner Plan</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-the-bitcoin-market-buying-and-selling-strategies-with-yl-software-insights/"><u>Navigating the Bitcoin Market: Buying and Selling Strategies with YL Software Insights</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-impact-and-outcomes-of-the-boxer-uprising-as-explained-by-yl-solutions/"><u>The Impact and Outcomes of the Boxer Uprising as Explained by YL Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-system-alerts-how-to-detect-and-diagnose-scan-malfunctions-with-yl-software-guidance/"><u>Understanding System Alerts: How to Detect and Diagnose Scan Malfunctions with YL Software Guidance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-brief-beatcasts-role-of-the-melody/"><u>[New] 2024 Approved Brief Beatcasts Role of the Melody</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices-for-2024/"><u>[New] Easy Steps to Personalize Google Meet on Laptops & Mobile Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-farm-frontier-the-best-seed-to-sow-in-gaming-for-2024/"><u>[New] Farm Frontier The Best Seed to Sow in Gaming for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-budget-pc-video-capture-tools-assessed-for-2024/"><u>[Updated] Budget PC Video Capture Tools Assessed for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-selecting-the-prime-sky-vault-for-firms/"><u>2024 Approved Selecting the Prime Sky Vault for Firms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-google-pixel-8-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Google Pixel 8 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/celebrate-earth-day-with-vibrant-hd-wallpapers-create-an-eco-friendly-digital-experience-by-yl-software/"><u>Celebrate Earth Day with Vibrant HD Wallpapers - Create an Eco-Friendly Digital Experience by YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/dj-deckdrums-v3-unveiled-introducing-the-innovative-auto-limit-tracks-feature-for-seamless-mixing/"><u>DJ Deckdrums v3 Unveiled: Introducing the Innovative Auto-Limit Tracks Feature for Seamless Mixing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-mouse-fixes-a-step-by-step-guide-to-resolving-mouse-issues/"><u>Effective Mouse Fixes: A Step-by-Step Guide to Resolving Mouse Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-implications-of-chatgpt-on-confidentiality/"><u>Exploring the Implications of ChatGPT on Confidentiality</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-6-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 6 Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/karaoke-cloud-pro-update-enhance-your-playlist-with-additional-2700-tracks/"><u>Karaoke Cloud Pro Update: Enhance Your Playlist with Additional 2,700 Tracks!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sudden-disappearance-understanding-why-your-pc-no-longer-recognizes-its-hard-drive-tech-insights-from-yl-software/"><u>Sudden Disappearance: Understanding Why Your PC No Longer Recognizes Its Hard Drive - Tech Insights From YL Software</u></a></li>
 </ul></div>
 

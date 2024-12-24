@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2024-12-09T00:13:33.364Z
-updated: 2024-12-14T18:56:06.306Z
+date: 2024-12-17T21:59:24.822Z
+updated: 2024-12-23T21:02:54.357Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-premium-photo-vault-services-for-2024/"><u>[New] Premium Photo Vault Services for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-techniques-for-quality-audio-on-ipads-for-2024/"><u>[Updated] Advanced Techniques for Quality Audio on iPads for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unveil-the-art-of-intrigue-with-our-handpicked-tiktok-themes/"><u>[Updated] In 2024, Unveil the Art of Intrigue with Our Handpicked TikTok Themes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/analyzing-the-latest-in-facetune-a-comprehensive-review/"><u>Analyzing the Latest in Facetune - A Comprehensive Review</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/configuring-energy-management-on-windows-11-a-step-by-step-guide/"><u>Configuring Energy Management on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/free-download-enhance-your-mixes-with-pcdjs-latest-update-dex-316-featuring-new-karaoke-request-functionality/"><u>Free Download: Enhance Your Mixes with PCDJ's Latest Update - DEX 3.16 Featuring New Karaoke Request Functionality!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-overclock-graphics-cards-in-windows-a-guide-from-yl-software-experts/"><u>How to Overclock Graphics Cards in Windows: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-google-pixel-7a-lock-screen-password-by-drfone-android/"><u>How to Reset your Google Pixel 7a Lock Screen Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-htc-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your HTC Device SIM</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>In 2024, Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-adjusting-date-and-time-settings-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Date & Time Settings via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-trending-dj-tracks-of-2017-a-comprehensive-list/"><u>Top Trending DJ Tracks of 2017: A Comprehensive List</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultra-hd-ants-on-a-canvas-marvel-ant-man-series-of-wallpapers-from-yl-computing-developed-by-yl-software/"><u>Ultra-HD Ants on a Canvas: Marvel Ant-Man Series of Wallpapers From YL Computing, Developed by YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unlock-new-karaoke-horizons-cloudpro-upgrades-of-june-14-bring-an-assorted-array-of-tracks-for-pcdj-mastery/"><u>Unlock New Karaoke Horizons: CloudPro Upgrades of June '14 Bring an Assorted Array of Tracks for PCDJ Mastery!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-bank-balance-crafting-commercial-video-content-for-2024/"><u>[Updated] Boosting Bank Balance Crafting Commercial Video Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-amateur-to-pro-instagram-video-tutorials/"><u>[Updated] In 2024, From Amateur to Pro Instagram Video Tutorials</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/avoid-incompatibility-mishaps-how-yl-software-helps-you-assess-new-device-hardware-suitability-before-buying/"><u>Avoid Incompatibility Mishaps: How YL Software Helps You Assess New Device Hardware Suitability Before Buying</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/captivating-santa-themed-wallpapers-hd-backgrounds-and-seasonal-imagery-create-cozy-vibes-with-yl-computing-solutions/"><u>Captivating Santa-Themed Wallpapers, HD Backgrounds & Seasonal Imagery - Create Cozy Vibes with YL Computing Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/customize-your-mouse-and-touchpad-settings-using-windows-control-panel-tips-from-yl-software/"><u>Customize Your Mouse & Touchpad Settings Using Windows Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/download-premium-bmw-m5-hd-desktop-backgrounds-from-yl-software-elite-photo-collection-for-your-laptop-or-pc/"><u>Download Premium BMW M5 HD Desktop Backgrounds From YL Software: Elite Photo Collection for Your Laptop or PC</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-malware-defense-techniques-explained-expert-advice-from-yl-software/"><u>Effective Malware Defense Techniques Explained - Expert Advice From YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-find-x7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Find X7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/maximizing-pc-performance-through-consistent-defragmentation-benefits-unveiled-by-yl-solutions/"><u>Maximizing PC Performance Through Consistent Defragmentation - Benefits Unveiled by YL Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-through-hype-and-bubble-risks-in-cryptocurrency-investments-expert-insights-from-yl-software/"><u>Navigating Through Hype and Bubble Risks in Cryptocurrency Investments – Expert Insights From YL Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-movie-editing-software-top-9-choices-for-2024/"><u>New Free Online Movie Editing Software Top 9 Choices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unbelievable-evaluation-and-alternative-choices/"><u>Unbelievable Evaluation & Alternative Choices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-cryptos-edge-top-reasons-to-embrace-digital-currencies-with-yl-software-guidance/"><u>Understanding Crypto's Edge: Top Reasons to Embrace Digital Currencies with YL Software Guidance</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-tutorial-easy-steps-for-acquiring-your-first-crypto-assets/"><u>YL Software Tutorial: Easy Steps for Acquiring Your First Crypto Assets</u></a></li>
 </ul></div>
 

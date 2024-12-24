@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2024-12-10T17:32:20.314Z
-updated: 2024-12-14T18:55:27.121Z
+date: 2024-12-18T18:11:38.480Z
+updated: 2024-12-23T23:43:44.945Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,16 +79,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-restoring-streamlined-views-where-are-your-vids/"><u>[New] Restoring Streamlined Views Where Are Your Vids?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-engaging-oratory-insights-part-8/"><u>[Updated] Engaging Oratory Insights Part 8</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/butterfly-themed-wallpapers-and-graphics-ideal-design-elements-by-yl-computing/"><u>Butterfly-Themed Wallpapers & Graphics: Ideal Design Elements by YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-to-get-your-madden-22-running-smoothly-again/"><u>Easy Solutions to Get Your Madden 22 Running Smoothly Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/grab-your-dual-nomad-iphone-cases-at-half-price-today-exclusive-offer/"><u>Grab Your Dual Nomad iPhone Cases at Half Price Today - Exclusive Offer !</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-job-interviews-with-confidence-and-competence/"><u>In 2024, Navigating Job Interviews with Confidence and Competence</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solving-your-pcs-audio-problem-a-step-by-step-guide-on-repairing-a-malfunctioning-sound-card/"><u>Solving Your PC's Audio Problem: A Step-by-Step Guide on Repairing a Malfunctioning Sound Card</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/thriving-in-a-multi-task-world-on-windows-11/"><u>Thriving in a Multi-Task World on Windows 11</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubled-with-your-usb-solutions-for-when-windows-ignores-your-external-hard-drive-tech-advice-by-yl-computing/"><u>Troubled with Your USB: Solutions for When Windows Ignores Your External Hard Drive - Tech Advice by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-why-your-hard-drive-is-producing-unusual-clicks-insights-from-yl-softwares-tech-team/"><u>Understanding Why Your Hard Drive Is Producing Unusual Clicks: Insights From YL Software's Tech Team</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-11-dvd/"><u>Windows 11に最適化 - DVD コンプレッション用高画質ソフトウェアとその使い方</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-memes-to-your-device-iosandroid-gif-collection-tips-for-2024/"><u>[New] From Memes to Your Device IOS/Android GIF Collection Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-efficient-techniques-for-tweaking-snapchat-video-speed/"><u>[New] In 2024, Efficient Techniques for Tweaking Snapchat Video Speed</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-practices-for-handling-suspicious-virus-warnings-in-the-digital-space-tips-by-yl-computing-software-experts/"><u>Best Practices for Handling Suspicious Virus Warnings in the Digital Space - Tips by YL Computing Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-efficiency-with-logitech-mx-master-software-setup-and-usage-tips/"><u>Boost Efficiency with Logitech MX Master - Software Setup and Usage Tips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/dj-deckdrums-v3-unveiled-introducing-the-innovative-auto-limit-tracks-feature-for-seamless-mixing/"><u>DJ Deckdrums v3 Unveiled: Introducing the Innovative Auto-Limit Tracks Feature for Seamless Mixing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-mechanics-of-blockchain-with-yl-computings-in-depth-analysis/"><u>Exploring the Mechanics of Blockchain with YL Computing's In-Depth Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fix-invisible-facebook-watch-icon-now-fixed/"><u>Fix Invisible Facebook Watch Icon, Now Fixed</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/go-green-with-music-ultimate-online-karaoke-setlist-for-st-patricks-festive-extravaganza/"><u>Go Green with Music: Ultimate Online Karaoke Setlist for St. Patrick’s Festive Extravaganza</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>In 2024, Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-it-time-to-upgrade-your-failed-hard-drive-with-a-new-one-insights-from-yl-computings-expertise/"><u>Is It Time to Upgrade Your Failed Hard Drive with a New One? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-mobile-connectivity-why-i-cant-live-without-this-wireless-usb-c-charger-for-on-the-go/"><u>Mastering Your Mobile Connectivity: Why I Can't Live Without This Wireless USB-C Charger for On-The-Go!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sudden-disappearance-understanding-why-your-pc-no-longer-recognizes-its-hard-drive-tech-insights-from-yl-software/"><u>Sudden Disappearance: Understanding Why Your PC No Longer Recognizes Its Hard Drive - Tech Insights From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-pivotal-influence-of-sun-yat-sen-in-creating-the-chinese-republic-discovered-through-yl-software/"><u>The Pivotal Influence of Sun Yat-Sen in Creating the Chinese Republic - Discovered Through YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-solutions-for-replacing-out-of-date-drivers-step-by-step-instructions/"><u>YL Software Solutions for Replacing Out-of-Date Drivers - Step-by-Step Instructions</u></a></li>
 </ul></div>
 
