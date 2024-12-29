@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2024-12-17T21:59:24.822Z
-updated: 2024-12-23T21:02:54.357Z
+date: 2024-12-28T19:11:40.006Z
+updated: 2024-12-29T18:13:32.553Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-bank-balance-crafting-commercial-video-content-for-2024/"><u>[Updated] Boosting Bank Balance Crafting Commercial Video Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-amateur-to-pro-instagram-video-tutorials/"><u>[Updated] In 2024, From Amateur to Pro Instagram Video Tutorials</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/avoid-incompatibility-mishaps-how-yl-software-helps-you-assess-new-device-hardware-suitability-before-buying/"><u>Avoid Incompatibility Mishaps: How YL Software Helps You Assess New Device Hardware Suitability Before Buying</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-santa-themed-wallpapers-hd-backgrounds-and-seasonal-imagery-create-cozy-vibes-with-yl-computing-solutions/"><u>Captivating Santa-Themed Wallpapers, HD Backgrounds & Seasonal Imagery - Create Cozy Vibes with YL Computing Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/customize-your-mouse-and-touchpad-settings-using-windows-control-panel-tips-from-yl-software/"><u>Customize Your Mouse & Touchpad Settings Using Windows Control Panel - Tips From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/download-premium-bmw-m5-hd-desktop-backgrounds-from-yl-software-elite-photo-collection-for-your-laptop-or-pc/"><u>Download Premium BMW M5 HD Desktop Backgrounds From YL Software: Elite Photo Collection for Your Laptop or PC</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-malware-defense-techniques-explained-expert-advice-from-yl-software/"><u>Effective Malware Defense Techniques Explained - Expert Advice From YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 13 Pro | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-find-x7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Find X7 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/maximizing-pc-performance-through-consistent-defragmentation-benefits-unveiled-by-yl-solutions/"><u>Maximizing PC Performance Through Consistent Defragmentation - Benefits Unveiled by YL Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/navigating-through-hype-and-bubble-risks-in-cryptocurrency-investments-expert-insights-from-yl-software/"><u>Navigating Through Hype and Bubble Risks in Cryptocurrency Investments – Expert Insights From YL Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-movie-editing-software-top-9-choices-for-2024/"><u>New Free Online Movie Editing Software Top 9 Choices for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unbelievable-evaluation-and-alternative-choices/"><u>Unbelievable Evaluation & Alternative Choices</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-cryptos-edge-top-reasons-to-embrace-digital-currencies-with-yl-software-guidance/"><u>Understanding Crypto's Edge: Top Reasons to Embrace Digital Currencies with YL Software Guidance</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-software-tutorial-easy-steps-for-acquiring-your-first-crypto-assets/"><u>YL Software Tutorial: Easy Steps for Acquiring Your First Crypto Assets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[New] 2024 Approved Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-visual-tapestry-maker-premium-photo-edition/"><u>[Updated] Visual Tapestry Maker Premium Photo Edition</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/download-cbs-news-videos-in-various-formats-mp4-wmv-mov-flv-and-avi/"><u>Download CBS News Videos in Various Formats - MP4, WMV, MOV, FLV & AVI</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-various-blockchain-wallet-options-compatible-with-balance-checker-utilities-a-comprehensive-guide/"><u>Exploring Various Blockchain Wallet Options Compatible with Balance Checker Utilities: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-you-fix-your-wi-fi-connection-issues-insights-from-yl-computings-expertise/"><u>How Can You Fix Your Wi-Fi Connection Issues? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-winning-with-facebook-videos/"><u>In 2024, The Ultimate Guide to Winning with Facebook Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/party-tyme-unleashed-over-1200-new-songs-ready-for-your-karaoke-journey/"><u>Party Tyme Unleashed: Over 1200 New Songs Ready for Your Karaoke Journey!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-your-exclusive-10-savings-on-thevideopool-premium-access-until-august-1st-subscribe-now/"><u>Secure Your Exclusive 10% Savings on TheVideoPool Premium Access Until August 1St - Subscribe Now!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-recommended-antivirus-solutions-for-optimal-computer-protection-insights-from-yl-computing/"><u>Top Recommended Antivirus Solutions for Optimal Computer Protection: Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/unlock-your-pcs-full-potential-with-our-walkthrough-to-open-control-panel-yl-computing-expertise/"><u>Unlock Your PC's Full Potential with Our Walkthrough to Open Control Panel - YL Computing Expertise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-hidden-potential-how-to-use-video-filters-on-zoom-for-2024/"><u>Unlocking Hidden Potential How To Use Video Filters on Zoom for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-ultimate-guide-by-toms-hardware/"><u>Unlocking Technology Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
 </ul></div>
 

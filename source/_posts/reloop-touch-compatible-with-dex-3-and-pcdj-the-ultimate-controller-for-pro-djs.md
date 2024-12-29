@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2024-12-18T02:30:22.081Z
-updated: 2024-12-23T18:25:15.894Z
+date: 2024-12-24T18:49:21.935Z
+updated: 2024-12-29T16:26:55.518Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,24 +107,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-subtext-converting-srt-to-sub/"><u>[New] 2024 Approved Unlocking Subtext Converting SRT to SUB</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-9-stealthy-pro-tools-tricks-for-novice-designers/"><u>[New] 9 Stealthy Pro Tools Tricks for Novice Designers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-picture-perfect-your-essential-guide-to-uploading-on-youtube/"><u>[New] Picture Perfect Your Essential Guide to Uploading on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-vr-game-engine-picks-2023-for-2024/"><u>[New] The Ultimate Guide to VR Game Engine Picks, 2023 for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[New] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-breakthrough-ai-creative-workstation/"><u>[Updated] 2024 Approved Breakthrough AI Creative Workstation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quest-masters-choice-celebrating-gaming-epics-anew/"><u>[Updated] In 2024, Quest Masters' Choice Celebrating Gaming Epics Anew</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[Updated] In 2024, Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/detailed-review-of-the-apeman-c45n-dashcam-the-best-choice-for-cost-conscious-consumers/"><u>Detailed Review of the Apeman C45n Dashcam - The Best Choice for Cost-Conscious Consumers</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-fixes-for-frequent-registry-errors-expert-advice-from-yl-software/"><u>Essential Fixes for Frequent Registry Errors - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-control-update-installation-on-your-pc-running-windows-11-insights-by-yl-computing/"><u>How Can You Control Update Installation on Your PC Running Windows 11? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-does-a-cluttered-system-impact-performance-insights-from-yl-software-experts/"><u>How Does a Cluttered System Impact Performance: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-the-connection-was-reset-issue-on-your-windows-pc-tips-from-yl-computing/"><u>How to Fix the 'Connection Was Reset' Issue on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-audio-controls-a-guide-to-tweaking-windows-10-sound-settings-tips-by-yl-computing/"><u>Mastering Audio Controls: A Guide to Tweaking Windows 10 Sound Settings - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/securing-your-files-a-step-by-step-guide-to-password-protection-learn-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Password Protection - Learn From YL Computing Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-through-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper Through Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-adjusting-your-account-settings-in-yl-software-systems/"><u>Step-by-Step Instructions on Adjusting Your Account Settings in YL Software Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unveiling-hidden-dangers-a-deep-dive-into-the-perils-of-crypto-asset-investment-expert-insights-from-yl-computing/"><u>Unveiling Hidden Dangers: A Deep Dive Into the Perils of Crypto Asset Investment - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-edits-the-best-video-editors-ranked/"><u>[New] 2024 Approved Elite Edits The Best Video Editors Ranked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-shine-and-share-the-art-of-crafting-instagram-spotlights-3-ways/"><u>[Updated] In 2024, Shine and Share The Art of Crafting Instagram Spotlights (3 Ways)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-piece-by-piece-crafting-the-mosaic-photo-collage-way/"><u>[Updated] Piece-by-Piece Crafting The Mosaic Photo Collage Way</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-earnings-go-up-with-500-subs/"><u>2024 Approved YouTube's Earnings Go Up With 500 Subs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-computers-efficiency-using-windows-task-manager-expert-tips-from-yl-software/"><u>Boost Your Computer's Efficiency Using Windows Task Manager: Expert Tips From YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-precision-why-30fps-can-be-perfect/"><u>Console Precision: Why 30FPS Can Be Perfect</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/elevate-your-playlist-with-party-tymes-ultimate-karaoke-selection-discover-35-hit-tracks-from-the-latest-subscription-pack-date-april-1st-2022/"><u>Elevate Your Playlist with Party Tyme's Ultimate Karaoke Selection – Discover 35 Hit Tracks From the Latest Subscription Pack, Date: April 1St, 2022!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-precise-is-yl-computings-live-cryptocurrency-address-balance-verification-tool/"><u>How Precise Is YL Computing's Live Cryptocurrency Address Balance Verification Tool?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-moto-g14-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Moto G14 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-safely-disable-windows-defender-a-guide-for-short-term-use-yl-software-solutions/"><u>How To Safely Disable Windows Defender: A Guide For Short-Term Use - YL Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-go-2024-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-windows-customization-a-how-to-for-changing-locale-settings-expert-advice-by-yl-software/"><u>Mastering Windows Customization: A How-To for Changing Locale Settings - Expert Advice by YL Software</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-a-complete-guide-of-top-7-video-language-translators/"><u>New A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-strategies-for-efficiently-removing-applications-insights-from-yl-computing/"><u>Top Strategies for Efficiently Removing Applications: Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-tunes-never-to-spin-at-your-love-filled-wedding-event/"><u>Top Tunes Never to Spin at Your Love-Filled Wedding Event</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-computings-ultimate-troubleshooting-for-retrieving-files-from-an-external-hard-disk/"><u>YL Computing's Ultimate Troubleshooting for Retrieving Files From an External Hard Disk</u></a></li>
 </ul></div>
 

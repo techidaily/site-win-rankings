@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2024-12-22T23:07:27.711Z
-updated: 2024-12-23T16:17:36.991Z
+date: 2024-12-27T16:42:49.385Z
+updated: 2024-12-29T16:59:51.574Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,18 +63,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-brief-beatcasts-role-of-the-melody/"><u>[New] 2024 Approved Brief Beatcasts Role of the Melody</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-personalize-google-meet-on-laptops-and-mobile-devices-for-2024/"><u>[New] Easy Steps to Personalize Google Meet on Laptops & Mobile Devices for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-farm-frontier-the-best-seed-to-sow-in-gaming-for-2024/"><u>[New] Farm Frontier The Best Seed to Sow in Gaming for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-budget-pc-video-capture-tools-assessed-for-2024/"><u>[Updated] Budget PC Video Capture Tools Assessed for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-selecting-the-prime-sky-vault-for-firms/"><u>2024 Approved Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-google-pixel-8-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Google Pixel 8 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/celebrate-earth-day-with-vibrant-hd-wallpapers-create-an-eco-friendly-digital-experience-by-yl-software/"><u>Celebrate Earth Day with Vibrant HD Wallpapers - Create an Eco-Friendly Digital Experience by YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/dj-deckdrums-v3-unveiled-introducing-the-innovative-auto-limit-tracks-feature-for-seamless-mixing/"><u>DJ Deckdrums v3 Unveiled: Introducing the Innovative Auto-Limit Tracks Feature for Seamless Mixing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-mouse-fixes-a-step-by-step-guide-to-resolving-mouse-issues/"><u>Effective Mouse Fixes: A Step-by-Step Guide to Resolving Mouse Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-implications-of-chatgpt-on-confidentiality/"><u>Exploring the Implications of ChatGPT on Confidentiality</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-6-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic 6 Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/karaoke-cloud-pro-update-enhance-your-playlist-with-additional-2700-tracks/"><u>Karaoke Cloud Pro Update: Enhance Your Playlist with Additional 2,700 Tracks!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/sudden-disappearance-understanding-why-your-pc-no-longer-recognizes-its-hard-drive-tech-insights-from-yl-software/"><u>Sudden Disappearance: Understanding Why Your PC No Longer Recognizes Its Hard Drive - Tech Insights From YL Software</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>[New] In 2024, Streamline Your TikTok Experience 4 Desktop Broadcast Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pathway-to-accessing-fb-videos-via-windowsmacos-for-2024/"><u>[New] Pathway to Accessing FB Videos via Windows/macOS for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-speedy-steps-scribbling-down-slides-in-ppt/"><u>[New] Speedy Steps Scribbling Down Slides in PPT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-prominent-comment-spotlights/"><u>[Updated] Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[Updated] In 2024, From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/altering-linguistic-preferences-in-your-system-a-guide-by-yl-computing/"><u>Altering Linguistic Preferences in Your System: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/can-refreshing-your-graphics-cards-drivers-fix-display-problems-expert-advice-from-yl-computing/"><u>Can Refreshing Your Graphics Card's Drivers Fix Display Problems? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/economic-downturn-sparks-rise-in-chinese-protest-movements-amid-real-estate-uncertainties-reveals-freedom-house-an-analysis-by-yl-computing-yl-software/"><u>Economic Downturn Sparks Rise in Chinese Protest Movements Amid Real Estate Uncertainties, Reveals 'Freedom House': An Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-top-third-party-applications-to-optimize-recovery-operations-insights-by-yl-software-experts/"><u>Exploring Top Third-Party Applications to Optimize Recovery Operations: Insights by YL Software Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-exclusive-lifetime-access-to-macxdvd-suite-today-act-fast-on-limited-time-promo-for-an-entirely-free-upgrade/"><u>Get Your Exclusive, Lifetime Access to MacXDVD Suite Today! Act Fast on Limited-Time Promo for an Entirely Free Upgrade!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-14-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 14 Plus Smoothly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/restoring-your-data-after-hard-drive-failure-expert-advice-from-yl-software/"><u>Restoring Your Data After Hard Drive Failure: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-collection-of-call-of-duty-warzone-stunning-high-res-wallpapers-and-visuals-official-yl-software-graphics/"><u>Ultimate Collection of Call of Duty: Warzone Stunning High-Res Wallpapers & Visuals - Official YL Software Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-ultra-fast-charging-with-our-200w-behemoth-multi-device-powerhouse-in-a-miniature-package-zdnet/"><u>Unleash Ultra-Fast Charging with Our 200W Behemoth: Multi-Device Powerhouse in a Miniature Package | ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-insights-a-comprehensive-walkthrough-for-adding-fresh-accounts-to-your-yl-computing-platform/"><u>YL Software Insights: A Comprehensive Walkthrough for Adding Fresh Accounts to Your YL Computing Platform</u></a></li>
 </ul></div>
 

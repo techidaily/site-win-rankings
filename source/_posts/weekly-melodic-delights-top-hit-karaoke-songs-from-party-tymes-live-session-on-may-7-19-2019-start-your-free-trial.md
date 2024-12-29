@@ -1,7 +1,7 @@
 ---
 title: "Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!"
-date: 2024-12-21T01:37:00.900Z
-updated: 2024-12-23T17:49:32.573Z
+date: 2024-12-22T18:56:41.785Z
+updated: 2024-12-29T16:42:40.256Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ DEX 3 users have even more to get fired up about this week, with the additional 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Access, Stream, and/or Download These Karaoke Hits Now With Party Tyme and DEX 3/LYRX
@@ -63,7 +63,7 @@ Have questions about the Party Tyme **karaoke subscription**, the **new** **kara
 Please leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,21 +85,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/05/partytyme-karaokesub-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/huckle-campaign-7-ingenious-ideas-for-funny-youtube-videos-for-2024/"><u>[New] Chuckle Campaign 7 Ingenious Ideas for Funny YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>[New] In 2024, Unleashing Creativity Essential Angles in Mobile Shooting</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-for-filmmakers-revolutionizing-visual-storytelling/"><u>[New] In 2024, Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-most-popular-gratuitous-vfx-websites-for-2024/"><u>[New] Most Popular Gratuitous VFX Websites for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-live-streamed-gaming-sessions/"><u>2024 Approved Mastering Live-Streamed Gaming Sessions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-real-world-vr-device-showcase/"><u>2024 Approved Real-World VR Device Showcase</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/adjusting-date-time-and-numerical-format-settings-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Date, Time, and Numerical Format Settings: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/butterfly-themed-wallpapers-and-graphics-ideal-design-elements-by-yl-computing/"><u>Butterfly-Themed Wallpapers & Graphics: Ideal Design Elements by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/celebrate-labor-day-with-a-bargain-enjoy-10-savings-on-digital-dj-and-sing-along-software-powered-by-pcdj/"><u>Celebrate Labor Day with a Bargain - Enjoy 10% Savings on Digital DJ and Sing-Along Software | Powered by PCDJ</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/changing-regional-and-languages-settings-via-windows-pcs-control-panel-insights-by-yl-computing/"><u>Changing Regional and Languages Settings via Windows PC's Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embracing-timeless-elegance-with-a-digital-edge-the-ultimate-review-of-withings-move-smartwatches/"><u>Embracing Timeless Elegance with a Digital Edge: The Ultimate Review of Withings Move Smartwatches</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/mini-pc-evaluation-is-it-right-for-you-over-desktops/"><u>Mini PC Evaluation: Is It Right for You Over Desktops?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/scanner-connection-issues-resolved-expert-guide-from-yl-software/"><u>Scanner Connection Issues Resolved: Expert Guide From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-mining-digital-coins-insights-from-yl-computing/"><u>Step-by-Step Guide to Mining Digital Coins: Insights From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubled-with-your-usb-solutions-for-when-windows-ignores-your-external-hard-drive-tech-advice-by-yl-computing/"><u>Troubled with Your USB: Solutions for When Windows Ignores Your External Hard Drive - Tech Advice by YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-second-guide-to-fast-fortnite-graphics/"><u>[New] 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-finest-4-sites-for-tones-for-2024/"><u>[New] Unveiling the Finest 4 Sites for Tones for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-accessible-legal-tracks-for-gameplay-enjoyment/"><u>[Updated] Accessible Legal Tracks for Gameplay Enjoyment</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-system-speed-essential-advice-by-yl-software-experts/"><u>Boost Your System Speed: Essential Advice by YL Software Experts</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/demystifying-the-functionality-of-registry-key-windows-dialogue-boxes/"><u>Demystifying the Functionality of Registry Key Windows Dialogue Boxes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/eliminating-annoying-popup-ads-expert-tips-from-yl-computing/"><u>Eliminating Annoying Popup Ads: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhancing-pc-performance-and-longevities-through-reduced-usage-tips-the-expertise-of-yl-systems/"><u>Enhancing PC Performance and Longevities Through Reduced Usage Tips - The Expertise of YL Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ico-explained-insights-into-initial-coin-offerings-with-yl-software/"><u>ICO Explained: Insights Into Initial Coin Offerings with YL Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-kings-warzone/"><u>In 2024, Capture Kings Warzone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/maintaining-a-high-performance-pc-key-updates-and-maintenance-practices-recommended-by-yl-computing/"><u>Maintaining a High-Performance PC: Key Updates and Maintenance Practices Recommended by YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition/"><u>Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/safeguarding-your-finances-a-guide-to-avoiding-cryptocurrency-frauds-with-tips-from-yl-computing/"><u>Safeguarding Your Finances: A Guide to Avoiding Cryptocurrency Frauds with Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-nvidia-or-amd-graphics-card-driver-on-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your NVIDIA or AMD Graphics Card Driver on Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-purging-your-pc-of-threats-expert-advice-from-yl-software-experts/"><u>Step-by-Step Tutorial on Purging Your PC of Threats: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-windows-defender-does-it-include-a-firewall-for-enhanced-cybersecurity-insights-from-yl-software-experts/"><u>Understanding Windows Defender: Does It Include a Firewall for Enhanced Cybersecurity? Insights From YL Software Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-edits-your-guide-to-snapchat-photos-for-2024/"><u>Unlocking Creative Edits Your Guide to Snapchat Photos for 2024</u></a></li>
 </ul></div>
 
