@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2024-12-23T17:33:53.275Z
-updated: 2024-12-29T18:10:34.172Z
+date: 2025-01-02T22:51:45.110Z
+updated: 2025-01-08T18:53:26.021Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-flash-method-swift-signature-bg-erasure-tips/"><u>[New] Flash Method Swift Signature BG Erasure Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-instructions-for-fb-live-broadcasts/"><u>[New] Step-by-Step Instructions for FB Live Broadcasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>[Updated] Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>2024 Approved Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-hd-wallpaper-gallery-dive-into-the-world-of-one-piece-with-stunning-images-from-yl-software/"><u>Captivating HD Wallpaper Gallery: Dive Into the World of One Piece with Stunning Images From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-your-gpus-cooling-efficiency-a-guide-tech-insights-by-yl/"><u>Determining Your GPU's Cooling Efficiency: A Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fixing-unresponsive-mouse-and-keyboard-issues-on-windows-pcs-expert-advice-from-yl-computing/"><u>Fixing Unresponsive Mouse & Keyboard Issues on Windows PCs: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-swap-out-a-damaged-ssd-or-hdd-on-your-computer-the-complete-guide-from-yl-technologies/"><u>How Can You Swap Out a Damaged SSD or HDD on Your Computer - The Complete Guide From YL Technologies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-access-and-edit-microsoft-word-files-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Access and Edit Microsoft Word Files with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stepping-into-the-unseen-mastering-windows-11-through-less-known-tips-for-2024/"><u>Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-impact-and-outcomes-of-the-boxer-uprising-as-explained-by-yl-solutions/"><u>The Impact and Outcomes of the Boxer Uprising as Explained by YL Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/transform-your-chronicles-free-extensions-and-mobile-apps-galore/"><u>Transform Your Chronicles FREE Extensions & Mobile Apps Galore</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-system-alerts-how-to-detect-and-diagnose-scan-malfunctions-with-yl-software-guidance/"><u>Understanding System Alerts: How to Detect and Diagnose Scan Malfunctions with YL Software Guidance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-high-quality-real-time-broadcast-frameworks-for-2024/"><u>[New] High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snappy-shenanigans-top-15-funny-snap-stickers/"><u>[New] In 2024, Snappy Shenanigans Top 15 Funny Snap Stickers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixels-personal-soundtrack-a-selection-guide/"><u>[New] Pixel's Personal Soundtrack A Selection Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windows-dvd/"><u>【快適な視聴】Windows 向け無料 DVDプレイヤーソフトの選び方・おすすめリスト</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathtaking-bounds-of-2022-skaters/"><u>2024 Approved Breathtaking Bounds of 2022 Skaters</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-lowering-elevated-cpu-consumption-expert-advice-from-yl-computing/"><u>Effective Strategies for Lowering Elevated CPU Consumption: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-i-accelerate-performance-of-applications-on-my-computer-expert-tips-from-yl-computing/"><u>How Can I Accelerate Performance of Applications on My Computer? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/learn-efficient-mixing-strategies-with-the-dex-33-playlist-feature-music-production-guide/"><u>Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-identifying-hardware-issues-and-compatibility-problems-in-windows-with-yls-expert-advice/"><u>Step-by-Step: Identifying Hardware Issues & Compatibility Problems in Windows with YL's Expert Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a18-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A18 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

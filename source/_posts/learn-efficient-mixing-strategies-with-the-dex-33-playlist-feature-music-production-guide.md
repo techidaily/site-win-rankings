@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2024-12-28T19:11:40.006Z
-updated: 2024-12-29T18:13:32.553Z
+date: 2025-01-04T17:57:10.077Z
+updated: 2025-01-09T01:11:04.406Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[New] 2024 Approved Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-visual-tapestry-maker-premium-photo-edition/"><u>[Updated] Visual Tapestry Maker Premium Photo Edition</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/download-cbs-news-videos-in-various-formats-mp4-wmv-mov-flv-and-avi/"><u>Download CBS News Videos in Various Formats - MP4, WMV, MOV, FLV & AVI</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-various-blockchain-wallet-options-compatible-with-balance-checker-utilities-a-comprehensive-guide/"><u>Exploring Various Blockchain Wallet Options Compatible with Balance Checker Utilities: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-fix-your-wi-fi-connection-issues-insights-from-yl-computings-expertise/"><u>How Can You Fix Your Wi-Fi Connection Issues? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-winning-with-facebook-videos/"><u>In 2024, The Ultimate Guide to Winning with Facebook Videos</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/party-tyme-unleashed-over-1200-new-songs-ready-for-your-karaoke-journey/"><u>Party Tyme Unleashed: Over 1200 New Songs Ready for Your Karaoke Journey!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-exclusive-10-savings-on-thevideopool-premium-access-until-august-1st-subscribe-now/"><u>Secure Your Exclusive 10% Savings on TheVideoPool Premium Access Until August 1St - Subscribe Now!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-recommended-antivirus-solutions-for-optimal-computer-protection-insights-from-yl-computing/"><u>Top Recommended Antivirus Solutions for Optimal Computer Protection: Insights From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unlock-your-pcs-full-potential-with-our-walkthrough-to-open-control-panel-yl-computing-expertise/"><u>Unlock Your PC's Full Potential with Our Walkthrough to Open Control Panel - YL Computing Expertise</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-hidden-potential-how-to-use-video-filters-on-zoom-for-2024/"><u>Unlocking Hidden Potential How To Use Video Filters on Zoom for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-ultimate-guide-by-toms-hardware/"><u>Unlocking Technology Secrets: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-instagram-hashtags-for-now-for-2024/"><u>[New] Rise in Popularity Top 10 Instagram Hashtags for Now for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1732510821688-yl/"><u>现金流管理：实时网格方法教程—由 YL 计算机演绎</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2622924-9781573445658-change-your-life/"><u>Change Your Life! | Free Book</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-value-in-tech-a-comprehensive-look-at-the-oneplus-nord-n10-5g/"><u>Discovering Value in Tech: A Comprehensive Look at the OnePlus Nord N10 5G</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726029402646-dvdpc/"><u>DVDをPCに無料で移行する究極のショートカット方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-craft-proficient-content-for-short-form-video-best-edits-reviewed/"><u>In 2024, Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-real-time-threat-detection-included-in-windows-defender-insights-from-yl-computing/"><u>Is Real-Time Threat Detection Included in Windows Defender? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolving-wi-fi-connectivity-problems-on-windows-10-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Wi-Fi Connectivity Problems on Windows 10: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-ps4-nat-error-complete-tutorial-and-fix-guide/"><u>Solve Your PS4 NAT Error: Complete Tutorial & Fix Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-drivers-of-epson-xp-640-printers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Drivers of Epson XP-640 Printers on Windows PCs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-strategies-for-efficiently-backing-up-critical-information-insights-by-yl-computing/"><u>Top Strategies for Efficiently Backing Up Critical Information - Insights by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/unifying-dual-pcs-with-one-internet-source-a-step-by-step-guide/"><u>Unifying Dual PCs with One Internet Source: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-computings-sparkling-hd-diamond-descent-captivating-video-looper-in-full-hd-1080p-resolution/"><u>YL Computing's Sparkling HD Diamond Descent - Captivating Video Looper in Full HD 1080P Resolution</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-insights-expert-tips-for-accurate-hardware-component-setup-and-maintenance/"><u>YL Software Insights: Expert Tips for Accurate Hardware Component Setup and Maintenance</u></a></li>
 </ul></div>
 
