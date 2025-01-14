@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2025-01-08T01:15:36.567Z
-updated: 2025-01-09T01:46:32.502Z
+date: 2025-01-13T21:38:29.129Z
+updated: 2025-01-14T22:21:29.110Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,22 +63,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-rapid-diy-filming-ideas-for-aspiring-directors/"><u>[New] 2024 Approved Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-10-best-zoom-alternatives-deskop-and-mobile-for-2024/"><u>[Updated] 10 Best Zoom Alternatives [Deskop & Mobile] for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-download-final-cut-pro-for-free/"><u>2024 Approved How to Download Final Cut Pro for Free?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-the-right-top-15-tripods-for-gopro-cameras/"><u>2024 Approved Selecting the Right Top 15 Tripods for GoPro Cameras</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-hd-wallpaper-gallery-dive-into-the-world-of-one-piece-with-stunning-images-from-yl-software/"><u>Captivating HD Wallpaper Gallery: Dive Into the World of One Piece with Stunning Images From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comprehensive-analysis-can-windows-defender-shield-you-from-every-kind-of-cyber-attack/"><u>Comprehensive Analysis: Can Windows Defender Shield You From Every Kind of Cyber Attack?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/detecting-and-defending-against-scam-threats-expert-tips-from-yl-computings-security-suite/"><u>Detecting & Defending Against Scam Threats: Expert Tips From YL Computing's Security Suite</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-pcdj-karaoke-cloud-pros-top-favorites-the-ultimate-guide-to-hot-tracks/"><u>Discover PCDJ Karaoke Cloud Pro's Top Favorites: The Ultimate Guide to Hot Tracks!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fixing-unresponsive-mouse-and-keyboard-issues-on-windows-pcs-expert-advice-from-yl-computing/"><u>Fixing Unresponsive Mouse & Keyboard Issues on Windows PCs: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-command-prompt-not-running-as-administrator-on-windows/"><u>How to Fix Command Prompt Not Running as Administrator on Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>In 2024, 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/meizu-data-retrieval-tool-restore-lost-data-from-meizu-21-by-fonelab-android-recover-data/"><u>Meizu Data Retrieval tool – restore lost data from Meizu 21</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/patriotic-themed-dex3-customizable-skins-exclusive-1440x900-designs-for-your-dj-deck/"><u>Patriotic Themed DEX3 Customizable Skins: Exclusive 1440X900 Designs for Your DJ Deck</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-procedure-for-extracting-files-from-an-unstable-hard-disk-insights-from-yl-software/"><u>The Procedure for Extracting Files From an Unstable Hard Disk: Insights From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-cryptos-edge-top-reasons-to-embrace-digital-currencies-with-yl-software-guidance/"><u>Understanding Crypto's Edge: Top Reasons to Embrace Digital Currencies with YL Software Guidance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-usb-hub-troubleshooting-guide-fixed/"><u>Windows USB Hub Troubleshooting Guide - Fixed</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/recupera-sin-esfuerzo-tus-archivos-perdidos-gratis-un-metodo-facil-y-eficaz-para-salvar-tu-papelera-de-reciclaje/"><u>¡Recupera Sin Esfuerzo Tus Archivos Perdidos Gratis! Un Método Fácil Y Eficaz Para Salvar Tu Papelera De Reciclaje</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-decades-best-list-of-budget-friendly-desktop-recorders/"><u>[New] 2024 Approved Decade's Best List of Budget-Friendly Desktop Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-building-connections-interacting-with-your-viewers/"><u>[New] In 2024, Building Connections Interacting With Your Viewers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>2024 Approved Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved Top 5 Ultra-HD Screens Mastering Hue and Shade</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comment-installer-et-utiliser-une-edition-portative-daomei-backupper/"><u>Comment Installer Et Utiliser Une Édition Portative D'AOMEI Backupper</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-backup-and-keep-google-drive-updated-with-an-external-hard-disk-on-win-1087-systems/"><u>How to Backup and Keep Google Drive Updated with an External Hard Disk on Win 10/8/7 Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mecanisme-de-mise-en-veille-dans-windows-n-11-astuces-rapides-et-simples-pour-lactiver/"><u>Mécanisme De Mise en Veille Dans Windows N 11 : Astuces Rapides Et Simples Pour L'activer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reviving-your-gopro-footage-effective-techniques-for-extracting-videos-from-sd-cards/"><u>Reviving Your GoPro Footage: Effective Techniques for Extracting Videos From SD Cards</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-transferring-your-vmware-vms-to-the-aws-cloud-platform/"><u>Step-by-Step Guide: Transferring Your VMware VMs to the AWS Cloud Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-grandeur-of-teac-pd-301s-design-and-audio-performance/"><u>The Grandeur of Teac PD-301's Design & Audio Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-travel-through-free-visual-storerooms-for-2024/"><u>Time Travel Through Free Visual Storerooms for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-clonezilla-overcoming-challenges-with-large-disks-and-bad-sectors/"><u>Troubleshooting Clonezilla: Overcoming Challenges with Large Disks and Bad Sectors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-and-office-updates-a-quick-cessation-guide/"><u>Windows & Office Updates: A Quick Cessation Guide</u></a></li>
 </ul></div>
 

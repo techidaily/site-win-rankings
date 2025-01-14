@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2025-01-01T21:34:58.891Z
-updated: 2025-01-08T22:28:02.847Z
+date: 2025-01-09T21:34:19.539Z
+updated: 2025-01-14T18:08:26.982Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,24 +79,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-financial-scale-of-mr-beast/"><u>[New] 2024 Approved The Financial Scale of Mr. Beast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-blitzclick-leisureshot-streaming/"><u>[New] BlitzClick LeisureShot Streaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-web-picks-for-stylish-3d-sparkling-text/"><u>[Updated] Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/google60/"><u>「Googleフォトにおける既存画像削除後、60日以上経過したデータ蘇生技術」</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/customizable-expert-level-aomei-onekey-recovery-for-professional-data-restoration-needs/"><u>Customizable Expert-Level AOMEI OneKey Recovery for Professional Data Restoration Needs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effortless-image-duplication-with-aomei-backup-and-clone-learn-how/"><u>Effortless Image Duplication with AOMEI Backup & Clone: Learn How!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-mohu-blade-tv-antennas-distinctive-layout-and-effective-indoor-reception/"><u>Expert Analysis of the Mohu Blade TV Antenna's Distinctive Layout and Effective Indoor Reception</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-clone-a-hard-disk-to-a-sandisk-ssd-on-windows-11/"><u>How to Clone a Hard Disk to a SanDisk SSD on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v27-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V27 Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/interactive-evolution-understanding-the-metaverses-role/"><u>Interactive Evolution: Understanding the Metaverse's Role</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/quick-guide-effortlessly-downloading-videos-from-icloud/"><u>Quick Guide: Effortlessly Downloading Videos From iCloud</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reviving-the-dell-recovery-section-in-windows-7-systems/"><u>Reviving the Dell Recovery Section in Windows 7 Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solution-provenant-pour-resoudre-le-probleme-de-visibilite-dun-ssd-sur-windows-11/"><u>Solution Provenant Pour Résoudre Le Problème De Visibilité D'un SSD Sur Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-iphones-dynamic-images-for-2024/"><u>Step-by-Step Guide to iPhone's Dynamic Images for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/strategies-pour-sauvegarder-windows-server-201/"><u>Stratégies Pour Sauvegarder Windows Server 201</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-access-to-hidden-backup-copy-in-windows-systems/"><u>Troubleshooting Access to Hidden Backup Copy in Windows Systems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-the-algorithm-maximizing-earning-potential-on-youtube-for-2024/"><u>Understanding the Algorithm Maximizing Earning Potential on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[New] 2024 Approved Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>[New] In 2024, Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-log-every-victory-on-samsungs-mobile-arena-for-2024/"><u>[New] Log Every Victory on Samsung's Mobile Arena for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[Updated] Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>[Updated] In 2024, Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beginners-blueprint-to-youtube-streaming-games/"><u>Beginner's Blueprint to YouTube Streaming Games</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-internet-connection-faster-with-simple-techniques-from-yl-software/"><u>Boost Your Internet Connection Faster with Simple Techniques From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conversion-wizardry-zip-to-subrip-transformation/"><u>Conversion Wizardry ZIP to SubRip Transformation</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/determining-if-windows-defender-restricts-your-app-tips-and-tricks-from-yl-computing/"><u>Determining If Windows Defender Restricts Your App - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/edit-like-a-pro-comprehensive-tips-for-modifying-excel-worksheets-in-windows-environments-software-guru/"><u>Edit Like a Pro: Comprehensive Tips for Modifying Excel Worksheets in Windows Environments - Software Guru</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-excessive-temperatures-can-harm-your-graphics-card-insights-from-yl-computing/"><u>How Excessive Temperatures Can Harm Your Graphics Card: Insights From YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>In 2024, Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/interstellar-visual-treats-premium-galaxy-wallpaper-collections-crisp-image-sets-and-celestial-themes-crafted-with-yl-creations/"><u>Interstellar Visual Treats - Premium Galaxy Wallpaper Collections, Crisp Image Sets & Celestial Themes Crafted with YL Creations</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-windows-bsod-issues-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows BSOD Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/restoring-your-scanner-to-original-settings-a-step-by-step-guide-yl-computings-official-tutorial/"><u>Restoring Your Scanner to Original Settings: A Step-by-Step Guide - YL Computing's Official Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-your-ultimate-guide-for-computer-components/"><u>Tom's Tech Insights: Your Ultimate Guide for Computer Components</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/uncovering-the-reasons-behind-sluggish-performance-post-cpu-upgrade-insights-from-yl-computing/"><u>Uncovering the Reasons Behind Sluggish Performance Post-CPU Upgrade: Insights From YL Computing</u></a></li>
 </ul></div>
 

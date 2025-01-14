@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-01-02T22:51:45.110Z
-updated: 2025-01-08T18:53:26.021Z
+date: 2025-01-07T17:50:09.973Z
+updated: 2025-01-14T22:26:21.849Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,16 +58,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-high-quality-real-time-broadcast-frameworks-for-2024/"><u>[New] High-Quality Real-Time Broadcast Frameworks for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snappy-shenanigans-top-15-funny-snap-stickers/"><u>[New] In 2024, Snappy Shenanigans Top 15 Funny Snap Stickers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pixels-personal-soundtrack-a-selection-guide/"><u>[New] Pixel's Personal Soundtrack A Selection Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-dvd/"><u>【快適な視聴】Windows 向け無料 DVDプレイヤーソフトの選び方・おすすめリスト</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breathtaking-bounds-of-2022-skaters/"><u>2024 Approved Breathtaking Bounds of 2022 Skaters</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-lowering-elevated-cpu-consumption-expert-advice-from-yl-computing/"><u>Effective Strategies for Lowering Elevated CPU Consumption: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-i-accelerate-performance-of-applications-on-my-computer-expert-tips-from-yl-computing/"><u>How Can I Accelerate Performance of Applications on My Computer? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/learn-efficient-mixing-strategies-with-the-dex-33-playlist-feature-music-production-guide/"><u>Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-identifying-hardware-issues-and-compatibility-problems-in-windows-with-yls-expert-advice/"><u>Step-by-Step: Identifying Hardware Issues & Compatibility Problems in Windows with YL's Expert Advice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a18-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A18 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-complete-annihilation-of-youtube-shorts-accessibility/"><u>[Updated] 2024 Approved Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[Updated] Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[Updated] In 2024, Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learning-photography-on-the-go-the-lunapic-approach/"><u>[Updated] Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1-wie-wiederherstellen-sie-versehentlich-in-einem-microsoft-word-dokument-gespeicherte-inhalte/"><u>1. Wie Wiederherstellen Sie Versehentlich in Einem Microsoft Word-Dokument Gespeicherte Inhalte?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-offline-auto-race-game-applications-your-guide-to-the-classics/"><u>Best Offline Auto Race Game Applications – Your Guide to the Classics</u></a></li>
+<li><a href="https://discover-data.techidaily.com/convert-and-save-your-videomega-content-as-high-quality-files-mp4-wmv-avi-flv-with-videomega-downloader/"><u>Convert and Save Your VideoMega Content as High-Quality Files: MP4, WMV, AVI, FLV with VideoMega Downloader</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/determining-your-network-health-a-guide-by-yl-computing/"><u>Determining Your Network Health: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/explore-the-latest-tracks-on-karaoke-cloud-pro-arena-no-autumnal-themes-here/"><u>Explore the Latest Tracks on Karaoke Cloud Pro ARENA: No Autumnal Themes Here!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-why-your-pc-displays-a-blue-screen-a-deep-dive-by-yl-software-professionals/"><u>Exploring Why Your PC Displays a Blue Screen: A Deep Dive by YL Software Professionals</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-customize-audio-preferences-using-windows-control-panel-a-guide-by-yl-computing/"><u>How to Customize Audio Preferences Using Windows Control Panel - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-fix-a-scanner-unable-to-detect-its-driver-solutions-from-yl-computing/"><u>How to Fix a Scanner Unable to Detect Its Driver: Solutions From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-memorable-experiences-with-vr-escapades/"><u>In 2024, Crafting Memorable Experiences with VR Escapades</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sing-and-spin-seamlessly-with-dex-3s-pro-dj-controller-a-must-have-toolkit-for-ultimate-karaoke-experiences/"><u>Sing & Spin Seamlessly with DEX 3'S Pro DJ Controller – A Must-Have Toolkit for Ultimate Karaoke Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/weekly-melodic-delights-top-hit-karaoke-songs-from-party-tymes-live-session-on-may-7-19-2019-start-your-free-trial/"><u>Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!</u></a></li>
 </ul></div>
 

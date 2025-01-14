@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2025-01-02T22:18:38.401Z
-updated: 2025-01-09T01:07:42.810Z
+date: 2025-01-08T19:28:41.585Z
+updated: 2025-01-14T16:02:47.802Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,20 +107,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-much-can-you-earn-on-youtube-via-ad-revenue-for-2024/"><u>[New] How Much Can You Earn on YouTube via Ad Revenue for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-planning-the-guide-to-online-collaboration/"><u>[New] In 2024, Precision Planning The Guide to Online Collaboration</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-content-spotlight-platform-perks-compared-for-2024/"><u>[Updated] Content Spotlight Platform Perks Compared for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-time-saving-hacks-for-recording-instagram-stories/"><u>2024 Approved Time-Saving Hacks for Recording Instagram Stories</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/accelerate-your-computer-the-top-features-you-should-disable-for-better-speed-yl-computing/"><u>Accelerate Your Computer: The Top Features You Should Disable for Better Speed (YL Computing)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/"><u>Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-your-network-health-a-guide-by-yl-computing/"><u>Determining Your Network Health: A Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Discover the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/easy-methods-to-refresh-your-pcs-hardware-drivers-with-yl-software-assistance/"><u>Easy Methods to Refresh Your PC's Hardware Drivers with YL Software Assistance</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/explore-the-latest-tracks-on-karaoke-cloud-pro-arena-no-autumnal-themes-here/"><u>Explore the Latest Tracks on Karaoke Cloud Pro ARENA: No Autumnal Themes Here!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-a-scanner-unable-to-detect-its-driver-solutions-from-yl-computing/"><u>How to Fix a Scanner Unable to Detect Its Driver: Solutions From YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-msi-pro-mp161e2-the-ultimate-portable-monitor-solution/"><u>In-Depth Review of the MSI Pro MP161E2 – The Ultimate Portable Monitor Solution</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-deleting-unwanted-files-and-expanding-disk-capacity-tips-from-yl-computing/"><u>Step-by-Step Guide to Deleting Unwanted Files & Expanding Disk Capacity - Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-xr-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone XR screen lock without passcode</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/weekly-melodic-delights-top-hit-karaoke-songs-from-party-tymes-live-session-on-may-7-19-2019-start-your-free-trial/"><u>Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-integrated-camera-use-photos-and-videos-on-one-phone/"><u>[New] 2024 Approved Integrated Camera Use Photos and Videos on One Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>[Updated] 2024 Approved Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-recording-win-11s-superior-camcorders-for-2024/"><u>[Updated] Cutting-Edge Recording Win 11'S Superior Camcorders for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728473589381-google-drive/"><u>無需付費的同步器，將網路文件管理程式快速移回 Google Drive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-windows-11-performance-after-cloning-with-these-7-essential-tips/"><u>Boost Your Windows 11 Performance After Cloning with These 7 Essential Tips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comment-resoudre-les-problemes-de-lenvironnement-de-recovery-non-repristinable-dans-windows-11/"><u>Comment Résoudre Les Problèmes De L'Environnement De Recovery Non Repristinable Dans Windows 11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/critical-bitlocker-recovery-tactics-for-it-experts-trustworthy-and-swift-secure-data-revival-in-crisis/"><u>Critical BitLocker Recovery Tactics for IT Experts | Trustworthy & Swift Secure Data Revival in Crisis</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-11-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme 11 Pro+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-evaluating-the-google-wireless-nest-doorbell-with-battery-option/"><u>Expert Insights: Evaluating the Google Wireless Nest Doorbell with Battery Option</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/logre-el-exito-con-los-servicios-de-copia-de-seguridad-de-asociacion-con-aomei-una-solucion-clave/"><u>Logre El Éxito Con Los Servicios De Copia De Seguridad De Asociación Con AOMEI: Una Solución Clave</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/pc-freie-methoden-zur-ubertragung-von-android-apps-auf-ihren-iphone-top-5-tipps/"><u>PC-Freie Methoden Zur Übertragung Von Android-Apps Auf Ihren iPhone - Top 5 Tipps</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/save-the-fun-seamlessly-transferring-songbooks-from-partytyme-karaoke-to-pc-via-pdf-export-techniques/"><u>Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/soluciones-esenciales-conquista-el-desplome-de-windows-10-con-estas-5-tecnicas-expertas/"><u>Soluciones Esenciales: Conquista El Desplome De Windows 10 Con Estas 5 Técnicas Expertas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-safely-exporting-conversations-from-chatgpt/"><u>Step-by-Step Guide: Safely Exporting Conversations From ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-win-11-repairs-with-customized-shortcut-keys/"><u>Streamline Win 11 Repairs with Customized Shortcut Keys</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-complete-guide-solving-windows-11-backup-issues-once-and-for-all/"><u>Troubleshooting Complete Guide: Solving Windows 11 Backup Issues Once and For All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-turing-test-and-its-beatability/"><u>Understanding The Turing Test & Its Beatability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-magicard-rio-pro-driver-the-most-recent-release-for-pc-users-on-multiple-windows-versions/"><u>Upgrade to Magicard Rio Pro Driver - The Most Recent Release for PC Users on Multiple Windows Versions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/verschil-tussen-het-kopieren-en-onderstaan-van-windows-bestanden-eenvoudige-instructies-voor-sysadmins/"><u>Verschil Tussen Het Kopiëren en Onderstaan Van Windows-Bestanden - Eenvoudige Instructies Voor Sysadmin's</u></a></li>
 </ul></div>
 
