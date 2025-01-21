@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2025-01-13T21:38:29.129Z
-updated: 2025-01-14T22:21:29.110Z
+date: 2025-01-13T18:31:11.377Z
+updated: 2025-01-20T19:13:34.016Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,21 +63,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-rankings.techidaily.com/recupera-sin-esfuerzo-tus-archivos-perdidos-gratis-un-metodo-facil-y-eficaz-para-salvar-tu-papelera-de-reciclaje/"><u>¡Recupera Sin Esfuerzo Tus Archivos Perdidos Gratis! Un Método Fácil Y Eficaz Para Salvar Tu Papelera De Reciclaje</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-decades-best-list-of-budget-friendly-desktop-recorders/"><u>[New] 2024 Approved Decade's Best List of Budget-Friendly Desktop Recorders</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-building-connections-interacting-with-your-viewers/"><u>[New] In 2024, Building Connections Interacting With Your Viewers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>2024 Approved Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved Top 5 Ultra-HD Screens Mastering Hue and Shade</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comment-installer-et-utiliser-une-edition-portative-daomei-backupper/"><u>Comment Installer Et Utiliser Une Édition Portative D'AOMEI Backupper</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-backup-and-keep-google-drive-updated-with-an-external-hard-disk-on-win-1087-systems/"><u>How to Backup and Keep Google Drive Updated with an External Hard Disk on Win 10/8/7 Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mecanisme-de-mise-en-veille-dans-windows-n-11-astuces-rapides-et-simples-pour-lactiver/"><u>Mécanisme De Mise en Veille Dans Windows N 11 : Astuces Rapides Et Simples Pour L'activer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reviving-your-gopro-footage-effective-techniques-for-extracting-videos-from-sd-cards/"><u>Reviving Your GoPro Footage: Effective Techniques for Extracting Videos From SD Cards</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-transferring-your-vmware-vms-to-the-aws-cloud-platform/"><u>Step-by-Step Guide: Transferring Your VMware VMs to the AWS Cloud Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-grandeur-of-teac-pd-301s-design-and-audio-performance/"><u>The Grandeur of Teac PD-301's Design & Audio Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/time-travel-through-free-visual-storerooms-for-2024/"><u>Time Travel Through Free Visual Storerooms for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-clonezilla-overcoming-challenges-with-large-disks-and-bad-sectors/"><u>Troubleshooting Clonezilla: Overcoming Challenges with Large Disks and Bad Sectors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-and-office-updates-a-quick-cessation-guide/"><u>Windows & Office Updates: A Quick Cessation Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outubes-visual-lifeline-size-and-ratio-insights-for-2024/"><u>[New] YouTube's Visual Lifeline Size & Ratio Insights for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>2024 Approved Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-alexa-and-ultra-hd-insignia-ns-43df710na19-fire-tv-edition-a-comprehensive-review/"><u>Affordable Alexa & Ultra HD Insignia NS-43DF710NA19 Fire TV Edition - A Comprehensive Review</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/bitcoin-heating-up-experts-debate-if-pepe-is-its-secret-catalyst-insights-from-yl-computing/"><u>Bitcoin Heating Up! Experts Debate If Pepe Is Its Secret Catalyst - Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/boost-your-computers-performance-monitoring-and-optimizing-cpu-and-ram-use-tips-from-yl-tech/"><u>Boost Your Computer's Performance: Monitoring & Optimizing CPU and RAM Use – Tips From YL Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-spotify-app-on-windows-11-pcs/"><u>Fixing Non-Responsive Spotify App on Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-opening-doors-to-collective-listening-on-youtube/"><u>In 2024, Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966742400-install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210199532-9781631599057-the-complete-grimoire/"><u>The Complete Grimoire | Free Book</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-methods-for-fixing-scanners-that-wont-work-insights-from-yl-computing-and-yl-software/"><u>Top Methods for Fixing Scanners That Won't Work - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-key-distinctions-wired-vs-wireless-networks-explained-by-yl-computing/"><u>Understanding Key Distinctions: Wired Vs. Wireless Networks Explained by YL Computing</u></a></li>
 </ul></div>
 

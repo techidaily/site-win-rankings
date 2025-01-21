@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2025-01-08T19:28:41.585Z
-updated: 2025-01-14T16:02:47.802Z
+date: 2025-01-13T22:46:31.392Z
+updated: 2025-01-20T16:40:12.372Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,24 +107,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-integrated-camera-use-photos-and-videos-on-one-phone/"><u>[New] 2024 Approved Integrated Camera Use Photos and Videos on One Phone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>[Updated] 2024 Approved Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-recording-win-11s-superior-camcorders-for-2024/"><u>[Updated] Cutting-Edge Recording Win 11'S Superior Camcorders for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728473589381-google-drive/"><u>無需付費的同步器，將網路文件管理程式快速移回 Google Drive</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-windows-11-performance-after-cloning-with-these-7-essential-tips/"><u>Boost Your Windows 11 Performance After Cloning with These 7 Essential Tips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comment-resoudre-les-problemes-de-lenvironnement-de-recovery-non-repristinable-dans-windows-11/"><u>Comment Résoudre Les Problèmes De L'Environnement De Recovery Non Repristinable Dans Windows 11</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/critical-bitlocker-recovery-tactics-for-it-experts-trustworthy-and-swift-secure-data-revival-in-crisis/"><u>Critical BitLocker Recovery Tactics for IT Experts | Trustworthy & Swift Secure Data Revival in Crisis</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-11-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme 11 Pro+ in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insights-evaluating-the-google-wireless-nest-doorbell-with-battery-option/"><u>Expert Insights: Evaluating the Google Wireless Nest Doorbell with Battery Option</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/logre-el-exito-con-los-servicios-de-copia-de-seguridad-de-asociacion-con-aomei-una-solucion-clave/"><u>Logre El Éxito Con Los Servicios De Copia De Seguridad De Asociación Con AOMEI: Una Solución Clave</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/pc-freie-methoden-zur-ubertragung-von-android-apps-auf-ihren-iphone-top-5-tipps/"><u>PC-Freie Methoden Zur Übertragung Von Android-Apps Auf Ihren iPhone - Top 5 Tipps</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/save-the-fun-seamlessly-transferring-songbooks-from-partytyme-karaoke-to-pc-via-pdf-export-techniques/"><u>Save the Fun: Seamlessly Transferring Songbooks From PartyTyme Karaoke to PC via PDF Export Techniques</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/soluciones-esenciales-conquista-el-desplome-de-windows-10-con-estas-5-tecnicas-expertas/"><u>Soluciones Esenciales: Conquista El Desplome De Windows 10 Con Estas 5 Técnicas Expertas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-safely-exporting-conversations-from-chatgpt/"><u>Step-by-Step Guide: Safely Exporting Conversations From ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-win-11-repairs-with-customized-shortcut-keys/"><u>Streamline Win 11 Repairs with Customized Shortcut Keys</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-complete-guide-solving-windows-11-backup-issues-once-and-for-all/"><u>Troubleshooting Complete Guide: Solving Windows 11 Backup Issues Once and For All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-turing-test-and-its-beatability/"><u>Understanding The Turing Test & Its Beatability</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-magicard-rio-pro-driver-the-most-recent-release-for-pc-users-on-multiple-windows-versions/"><u>Upgrade to Magicard Rio Pro Driver - The Most Recent Release for PC Users on Multiple Windows Versions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/verschil-tussen-het-kopieren-en-onderstaan-van-windows-bestanden-eenvoudige-instructies-voor-sysadmins/"><u>Verschil Tussen Het Kopiëren en Onderstaan Van Windows-Bestanden - Eenvoudige Instructies Voor Sysadmin's</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ffortless-webm-creation-10-best-youtube-video-transformers-for-2024/"><u>[New] Effortless WebM Creation 10 Best YouTube Video Transformers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[New] From Ground to Heavens A Mobile Panorama Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magic-meets-technology-the-future-of-home-studio-production/"><u>2024 Approved Magic Meets Technology The Future of Home Studio Production</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/achieving-a-swift-trustworthy-pc-proven-strategies-by-yl-software-for-uninterrupted-efficiency/"><u>Achieving a Swift, Trustworthy PC: Proven Strategies by YL Software for Uninterrupted Efficiency</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-130-music-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia 130 Music</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-health-journey-the-best-8-chatgpt-add-ons-for-a-balanced-life/"><u>Elevate Your Health Journey: The Best 8 ChatGPT Add-Ons for a Balanced Life</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-frequent-hardware-breakdowns-a-comprehensive-guide-from-yl-systems-solutions/"><u>Exploring Frequent Hardware Breakdowns: A Comprehensive Guide From YL Systems Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-boost-your-pcs-performance-key-hardware-upgrades-recommended-by-yl-computing/"><u>How to Boost Your PC's Performance: Key Hardware Upgrades Recommended by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-fix-no-sound-card-or-speakers-found-by-yl-software/"><u>How to Fix: No Sound Card or Speakers Found by YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps/"><u>In 2024, Harness the Power of FB Lives Selecting the Top 5 Downloading Apps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F14 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>In 2024, The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-through-windows-prerequisites-key-hardware-and-os-demands-for-smooth-software-performance/"><u>Navigating Through Windows Prerequisites: Key Hardware and OS Demands for Smooth Software Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swiftly-remove-live-videos-on-social-platforms/"><u>Swiftly Remove Live Videos on Social Platforms</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-unrecognized-hardware-expert-solutions-from-yl-computing/"><u>Troubleshooting Unrecognized Hardware: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/uk-legislation-targets-illicit-bitcoin-assets-insights-by-yl-computing-and-yl-software/"><u>UK Legislation Targets Illicit Bitcoin Assets - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-computing-innovative-large-scale-image-collections-and-digital-wallpaper-designs/"><u>YL Computing: Innovative Large-Scale Image Collections & Digital Wallpaper Designs</u></a></li>
 </ul></div>
 

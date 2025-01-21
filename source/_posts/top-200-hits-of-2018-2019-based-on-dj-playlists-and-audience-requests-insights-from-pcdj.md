@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-01-07T17:50:09.973Z
-updated: 2025-01-14T22:26:21.849Z
+date: 2025-01-15T00:55:45.691Z
+updated: 2025-01-21T00:39:15.432Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,21 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-complete-annihilation-of-youtube-shorts-accessibility/"><u>[Updated] 2024 Approved Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[Updated] Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rectifying-partial-muted-sounds-in-facebook-media-shows/"><u>[Updated] In 2024, Rectifying Partial Muted Sounds in Facebook Media Shows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-learning-photography-on-the-go-the-lunapic-approach/"><u>[Updated] Learning Photography on the Go The LunaPic Approach</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1-wie-wiederherstellen-sie-versehentlich-in-einem-microsoft-word-dokument-gespeicherte-inhalte/"><u>1. Wie Wiederherstellen Sie Versehentlich in Einem Microsoft Word-Dokument Gespeicherte Inhalte?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-offline-auto-race-game-applications-your-guide-to-the-classics/"><u>Best Offline Auto Race Game Applications – Your Guide to the Classics</u></a></li>
-<li><a href="https://discover-data.techidaily.com/convert-and-save-your-videomega-content-as-high-quality-files-mp4-wmv-avi-flv-with-videomega-downloader/"><u>Convert and Save Your VideoMega Content as High-Quality Files: MP4, WMV, AVI, FLV with VideoMega Downloader</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-your-network-health-a-guide-by-yl-computing/"><u>Determining Your Network Health: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/explore-the-latest-tracks-on-karaoke-cloud-pro-arena-no-autumnal-themes-here/"><u>Explore the Latest Tracks on Karaoke Cloud Pro ARENA: No Autumnal Themes Here!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-why-your-pc-displays-a-blue-screen-a-deep-dive-by-yl-software-professionals/"><u>Exploring Why Your PC Displays a Blue Screen: A Deep Dive by YL Software Professionals</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-customize-audio-preferences-using-windows-control-panel-a-guide-by-yl-computing/"><u>How to Customize Audio Preferences Using Windows Control Panel - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-a-scanner-unable-to-detect-its-driver-solutions-from-yl-computing/"><u>How to Fix a Scanner Unable to Detect Its Driver: Solutions From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-memorable-experiences-with-vr-escapades/"><u>In 2024, Crafting Memorable Experiences with VR Escapades</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/sing-and-spin-seamlessly-with-dex-3s-pro-dj-controller-a-must-have-toolkit-for-ultimate-karaoke-experiences/"><u>Sing & Spin Seamlessly with DEX 3'S Pro DJ Controller – A Must-Have Toolkit for Ultimate Karaoke Experiences</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/weekly-melodic-delights-top-hit-karaoke-songs-from-party-tymes-live-session-on-may-7-19-2019-start-your-free-trial/"><u>Weekly Melodic Delights: Top Hit Karaoke Songs From Party Tyme's Live Session on May 7-19, 2019 | Start Your Free Trial!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] 2024 Approved Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[New] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728509761244-aomei-backupper/"><u>AOMEI Backupper資料备份上传安全解锁方法 - 如何利用密码保护</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/choosing-frame-rate-wisely-is-30-or-60-fps-better-for-2024/"><u>Choosing Frame Rate Wisely Is 30 or 60 FPS Better for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/dos-metodos-primarios-para-iniciar-windows-11-desde-una-unidad-usb-con-un-util-truco-adicional/"><u>Dos Métodos Primarios Para Iniciar Windows 11 Desde Una Unidad USB Con Un Útil Truco Adicional</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ensuring-seamless-backups-top-7-solutions-for-ipad-icloud-connectivity-problems/"><u>Ensuring Seamless Backups: Top 7 Solutions for iPad-iCloud Connectivity Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guida-passo-passo-per-creare-unapp-di-riproduzione-mobili-con-aomei-backupper/"><u>Guida Passo-Passo per Creare Un'App Di Riproduzione Mobili Con AOMEI Backupper</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-laughburst-app-for-all-humor-needs/"><u>In 2024, LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inspiring-14-animated-text-concepts/"><u>Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ios-problematik-airdrop-fotos-nicht-anzeigen-effiziente-workaround-strategien-mit-6-techniken/"><u>IOS Problematik: AirDrop Fotos Nicht Anzeigen - Effiziente Workaround-Strategien Mit 6 Techniken</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/probleme-losen-die-fehlgeschlagene-zurucksetzungsfunktion-von-windows-11-erklart-und-behebt/"><u>Probleme Lösen: Die Fehlgeschlagene Zurücksetzungsfunktion Von Windows 11 Erklärt Und Behebt</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
 </ul></div>
 

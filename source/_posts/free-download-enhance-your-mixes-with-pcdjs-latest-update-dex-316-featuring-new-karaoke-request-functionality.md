@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Enhance Your Mixes with PCDJ's Latest Update - DEX 3.16 Featuring New Karaoke Request Functionality!"
-date: 2025-01-06T02:21:52.890Z
-updated: 2025-01-08T22:31:52.196Z
+date: 2025-01-17T19:28:42.653Z
+updated: 2025-01-20T21:20:54.872Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The official public release of DEX 3.16 is ready for download!
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 [View Larger Image ![DEX 3 KSR Online Songbook](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=300%2C240&ssl=1 "DEX 3 KSR Online Songbook")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/krs-request-system.png?fit=1030%2C823&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.16 is here and as always, it’s a free update for DEX 3 DJs. Learn more below and download and install the update from the [DEX 3 support page](https://tools.techidaily.com/pcdj/products/).
@@ -37,7 +37,7 @@ DEX 3.16 brings new karaoke-specific features and extensive optimizations and bu
 After extensive public testing on the [PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/), DEX 3.16 is ready for live performance. We suggest DEX 3 customers update to 3.16 today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.16
@@ -54,7 +54,7 @@ After extensive public testing on the [PCDJ User Group](http://www.facebook.com/
 _Have questions about the latest 3.16 version of our DEX 3 **DJ software** or the new **KSR Karaoke Singer Request system**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,21 +76,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2021/05/dex36-ksr.jpg?fit=1250%2C6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-freefb-audio-treasures-collection-for-2024/"><u>[New] FreeFB Audio Treasures Collection for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-access-immediate-professional-results-free-plus-purchased-luts-for-canon/"><u>[Updated] Access Immediate Professional Results - FREE + Purchased LUTs for Canon</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-economical-growth-methodology-subscribe-now/"><u>[Updated] Economical Growth Methodology - Subscribe Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-fresh-sounds-for-your-ig-story-for-2024/"><u>[Updated] Fresh Sounds for Your IG Story for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-internet-connection-faster-with-simple-techniques-from-yl-software/"><u>Boost Your Internet Connection Faster with Simple Techniques From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-if-windows-defender-restricts-your-app-tips-and-tricks-from-yl-computing/"><u>Determining If Windows Defender Restricts Your App - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95935391-9781844098828-forgiveness-is-power/"><u>Forgiveness is Power | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-perspective-on-gigabytes-g6x-laptop-competent-but-without-any-standout-features/"><u>Gamers' Perspective on Gigabyte's G6X Laptop: Competent but Without Any Standout Features</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-excessive-temperatures-can-harm-your-graphics-card-insights-from-yl-computing/"><u>How Excessive Temperatures Can Harm Your Graphics Card: Insights From YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-handheld-mounts-precision-and-stability-combined/"><u>In 2024, Premium Handheld Mounts Precision and Stability Combined</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/interstellar-visual-treats-premium-galaxy-wallpaper-collections-crisp-image-sets-and-celestial-themes-crafted-with-yl-creations/"><u>Interstellar Visual Treats - Premium Galaxy Wallpaper Collections, Crisp Image Sets & Celestial Themes Crafted with YL Creations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/panoramic-insights-digest/"><u>Panoramic Insights Digest</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/restoring-your-scanner-to-original-settings-a-step-by-step-guide-yl-computings-official-tutorial/"><u>Restoring Your Scanner to Original Settings: A Step-by-Step Guide - YL Computing's Official Tutorial</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solving-your-pcs-audio-problem-a-step-by-step-guide-on-repairing-a-malfunctioning-sound-card/"><u>Solving Your PC's Audio Problem: A Step-by-Step Guide on Repairing a Malfunctioning Sound Card</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-why-your-hard-drive-is-producing-unusual-clicks-insights-from-yl-softwares-tech-team/"><u>Understanding Why Your Hard Drive Is Producing Unusual Clicks: Insights From YL Software's Tech Team</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>[New] 2024 Approved Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-tools-crafting-videos-from-photographic-sources/"><u>[New] Ideal Tools Crafting Videos From Photographic Sources</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>[Updated] 2024 Approved Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-expedition-free-pics-across-the-internet-for-2024/"><u>[Updated] Ultimate Expedition Free Pics Across the Internet for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-picking-prime-stream-services/"><u>2024 Approved The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/can-your-lost-files-be-restored-uncover-the-answer-with-yl-computings-data-recovery-guide/"><u>Can Your Lost Files Be Restored? Uncover the Answer with YL Computing's Data Recovery Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-to-avoid-computer-overheating-tips-from-yl-computing-experts/"><u>Effective Strategies to Avoid Computer Overheating: Tips From YL Computing Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-mechanics-of-blockchain-with-yl-computings-in-depth-analysis/"><u>Exploring the Mechanics of Blockchain with YL Computing's In-Depth Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-disorganized-to-organized-adopting-gpt-in-notetaking/"><u>From Disorganized to Organized: Adopting GPT in Notetaking</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/go-green-with-music-ultimate-online-karaoke-setlist-for-st-patricks-festive-extravaganza/"><u>Go Green with Music: Ultimate Online Karaoke Setlist for St. Patrick’s Festive Extravaganza</u></a></li>
+<li><a href="https://network-issues.techidaily.com/harmonizing-nvidia-7025-with-windows-11-systems/"><u>Harmonizing Nvidia 7025 with Windows 11 Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-locate-the-windows-registry-editor-within-the-control-panel-a-comprehensive-tutorial/"><u>How To Locate The Windows Registry Editor Within The Control Panel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masters-in-virtual-enclosure-devices/"><u>In 2024, Masters in Virtual Enclosure Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>In 2024, Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-it-time-to-upgrade-your-failed-hard-drive-with-a-new-one-insights-from-yl-computings-expertise/"><u>Is It Time to Upgrade Your Failed Hard Drive with a New One? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-pivotal-influence-of-sun-yat-sen-in-creating-the-chinese-republic-discovered-through-yl-software/"><u>The Pivotal Influence of Sun Yat-Sen in Creating the Chinese Republic - Discovered Through YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-directory-of-freely-licensed-sound-sources/"><u>The Ultimate Directory of Freely Licensed Sound Sources</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-techniques-for-recovering-deleted-files-on-a-windows-pc-expert-advice-from-yl-computing/"><u>Top Techniques for Recovering Deleted Files on a Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-solutions-for-replacing-out-of-date-drivers-step-by-step-instructions/"><u>YL Software Solutions for Replacing Out-of-Date Drivers - Step-by-Step Instructions</u></a></li>
 </ul></div>
 

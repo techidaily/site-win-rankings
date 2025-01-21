@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2025-01-09T21:34:19.539Z
-updated: 2025-01-14T18:08:26.982Z
+date: 2025-01-15T19:03:09.429Z
+updated: 2025-01-20T20:18:26.573Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[New] 2024 Approved Unleashing Video Potential Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>[New] In 2024, Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-log-every-victory-on-samsungs-mobile-arena-for-2024/"><u>[New] Log Every Victory on Samsung's Mobile Arena for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[Updated] Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>[Updated] In 2024, Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/beginners-blueprint-to-youtube-streaming-games/"><u>Beginner's Blueprint to YouTube Streaming Games</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-internet-connection-faster-with-simple-techniques-from-yl-software/"><u>Boost Your Internet Connection Faster with Simple Techniques From YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conversion-wizardry-zip-to-subrip-transformation/"><u>Conversion Wizardry ZIP to SubRip Transformation</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-if-windows-defender-restricts-your-app-tips-and-tricks-from-yl-computing/"><u>Determining If Windows Defender Restricts Your App - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/edit-like-a-pro-comprehensive-tips-for-modifying-excel-worksheets-in-windows-environments-software-guru/"><u>Edit Like a Pro: Comprehensive Tips for Modifying Excel Worksheets in Windows Environments - Software Guru</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-excessive-temperatures-can-harm-your-graphics-card-insights-from-yl-computing/"><u>How Excessive Temperatures Can Harm Your Graphics Card: Insights From YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>In 2024, Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/interstellar-visual-treats-premium-galaxy-wallpaper-collections-crisp-image-sets-and-celestial-themes-crafted-with-yl-creations/"><u>Interstellar Visual Treats - Premium Galaxy Wallpaper Collections, Crisp Image Sets & Celestial Themes Crafted with YL Creations</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/resolving-windows-bsod-issues-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows BSOD Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/restoring-your-scanner-to-original-settings-a-step-by-step-guide-yl-computings-official-tutorial/"><u>Restoring Your Scanner to Original Settings: A Step-by-Step Guide - YL Computing's Official Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-your-ultimate-guide-for-computer-components/"><u>Tom's Tech Insights: Your Ultimate Guide for Computer Components</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/uncovering-the-reasons-behind-sluggish-performance-post-cpu-upgrade-insights-from-yl-computing/"><u>Uncovering the Reasons Behind Sluggish Performance Post-CPU Upgrade: Insights From YL Computing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-streamlined-media-management-on-chromeandroidios-for-tiktok/"><u>[New] In 2024, Streamlined Media Management on Chrome/Android/iOS for TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aluation-of-a-million-viewing-on-youtube-for-2024/"><u>[New] Valuation of a Million-Viewing on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-maximizing-capabilities-upgrading-to-macos-sierra/"><u>[Updated] In 2024, Maximizing Capabilities Upgrading to macOS Sierra</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>[Updated] Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728487341648-hdd/"><u>古い外部HDDからのデータ移行方法：徹底ガイド</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728495644192-usb/"><u>完了：USBデバイスの正しいスキャンと修復後にデータが失われる方法</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-4-alternative-software-solutions-for-r-studio-data-recovery/"><u>Best 4 Alternative Software Solutions for R-Studio Data Recovery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-power-of-yi-4k-cameras/"><u>Exploring the Power of YI 4K Cameras</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gestion-optimale-des-disques-dur-sous-windows-amelioree-par-le-logiciel-ghost-choix-incontournable-pour-les-experts-informatiques/"><u>Gestion Optimale Des Disques Dur Sous Windows Améliorée Par Le Logiciel Ghost - Choix Incontournable Pour Les Experts Informatiques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 If Youve Tried Everything</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-this-article-shows-5-different-factors-to-compare-tivo-with-comcast-in-order-to-explain-who-wins-the-dvr-battle-in-the-end-for-2024/"><u>New This Article Shows 5 Different Factors to Compare TiVo with Comcast in Order to Explain Who Wins the DVR Battle in the End for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-steps-for-savingbacking-up-your-outlook-emails-to-a-computer/"><u>Simple Steps for Saving/Backing Up Your Outlook Emails to a Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solving-the-mystery-of-missing-duplicate-photos-in-ios-16/"><u>Solving the Mystery of Missing Duplicate Photos in iOS 16</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-backdrop-be-gone-guide-for-images-for-2024/"><u>Step-by-Step Backdrop Be Gone Guide for Images for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-your-apple-tvs-full-potential-by-streaming-with-vlc-how-to/"><u>Unlock Your Apple TV's Full Potential by Streaming With VLC - How To?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/vergessene-zugangsdaten-auf-der-ps5-wiederfinden-losungen-und-tipps/"><u>Vergessene Zugangsdaten Auf Der PS5 Wiederfinden - Lösungen Und Tipps</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728492643297-windows-7-windows-11/"><u>Windows 7データ移行と復元 - Windows 11へのアップグレードガイド</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728493617581-windows-11-ssd-trim/"><u>いよいよWindows 11: SSD TRIMフラグ設定ガイド</u></a></li>
 </ul></div>
 

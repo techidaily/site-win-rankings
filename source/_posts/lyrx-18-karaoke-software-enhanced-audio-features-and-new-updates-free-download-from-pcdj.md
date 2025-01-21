@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.8 Karaoke Software: Enhanced Audio Features & New Updates - Free Download From PCDJ"
-date: 2025-01-04T17:36:10.989Z
-updated: 2025-01-08T17:19:24.958Z
+date: 2025-01-19T23:15:11.698Z
+updated: 2025-01-20T18:35:57.071Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,19 +84,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-review-for-easy-hdr/"><u>[New] 2024 Approved Detailed Review for Easy HDR</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-masterclass-in-webp-to-jpeg-conversion-for-2024/"><u>[New] Masterclass in WebP to JPEG Conversion for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-maximizing-call-recording-20plus-techniques-for-windowsmac-users/"><u>[New] Maximizing Call Recording 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-discovering-collective-chat-content-in-messenger/"><u>[Updated] Discovering Collective Chat Content in Messenger</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-parameters-that-define-quality-ai-assistants/"><u>7 Parameters That Define Quality AI Assistants</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/amplify-your-gatherings-with-party-time-unlock-fresh-beats-by-joining-our-karaoke-service/"><u>Amplify Your Gatherings with Party Time - Unlock Fresh Beats by Joining Our Karaoke Service!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-every-sound-simultaneously-an-interactive-audio-map-of-musical-styles-by-pcdj/"><u>Discover Every Sound Simultaneously: An Interactive Audio Map of Musical Styles by PCDJ</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-the-connection-was-reset-issue-on-your-windows-pc-tips-from-yl-computing/"><u>How to Fix the 'Connection Was Reset' Issue on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/job-seekers-delight-writing-irresistible-cover-letters-using-ai/"><u>Job Seekers Delight: Writing Irresistible Cover Letters Using AI</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transfer-videos-to-dvd-discs-on-windows-and-mac-computers-for-2024/"><u>New Transfer Videos to DVD Discs on Windows and Mac Computers for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/securing-your-files-a-step-by-step-guide-to-password-protection-learn-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Password Protection - Learn From YL Computing Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-through-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper Through Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-adjusting-your-account-settings-in-yl-software-systems/"><u>Step-by-Step Instructions on Adjusting Your Account Settings in YL Software Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-upgrades-a-detailed-review-of-samsung-galaxy-watch-active-enhanced-connections-and-features/"><u>Unveiling the Upgrades: A Detailed Review of Samsung Galaxy Watch Active 지도의 두 버전 - Enhanced Connections & Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-guide-to-the-8-truly-effective-youtube-marketing-methods-for-2024/"><u>[New] A Guide to the 8 Truly Effective Youtube Marketing Methods for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fusing-images-online-and-desktop-harmoniously-for-2024/"><u>[New] Fusing Images Online & Desktop Harmoniously for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-places-to-procure-pixel-ringers-online/"><u>[New] Perfect Places to Procure Pixel Ringers Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-to-engage-in-a-virtual-meeting-via-devices-google/"><u>[New] Steps to Engage in a Virtual Meeting via Devices (Google)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[Updated] In 2024, Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/crucial-techniques-for-optimizing-ntbackup-usage-in-windows-server-2003/"><u>Crucial Techniques for Optimizing NTBackup Usage in Windows Server 2003</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/einfache-anleitung-zum-einbau-einer-ssd-in-bestehenden-pcs-mit-windows-11-10-8-oder-7-ohne-reformatierung-notig/"><u>Einfache Anleitung Zum Einbau Einer SSD in Bestehenden PCs Mit Windows 11, 10, 8 Oder 7 - Ohne Reformatierung Nötig!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-dell-network-adapter-drivers-compatible-with-windows-7/"><u>Latest Dell Network Adapter Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/music-transfer-essentials-keeping-your-playlist-alive/"><u>Music Transfer Essentials Keeping Your Playlist Alive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/secure-your-files-during-boot-issues-mastering-file-sharing-in-windows-safe-mode/"><u>Secure Your Files During Boot Issues: Mastering File Sharing in Windows Safe Mode</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-utilizing-onedrives-features-for-effortless-dual-computer-syncing/"><u>Step-by-Step Tutorial on Utilizing OneDrive's Features for Effortless Dual Computer Syncing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thrifty-watch-parties-made-easy-snap-up-the-youtube-premium-student-deal-now/"><u>Thrifty Watch Parties Made Easy: Snap Up the YouTube Premium Student Deal Now</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/alisdar-algdyd-3-trk-shhyra-ligraaa-nskh-ahtyatya-fy-windows-server-omgmaa-windows-server-o-qnap-nas/"><u>الإصدار الجديد: 3 طرق شهيرة لإجراء نسخ احتياطية في Windows Server ومجمع Windows Server و QNAP NAS</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/pcwindows-103/"><u>ロックされたPC修復：Windows 10の初期化3種類の方法</u></a></li>
 </ul></div>
 
