@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2025-01-13T22:46:31.392Z
-updated: 2025-01-20T16:40:12.372Z
+date: 2025-01-24T17:59:37.338Z
+updated: 2025-01-26T20:51:16.670Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,22 +107,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ffortless-webm-creation-10-best-youtube-video-transformers-for-2024/"><u>[New] Effortless WebM Creation 10 Best YouTube Video Transformers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[New] From Ground to Heavens A Mobile Panorama Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-magic-meets-technology-the-future-of-home-studio-production/"><u>2024 Approved Magic Meets Technology The Future of Home Studio Production</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/achieving-a-swift-trustworthy-pc-proven-strategies-by-yl-software-for-uninterrupted-efficiency/"><u>Achieving a Swift, Trustworthy PC: Proven Strategies by YL Software for Uninterrupted Efficiency</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-130-music-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia 130 Music</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-health-journey-the-best-8-chatgpt-add-ons-for-a-balanced-life/"><u>Elevate Your Health Journey: The Best 8 ChatGPT Add-Ons for a Balanced Life</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-frequent-hardware-breakdowns-a-comprehensive-guide-from-yl-systems-solutions/"><u>Exploring Frequent Hardware Breakdowns: A Comprehensive Guide From YL Systems Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-boost-your-pcs-performance-key-hardware-upgrades-recommended-by-yl-computing/"><u>How to Boost Your PC's Performance: Key Hardware Upgrades Recommended by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-no-sound-card-or-speakers-found-by-yl-software/"><u>How to Fix: No Sound Card or Speakers Found by YL Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps/"><u>In 2024, Harness the Power of FB Lives Selecting the Top 5 Downloading Apps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F14 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>In 2024, The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-through-windows-prerequisites-key-hardware-and-os-demands-for-smooth-software-performance/"><u>Navigating Through Windows Prerequisites: Key Hardware and OS Demands for Smooth Software Performance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/swiftly-remove-live-videos-on-social-platforms/"><u>Swiftly Remove Live Videos on Social Platforms</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-unrecognized-hardware-expert-solutions-from-yl-computing/"><u>Troubleshooting Unrecognized Hardware: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/uk-legislation-targets-illicit-bitcoin-assets-insights-by-yl-computing-and-yl-software/"><u>UK Legislation Targets Illicit Bitcoin Assets - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-computing-innovative-large-scale-image-collections-and-digital-wallpaper-designs/"><u>YL Computing: Innovative Large-Scale Image Collections & Digital Wallpaper Designs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevating-video-appeal-for-profiles/"><u>[New] Elevating Video Appeal for Profiles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-youtube-editors-handbook-a-step-by-step-journey-for-2024/"><u>[New] The Ultimate YouTube Editor's Handbook A Step-by-Step Journey for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-recording-erasing-identifiable-information/"><u>[Updated] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-does-immediate-subscribing-affect-content-recommendations-for-2024/"><u>[Updated] Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comprehensive-guide-to-deploying-a-vcenter-server-appliance-on-esxi-environment/"><u>Comprehensive Guide to Deploying a vCenter Server Appliance on ESXi Environment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-methodology-for-unrivaled-mobile-screen-recording-using-mobizen-for-2024/"><u>Elite Methodology for Unrivaled Mobile Screen Recording Using Mobizen for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728486012728-m2-ssdwindows-1011/"><u>M.2 SSDの徹底的な初期化：Windows 10/11でのガイド</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-the-process-transferring-iphone-video-footage-to-dvd-with-ease-on-windows-and-mac-systems/"><u>Mastering the Process: Transferring iPhone Video Footage to DVD with Ease on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/mastering-windows-11-essential-guide-on-using-its-built-in-backup-features/"><u>Mastering Windows 11: Essential Guide on Using Its Built-In Backup Features</u></a></li>
 </ul></div>
 

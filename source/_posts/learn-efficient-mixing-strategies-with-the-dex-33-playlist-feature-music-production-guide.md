@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2025-01-17T23:43:11.516Z
-updated: 2025-01-20T18:49:42.099Z
+date: 2025-01-20T22:16:42.111Z
+updated: 2025-01-26T16:01:52.492Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-android-tips-creating-stunning-slow-motion-videos/"><u>[Updated] Android Tips Creating Stunning Slow Motion Videos</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/accelerate-your-computer-the-top-features-you-should-disable-for-better-speed-yl-computing/"><u>Accelerate Your Computer: The Top Features You Should Disable for Better Speed (YL Computing)</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/authentic-wwe-womens-evolution-group-team-bad-visual-assets-and-digital-posters-yl-software-solutions/"><u>Authentic WWE Women's Evolution Group (Team B.A.D) Visual Assets and Digital Posters – YL Software Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/captivating-hd-summer-wallpapers-collection-for-enhanced-visual-experience-with-yl-computing-imagery/"><u>Captivating HD Summer Wallpapers Collection for Enhanced Visual Experience with YL Computing Imagery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-list-of-top-rated-no-cost-substitutes-for-microsoft-excel/"><u>Complete List of Top-Rated, No-Cost Substitutes for Microsoft Excel</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/desktop-enchantment-fairy-light-themed-images-and-digital-backdrops-by-yl-computing/"><u>Desktop Enchantment: Fairy Light-Themed Images & Digital Backdrops by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/download-lyrx-v110-for-karaoke-enthusiasts-introducing-the-new-kill-vocal-tool-to-improve-your-performance/"><u>Download LYRX v1.10 for Karaoke Enthusiasts: Introducing the New 'Kill Vocal' Tool to Improve Your Performance</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-video-to-mp3-digital-audio-extraction-guide/"><u>FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/high-resolution-weightlifting-inspirational-wallpapers-ultimate-motivation-for-your-pcphone/"><u>High-Resolution Weightlifting Inspirational Wallpapers - Ultimate Motivation for Your PC/Phone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-faulty-drivers-may-affect-your-graphics-card-performance-insights-from-yl-computing/"><u>How Faulty Drivers May Affect Your Graphics Card Performance - Insights From YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-neo-5-se-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT Neo 5 SE Phone FRP Lock</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722718389392-maintenance-requirements-may-be-higher-due-to-mechanical-wear-in-some-displacement-pump-types/"><u>Maintenance Requirements May Be Higher Due to Mechanical Wear in some Displacement Pump Types.</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/maximizing-hard-drive-capacity-tips-and-tricks-yl-software-solutions/"><u>Maximizing Hard Drive Capacity: Tips and Tricks - YL Software Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y17s-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y17s? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-problems-when-your-msi-dragon-center-wont-start/"><u>Resolving Problems When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-a-comprehensive-guide/"><u>Solving pdh.dll Errors: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/troubleshooting-why-isnt-your-outlook-getting-messages-find-solutions-here/"><u>Troubleshooting: Why Isn't Your Outlook Getting Messages? Find Solutions Here!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles-for-2024/"><u>[New] Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[New] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-thorough-examination-of-high-res-action-footage-via-yi/"><u>2024 Approved A Thorough Examination of High-Res Action Footage via Yi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-render-images-with-radial-light-diffusion-technique/"><u>2024 Approved Render Images with Radial Light Diffusion Technique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection-by-zdnet/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection by ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guia-practica-empezar-con-win3amigador-del-disco-en-windows-11-64-bit-y-opciones-alternativas-faciles-de-uso/"><u>Guía Práctica: Empezar Con Win3amigador Del Disco en Windows 11, 64 Bit - Y Opciones Alternativas Fáciles De Uso</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-nokia-g310-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nokia G310 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/schritt-fur-schritt-anleitung-fur-das-ubertragen-von-benutzerprofilen-unter-windows-cuon-einem-pc-auf-einen-anderen/"><u>Schritt-Für-Schritt-Anleitung Für Das Übertragen Von Benutzerprofilen Unter Windows Cuon Einem PC Auf Einen Anderen</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-safely-reformatting-your-usb-drive-without-data-loss/"><u>Step-by-Step Guide: Safely Reformatting Your USB Drive Without Data Loss</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-incorporating-old-hard-drive-into-a-fresh-computer-system-using-windows-11/"><u>Step-by-Step Instructions on Incorporating Old Hard Drive Into a Fresh Computer System Using Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-w11plus-support-with-asus-bt-drivers/"><u>Streamline W11+ Support with Asus BT Drivers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-guide-fixing-a-disappearing-partition-on-your-windows-hard-drive/"><u>Troubleshooting Guide: Fixing a Disappearing Partition on Your Windows Hard Drive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728476641850-usbwindows-114/"><u>USBメモリのフルクリアに必要な手順：Windows 11で効果的な4つの方法</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728507024501-windows-11-5/"><u>Windows 11 バックアップガイド: 最適な方法5つ</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728474803400-windows/"><u>マップされたネットワークドライブバックアップ:Windowsサーバー方法</u></a></li>
 </ul></div>
 

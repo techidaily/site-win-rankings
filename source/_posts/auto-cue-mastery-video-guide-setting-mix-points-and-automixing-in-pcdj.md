@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2025-01-13T18:31:11.377Z
-updated: 2025-01-20T19:13:34.016Z
+date: 2025-01-21T19:21:36.019Z
+updated: 2025-01-26T20:35:23.226Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,17 +63,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/outubes-visual-lifeline-size-and-ratio-insights-for-2024/"><u>[New] YouTube's Visual Lifeline Size & Ratio Insights for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>2024 Approved Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-alexa-and-ultra-hd-insignia-ns-43df710na19-fire-tv-edition-a-comprehensive-review/"><u>Affordable Alexa & Ultra HD Insignia NS-43DF710NA19 Fire TV Edition - A Comprehensive Review</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/bitcoin-heating-up-experts-debate-if-pepe-is-its-secret-catalyst-insights-from-yl-computing/"><u>Bitcoin Heating Up! Experts Debate If Pepe Is Its Secret Catalyst - Insights From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-computers-performance-monitoring-and-optimizing-cpu-and-ram-use-tips-from-yl-tech/"><u>Boost Your Computer's Performance: Monitoring & Optimizing CPU and RAM Use – Tips From YL Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-non-responsive-spotify-app-on-windows-11-pcs/"><u>Fixing Non-Responsive Spotify App on Windows 11 PCs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-opening-doors-to-collective-listening-on-youtube/"><u>In 2024, Opening Doors to Collective Listening on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966742400-install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210199532-9781631599057-the-complete-grimoire/"><u>The Complete Grimoire | Free Book</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-methods-for-fixing-scanners-that-wont-work-insights-from-yl-computing-and-yl-software/"><u>Top Methods for Fixing Scanners That Won't Work - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-key-distinctions-wired-vs-wireless-networks-explained-by-yl-computing/"><u>Understanding Key Distinctions: Wired Vs. Wireless Networks Explained by YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-splitcam-analysis-where-does-it-rank-among-recorders/"><u>[Updated] SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728474826469-7/"><u>「不注意にデータが消えちゃった？この7つの復元手順ですぐに取り戻せる方法」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-usb-20-insights-on-bandwidth-capacity-cable-variants-and-connection-types/"><u>Exploring the World of USB 2.0: Insights on Bandwidth Capacity, Cable Variants & Connection Types</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-complet-pour-sauvegarder-facilement-vos-donnees-avant-formater-sur-windows-7810-et-11/"><u>Guide Complet Pour Sauvegarder Facilement Vos Données Avant Formater Sur Windows 7,8,10 Et 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-12-pro-max-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 12 Pro Max Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v27e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V27e</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-swiftly-transfer-files-to-a-new-drive-on-windows-11/"><u>How to Swiftly Transfer Files to a New Drive on Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-elevate-your-broadcast-screen-share-techniques-for-the-modern-broadcaster/"><u>In 2024, Elevate Your Broadcast Screen-Share Techniques for the Modern Broadcaster</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-to-blur-faces-in-photography-for-2024/"><u>Innovative Techniques to Blur Faces in Photography for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-setting-up-a-portable-version-of-aomei-backupper/"><u>Step-by-Step Guide: Setting Up a Portable Version of AOMEI Backupper</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sync-problems-between-goodnotes-and-mac-discover-these-three-troubleshooting-techniques/"><u>Sync Problems Between GoodNotes and Mac? Discover These Three Troubleshooting Techniques!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/vmware-vcenter-deneklemeye-donusmustur-ve-akillanizla-umarak-kullanirken-hatasinin-duzeltilmesi-nasil-sagliyor/"><u>VMware vCenter Deneklemeye Dönüşmüştür Ve Akıllanızla Umarak Kullanırken Hatasının Düzeltilmesi Nasıl Sağlıyor?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
 

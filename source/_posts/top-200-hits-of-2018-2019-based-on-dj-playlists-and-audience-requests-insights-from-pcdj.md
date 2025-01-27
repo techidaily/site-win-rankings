@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-01-15T00:55:45.691Z
-updated: 2025-01-21T00:39:15.432Z
+date: 2025-01-25T21:33:04.159Z
+updated: 2025-01-27T01:36:35.264Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] 2024 Approved Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[New] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728509761244-aomei-backupper/"><u>AOMEI Backupper資料备份上传安全解锁方法 - 如何利用密码保护</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/choosing-frame-rate-wisely-is-30-or-60-fps-better-for-2024/"><u>Choosing Frame Rate Wisely Is 30 or 60 FPS Better for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/dos-metodos-primarios-para-iniciar-windows-11-desde-una-unidad-usb-con-un-util-truco-adicional/"><u>Dos Métodos Primarios Para Iniciar Windows 11 Desde Una Unidad USB Con Un Útil Truco Adicional</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ensuring-seamless-backups-top-7-solutions-for-ipad-icloud-connectivity-problems/"><u>Ensuring Seamless Backups: Top 7 Solutions for iPad-iCloud Connectivity Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guida-passo-passo-per-creare-unapp-di-riproduzione-mobili-con-aomei-backupper/"><u>Guida Passo-Passo per Creare Un'App Di Riproduzione Mobili Con AOMEI Backupper</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-laughburst-app-for-all-humor-needs/"><u>In 2024, LaughBurst App for All Humor Needs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/inspiring-14-animated-text-concepts/"><u>Inspiring 14 Animated Text Concepts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ios-problematik-airdrop-fotos-nicht-anzeigen-effiziente-workaround-strategien-mit-6-techniken/"><u>IOS Problematik: AirDrop Fotos Nicht Anzeigen - Effiziente Workaround-Strategien Mit 6 Techniken</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/probleme-losen-die-fehlgeschlagene-zurucksetzungsfunktion-von-windows-11-erklart-und-behebt/"><u>Probleme Lösen: Die Fehlgeschlagene Zurücksetzungsfunktion Von Windows 11 Erklärt Und Behebt</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-easy-and-speed-share-youtube-playlists-now/"><u>[New] In 2024, Easy & Speed Share YouTube Playlists Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-5-inspiring-book-trailers/"><u>2024 Approved Top 5 Inspiring Book Trailers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-diagnostic-tools-for-identifying-hardware-problems-on-windows-insights-by-yl-computing/"><u>Effective Diagnostic Tools for Identifying Hardware Problems on Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-link-several-scanning-devices-with-one-pc-expert-advice-tech-solutions-by-xyz/"><u>How To Link Several Scanning Devices With One PC: Expert Advice - Tech Solutions by XYZ</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/immediate-action-fix-stutter-effects/"><u>Immediate Action: Fix Stutter Effects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-evaluation-of-the-rayneo-air-2s-smart-spectacles-your-own-portable-imaging-solution/"><u>In-Depth Evaluation of the RayNeo Air 2S Smart Spectacles: Your Own Portable Imaging Solution</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introducing-newcomers-to-english/"><u>Introducing Newcomers to English</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/scanning-woes-solved-mastering-accurate-driver-setups-with-yl-software-insights/"><u>Scanning Woes Solved: Mastering Accurate Driver Setups with YL Software Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-power-of-immutability-in-linux-systems-explained-a-deep-dive-by-zdnet/"><u>The Power of Immutability in Linux Systems Explained – A Deep Dive by ZDnet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-black-friday-tech-specials-best-laptops-on-sale-in-november-2024-gizmodo/"><u>Top-Rated Black Friday Tech Specials: Best Laptops on Sale in November 2024 | Gizmodo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-roadmap-to-downloading-and-setting-up-auto-gpt-a-comprehensive-how-to/"><u>Your Roadmap to Downloading & Setting up Auto-GPT - A Comprehensive How-To</u></a></li>
 </ul></div>
 

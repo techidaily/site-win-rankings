@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest Video Link Functionality in PCDJ DEX Version 3.6: A Comprehensive Demo"
-date: 2025-01-18T01:12:01.240Z
-updated: 2025-01-20T21:32:21.188Z
+date: 2025-01-24T21:37:59.331Z
+updated: 2025-01-26T20:34:58.793Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,21 +57,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-conquering-zoom-meetings-a-tech-savvy-setup-strategy-for-2024/"><u>[New] Conquering Zoom Meetings A Tech-Savvy Setup Strategy for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitcast-audible-and-mp4-edition/"><u>[New] In 2024, TwitCast Audible & MP4 Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-polishing-your-production-perfect-for-instagram-viewers/"><u>[New] Polishing Your Production Perfect for Instagram Viewers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-yearly-top-unpacking-channel-guide-the-best-of-2024/"><u>[Updated] Yearly Top-Unpacking Channel Guide - The Best of 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-consequences-the-crucial-role-of-the-boxer-rebellion-in-world-history-explained-by-yl-technology-experts/"><u>Exploring the Consequences: The Crucial Role of the Boxer Rebellion in World History, Explained by YL Technology Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/holiday-hit-parade-the-ultimate-festive-feature-set-for-celebrating-with-party-tymes-premier-christmas-karaoke-collection/"><u>Holiday Hit Parade: The Ultimate Festive Feature Set for Celebrating with Party Tyme's Premier Christmas Karaoke Collection</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-diagnose-and-fix-problems-with-your-computers-memory-expert-advice-from-yl-computing/"><u>How Can You Diagnose and Fix Problems with Your Computer's Memory? – Expert Advice From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 Pro Max without the Previous Owner?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-p60-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Huawei P60?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/master-user-management-on-your-devices-control-panel-with-yl-software-tips/"><u>Master User Management on Your Device's Control Panel with YL Software Tips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/recognizing-your-pen-a-guide-to-enabling-handwriting-input-on-windows-10-tips-from-yl-computing/"><u>Recognizing Your Pen: A Guide to Enabling Handwriting Input on Windows 10 - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-with-metas-premium-512gb-quest-3-vr-headset-at-unrivalled-rates-insights-from-zdnet/"><u>Score Big Savings with Meta's Premium 512GB Quest 3 VR Headset at Unrivalled Rates | Insights From ZDNET</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamers-financial-compliance-check/"><u>Streamer's Financial Compliance Check</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/stunning-acura-tlx-high-res-visuals-for-your-screen-top-background-photos-and-pictures-by-yl-software-experts/"><u>Stunning Acura TLX High-Res Visuals for Your Screen: Top Background Photos and Pictures by YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/vibrant-neon-dinosaur-graphics-and-desktop-scenarios-yl-computings-digital-art-collection/"><u>Vibrant Neon Dinosaur Graphics & Desktop Scenarios - YL Computing's Digital Art Collection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>[New] The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>2024 Approved Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-dvd-players-for-your-portable-laptop/"><u>2024 Approved Explore the Best DVD Players for Your Portable Laptop</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/complete-tutorial-for-creating-a-disk-image-of-your-boot-volume-on-ws-2016/"><u>Complete Tutorial for Creating a Disk Image of Your Boot Volume on WS 2016</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gestion-optimale-des-disques-dur-sous-windows-amelioree-par-le-logiciel-ghost-choix-incontournable-pour-les-experts-informatiques/"><u>Gestion Optimale Des Disques Dur Sous Windows Améliorée Par Le Logiciel Ghost - Choix Incontournable Pour Les Experts Informatiques</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/not-all-agreements-between-firms-are-considered-cartels-some-may-be-allowed-if-they-have-procompetitive-benefits-that-outweigh-the-anticompetitive-effects-r163/"><u>Not All Agreements Between Firms Are Considered Cartels; some May Be Allowed if They Have Procompetitive Benefits that Outweigh the Anticompetitive Effects (Rule of Reason).</u></a></li>
+<li><a href="https://windows11.techidaily.com/relax-high-contrast-aesthetics-in-window-os/"><u>Relax High Contrast Aesthetics in Window OS</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-steps-for-savingbacking-up-your-outlook-emails-to-a-computer/"><u>Simple Steps for Saving/Backing Up Your Outlook Emails to a Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-iphone-glitches-corrected-by-entering-dfu-modes/"><u>Top 5 iPhone Glitches Corrected by Entering DFU Modes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-dog-products-and-services-of-2n2-fun-toys-and-essential-care-ideas-zdnet/"><u>Top Dog Products and Services of 2N2: Fun Toys & Essential Care Ideas - ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/vergessene-zugangsdaten-auf-der-ps5-wiederfinden-losungen-und-tipps/"><u>Vergessene Zugangsdaten Auf Der PS5 Wiederfinden - Lösungen Und Tipps</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728492643297-windows-7-windows-11/"><u>Windows 7データ移行と復元 - Windows 11へのアップグレードガイド</u></a></li>
 </ul></div>
 
