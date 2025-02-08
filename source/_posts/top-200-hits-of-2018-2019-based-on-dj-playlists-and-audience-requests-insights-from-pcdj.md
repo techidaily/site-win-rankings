@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-01-25T21:33:04.159Z
-updated: 2025-01-27T01:36:35.264Z
+date: 2025-02-03T17:35:21.551Z
+updated: 2025-02-08T19:08:09.604Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,24 +58,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-easy-and-speed-share-youtube-playlists-now/"><u>[New] In 2024, Easy & Speed Share YouTube Playlists Now</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-5-inspiring-book-trailers/"><u>2024 Approved Top 5 Inspiring Book Trailers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/4-effective-methods-to-save-your-favorite-sendvid-clips/"><u>4 Effective Methods to Save Your Favorite Sendvid Clips</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/5mb/"><u>5MB未満動画サイズアップ手順：速やかに大容量化</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/a-comprehensive-tutorial-on-changing-different-audiovideo-file-types-easily/"><u>A Comprehensive Tutorial on Changing Different Audio/Video File Types Easily</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028405867-dvdusb/"><u>DVDコピーガイド：自作、市販、レンタルからUSBへ安全に移動する手引き</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726030479103-dvd/"><u>DVDをリッピングしやすさ第一！ 無料方法紹介「急速・高信頼」</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-diagnostic-tools-for-identifying-hardware-problems-on-windows-insights-by-yl-computing/"><u>Effective Diagnostic Tools for Identifying Hardware Problems on Windows - Insights by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-link-several-scanning-devices-with-one-pc-expert-advice-tech-solutions-by-xyz/"><u>How To Link Several Scanning Devices With One PC: Expert Advice - Tech Solutions by XYZ</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/immediate-action-fix-stutter-effects/"><u>Immediate Action: Fix Stutter Effects</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-depth-evaluation-of-the-rayneo-air-2s-smart-spectacles-your-own-portable-imaging-solution/"><u>In-Depth Evaluation of the RayNeo Air 2S Smart Spectacles: Your Own Portable Imaging Solution</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introducing-newcomers-to-english/"><u>Introducing Newcomers to English</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1726028718397-mbs/"><u>MBS動画イズムのビデオコピー手順と保護方法</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/scanning-woes-solved-mastering-accurate-driver-setups-with-yl-software-insights/"><u>Scanning Woes Solved: Mastering Accurate Driver Setups with YL Software Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-power-of-immutability-in-linux-systems-explained-a-deep-dive-by-zdnet/"><u>The Power of Immutability in Linux Systems Explained – A Deep Dive by ZDnet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-black-friday-tech-specials-best-laptops-on-sale-in-november-2024-gizmodo/"><u>Top-Rated Black Friday Tech Specials: Best Laptops on Sale in November 2024 | Gizmodo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/your-roadmap-to-downloading-and-setting-up-auto-gpt-a-comprehensive-how-to/"><u>Your Roadmap to Downloading & Setting up Auto-GPT - A Comprehensive How-To</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-eficaz-y-rapido-tres-soluciones-simplificadas-para-la-sincronizacion-de-tu-unidad-d-con-onedrive/"><u>1. Eficaz Y Rápido: Tres Soluciones Simplificadas Para La Sincronización De Tu Unidad D Con OneDrive</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/copia-ombra-del-volume-comprendi-il-vss-e-i-suoi-vantaggi/"><u>Copia Ombra Del Volume: Comprendi Il VSS E I Suoi Vantaggi</u></a></li>
+<li><a href="https://games-able.techidaily.com/dodging-delay-escaping-load-screen-lock-up/"><u>Dodging Delay: Escaping Load Screen Lock-Up</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-sony-vaio-drivers-installed-for-windows-computers/"><u>Get the Latest Sony VAIO Drivers Installed for Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-rekindle-the-glow-solving-corsairs-led-problems/"><u>How to Rekindle the Glow: Solving Corsair's LED Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-nord-ce-3-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 13 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/optimizing-data-transfer-with-automatic-smb-compression-on-windows-server-vehicles-that-can-be-driven-and-they-are-often-used-in-off-road-conditions-or-area130/"><u>Optimizing Data Transfer with Automatic SMB Compression on Windows Server Vehicles that Can Be Driven, and They Are Often Used in Off-Road Conditions or Areas with Limited Accessibility.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/swift-and-simple-methods-for-transferring-data-from-your-synology-nas-to-a-windowsmac/"><u>Swift & Simple Methods for Transferring Data From Your Synology NAS to a Windows/Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209850843-9781945252150-the-art-of-listening-to-angels/"><u>The Art of Listening to Angels | Free Book</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-art-of-soft-ending-sounds-in-premiere-pro-for-2024/"><u>The Art of Soft-Ending Sounds in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-7-solutions-when-windows-explorer-continually-fails-explore-with-revouninstaller/"><u>Top 7 Solutions When Windows Explorer Continually Fails – Explore With RevoUninstaller</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transitionner-votre-disque-dur-de-portable-vers-un-ssd-en-quatre-etapes-le-guide-ultime/"><u>Transitionner Votre Disque Dur De Portable Vers Un SSD en Quatre Étapes : Le Guide Ultime</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-an-sos-only-display-on-iphone-discover-six-remedies/"><u>Troubleshoot an 'SOS Only' Display on iPhone: Discover Six Remedies</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-1011-paranael-ma-thasatavaza-fildara-ka-anapasathata-hana-ka-samathhana/"><u>Windows 10/11 प्रणाली में दस्तावेज़ फ़ोल्डर के अनुपस्थित होने का समाधान</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-11-how-to-fix-missing-bcd-file-errors/"><u>Windows 11: How to Fix Missing BCD File Errors</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-how-often-are-temporary-files-deleted-by-default/"><u>Windows: How Often Are Temporary Files Deleted by Default?</u></a></li>
 </ul></div>
 

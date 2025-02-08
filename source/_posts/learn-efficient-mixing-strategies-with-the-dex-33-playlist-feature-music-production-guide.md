@@ -1,7 +1,7 @@
 ---
 title: Learn Efficient Mixing Strategies with the DEX 3.3 Playlist Feature - Music Production Guide
-date: 2025-01-20T22:16:42.111Z
-updated: 2025-01-26T16:01:52.492Z
+date: 2025-02-04T21:20:33.961Z
+updated: 2025-02-08T19:30:43.041Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ In the video below we show you how to use the new “_Multi-Track Selection_” 
 ##### HOW TO USE THE SIDELIST AND MULTI-TRACK SELECTION TO BUILD PLAYLISTS IN DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/multitrack-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles-for-2024/"><u>[New] Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[New] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-thorough-examination-of-high-res-action-footage-via-yi/"><u>2024 Approved A Thorough Examination of High-Res Action Footage via Yi</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-render-images-with-radial-light-diffusion-technique/"><u>2024 Approved Render Images with Radial Light Diffusion Technique</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection-by-zdnet/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection by ZDNet</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guia-practica-empezar-con-win3amigador-del-disco-en-windows-11-64-bit-y-opciones-alternativas-faciles-de-uso/"><u>Guía Práctica: Empezar Con Win3amigador Del Disco en Windows 11, 64 Bit - Y Opciones Alternativas Fáciles De Uso</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-nokia-g310-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nokia G310 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/schritt-fur-schritt-anleitung-fur-das-ubertragen-von-benutzerprofilen-unter-windows-cuon-einem-pc-auf-einen-anderen/"><u>Schritt-Für-Schritt-Anleitung Für Das Übertragen Von Benutzerprofilen Unter Windows Cuon Einem PC Auf Einen Anderen</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-safely-reformatting-your-usb-drive-without-data-loss/"><u>Step-by-Step Guide: Safely Reformatting Your USB Drive Without Data Loss</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-instructions-on-incorporating-old-hard-drive-into-a-fresh-computer-system-using-windows-11/"><u>Step-by-Step Instructions on Incorporating Old Hard Drive Into a Fresh Computer System Using Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-w11plus-support-with-asus-bt-drivers/"><u>Streamline W11+ Support with Asus BT Drivers</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-guide-fixing-a-disappearing-partition-on-your-windows-hard-drive/"><u>Troubleshooting Guide: Fixing a Disappearing Partition on Your Windows Hard Drive</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728476641850-usbwindows-114/"><u>USBメモリのフルクリアに必要な手順：Windows 11で効果的な4つの方法</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728507024501-windows-11-5/"><u>Windows 11 バックアップガイド: 最適な方法5つ</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728474803400-windows/"><u>マップされたネットワークドライブバックアップ:Windowsサーバー方法</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-composers-toolkit-for-flawless-image-finishing/"><u>[Updated] In 2024, The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-edits-highest-rated-video-tools-for-youtube-for-2024/"><u>[Updated] Masterful Edits Highest Rated Video Tools For YouTube for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/bitlockerwindows-10/"><u>BitLockerリカバリキーでWindows 10環境のセットアップ手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparison-unveiled-can-llamas-3-outperform-gpt-4/"><u>Comparison Unveiled: Can Llamas 3 Outperform GPT-4?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-nomad-stand-one-max-assessment-analyzing-the-triple-threat-magsafe-charging-station/"><u>Comprehensive Nomad Stand One Max Assessment: Analyzing the Triple-Threat MagSafe Charging Station</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/drei-methoden-zur-sicheren-festplattenbereinigung-entsorgung-und-wiederverwendung-ein-umfassender-leitfaden/"><u>Drei Methoden Zur Sicheren Festplattenbereinigung, -Entsorgung Und Wiederverwendung: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-review-the-hero4-black-journey-for-2024/"><u>Extensive Review The Hero4 Black Journey for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guia-paso-a-paso-para-integrar-multiples-copias-de-seguridad-en-una-unica-foto-maestra/"><u>Guía Paso a Paso Para Integrar Múltiples Copias De Seguridad en Una Única Foto Maestra</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>In 2024, Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/instalacja-wojciech-11-bez-uzycia-pliku-cddvd-na-nowym-ssd-dysku-podstawowe-sposoby-instalacji/"><u>Instalacja Wojciech 11 Bez Użycia Pliku CD/DVD Na Nowym SSD Dysku - Podstawowe Sposoby Instalacji</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/master-backup-with-ghost-disk-a-guide-to-using-ghost-utility-and-imaging-software/"><u>Master Backup with Ghost Disk: A Guide to Using Ghost Utility & Imaging Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/schrittweise-anleitung-zum-klonen-von-windows-10-auf-einem-nvme-ssd/"><u>Schrittweise Anleitung Zum Klonen Von Windows 10 Auf Einem NVMe-SSD</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-expert-guide-for-configuring-shadow-copies-on-windows-server-2019/"><u>Step-by-Step Expert Guide for Configuring Shadow Copies on Windows Server 2019</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-clearing-out-dangling-vms-from-your-vcenter-environment/"><u>Step-by-Step Guide: Clearing Out Dangling VMs From Your vCenter Environment</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728504539227-windows-104/"><u>Windows 10で失われたデータを取り戻す:上級者向け4選手法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44ot44oh44kq44kv44oq44od44ox44gu44kz44oz44oi44op44k544oi6kit5a6a44ks5pya6ygp5yyw44gz44kl44gf44kb44gu44og44kv44ol44od44kv/"><u>ビデオクリップのコントラスト設定を最適化するためのテクニック</u></a></li>
 </ul></div>
 

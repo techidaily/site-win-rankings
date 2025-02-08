@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2025-01-24T18:50:48.452Z
-updated: 2025-01-27T01:03:05.876Z
+date: 2025-02-03T20:36:03.771Z
+updated: 2025-02-08T20:09:52.401Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,18 +79,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/click-to-download-official-drivers-for-hp-deskjet-3520-ink-advantage-all-in-one-printer/"><u>[Click to Download] Official Drivers for HP DeskJet 3520 Ink Advantage All-in-One Printer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>[Updated] In 2024, A Deep-Dive Into Digital Platform Wealth Dailymotion & YouTube Comparison</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Y28 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-11-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 11 SIM Lock?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rapid-rendering-of-facebook-videos-tips-and-tricks-for-2024/"><u>Rapid Rendering of Facebook Videos Tips & Tricks for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solving-no-sound-issues-with-speakers-in-windows-a-guide-by-yl-computing/"><u>Solving No-Sound Issues with Speakers in Windows: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-setting-up-your-profile-on-yl-computings-control-panel/"><u>Step-by-Step Guide: Setting Up Your Profile on YL Computing's Control Panel</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-and-repair-techniques-for-display-malfunctions-due-to-graphics-cards-in-windows-expertise-by-yl-software/"><u>Troubleshooting & Repair Techniques for Display Malfunctions Due to Graphics Cards in Windows – Expertise by YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-guide-restoring-your-printers-connection-expert-tips-by-yl-computing/"><u>Troubleshooting Guide: Restoring Your Printer's Connection - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visual-virtuosity-top-6-video-editing-software-for-big-sur-os/"><u>Visual Virtuosity Top 6 Video Editing Software for Big Sur OS</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-compatible-gpu-selection-made-easy-expert-advice-from-yl-computing/"><u>Windows-Compatible GPU Selection Made Easy: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/yl-computing-tutorial-easy-ways-to-access-and-review-spreadsheet-documents/"><u>YL Computing Tutorial: Easy Ways to Access and Review Spreadsheet Documents</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-joke-to-jest-constructing-impactful-social-media-memes/"><u>[Updated] 2024 Approved From Joke to Jest Constructing Impactful Social Media Memes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-a-novice-using-facebook-analytics-for-2024/"><u>[Updated] Essential Tips for a Novice Using Facebook Analytics for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-earnings-enigma-the-revenue-of-a-youtuber/"><u>[Updated] In 2024, Earnings Enigma The Revenue of a YouTuber</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>[Updated] In 2024, Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-language-learning-with-chatgpt-plus-a-comprehensive-guide/"><u>Boosting Your Language Learning with ChatGPT Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/bypassing-the-0x8007007f-glitch-in-windows-11-updates-with-proven-techniques/"><u>Bypassing the 0X8007007F Glitch in Windows 11 Updates with Proven Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nt-strategy-amplified-selective-rank-watcher-solutions/"><u>Content Strategy Amplified Selective Rank Watcher Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-guide-to-installing-windows-10-on-new-ssd-without-cddvd-step-by-step-methods/"><u>Easy Guide to Installing Windows 10 on New SSD Without CD/DVD - Step-by-Step Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-move-your-iphone-video-content-to-windows-11-top-5-solutions/"><u>How To Move Your iPhone Video Content to Windows 11 – Top 5 Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone XS</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/leading-live-file-duplicator-tools-ensuring-immediate-update-synchronization/"><u>Leading Live File Duplicator Tools Ensuring Immediate Update Synchronization</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/professionelle-recovery-dienstleistungen-fur-ihre-canon-dslr-bildwiedergabereparatur/"><u>Professionelle Recovery Dienstleistungen Für Ihre Canon DSLR - Bildwiedergabereparatur</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/protecting-data-integrity-a-guide-to-securely-cloning-the-western-digital-sn75o-nvme-ssd/"><u>Protecting Data Integrity: A Guide to Securely Cloning the Western Digital SN75^o NVMe SSD</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/schritt-fur-schritt-anleitung-fur-das-ubertragen-von-benutzerprofilen-unter-windows-cuon-einem-pc-auf-einen-anderen/"><u>Schritt-Für-Schritt-Anleitung Für Das Übertragen Von Benutzerprofilen Unter Windows Cuon Einem PC Auf Einen Anderen</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/section-2a-explanation-of-relevant-concept-cartel-theory-and-antitrust-law/"><u>Section 2A: Explanation of Relevant Concept (Cartel Theory and Antitrust Law)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-saves-photos-the-new-software-launched/"><u>Stellar Saves Photos: The New Software Launched</u></a></li>
 </ul></div>
 

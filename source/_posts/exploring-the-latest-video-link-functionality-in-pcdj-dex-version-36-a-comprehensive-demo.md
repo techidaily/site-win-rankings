@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest Video Link Functionality in PCDJ DEX Version 3.6: A Comprehensive Demo"
-date: 2025-01-24T21:37:59.331Z
-updated: 2025-01-26T20:34:58.793Z
+date: 2025-02-05T20:10:34.152Z
+updated: 2025-02-08T17:56:07.163Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ We think **this is a huge addition to DEX 3 for VDJ’s** (video DJs) that want 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Video Demonstration Of DEX 3.6’s ‘Video Link’ Feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,17 +57,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/videolink-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>[New] The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>2024 Approved Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-dvd-players-for-your-portable-laptop/"><u>2024 Approved Explore the Best DVD Players for Your Portable Laptop</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/complete-tutorial-for-creating-a-disk-image-of-your-boot-volume-on-ws-2016/"><u>Complete Tutorial for Creating a Disk Image of Your Boot Volume on WS 2016</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/gestion-optimale-des-disques-dur-sous-windows-amelioree-par-le-logiciel-ghost-choix-incontournable-pour-les-experts-informatiques/"><u>Gestion Optimale Des Disques Dur Sous Windows Améliorée Par Le Logiciel Ghost - Choix Incontournable Pour Les Experts Informatiques</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/not-all-agreements-between-firms-are-considered-cartels-some-may-be-allowed-if-they-have-procompetitive-benefits-that-outweigh-the-anticompetitive-effects-r163/"><u>Not All Agreements Between Firms Are Considered Cartels; some May Be Allowed if They Have Procompetitive Benefits that Outweigh the Anticompetitive Effects (Rule of Reason).</u></a></li>
-<li><a href="https://windows11.techidaily.com/relax-high-contrast-aesthetics-in-window-os/"><u>Relax High Contrast Aesthetics in Window OS</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/simple-steps-for-savingbacking-up-your-outlook-emails-to-a-computer/"><u>Simple Steps for Saving/Backing Up Your Outlook Emails to a Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-iphone-glitches-corrected-by-entering-dfu-modes/"><u>Top 5 iPhone Glitches Corrected by Entering DFU Modes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-dog-products-and-services-of-2n2-fun-toys-and-essential-care-ideas-zdnet/"><u>Top Dog Products and Services of 2N2: Fun Toys & Essential Care Ideas - ZDNET</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/vergessene-zugangsdaten-auf-der-ps5-wiederfinden-losungen-und-tipps/"><u>Vergessene Zugangsdaten Auf Der PS5 Wiederfinden - Lösungen Und Tipps</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728492643297-windows-7-windows-11/"><u>Windows 7データ移行と復元 - Windows 11へのアップグレードガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-song-guide-for-newbies-for-2024/"><u>[New] The Ultimate Song Guide for Newbies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>2024 Approved Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/black-friday-blowout-at-microsoft-store-snag-a-300-surface-go-2-or-score-an-acer-2-in-1-for-230-shop-now-on-zdnet/"><u>Black Friday Blowout at Microsoft Store: Snag a $300 Surface Go 2 or Score an Acer 2-In-1 for $230 - Shop Now on ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/download-free-recovery-images-for-dell-hp-lenovo-and-microsoft-surface-systems-using-windowslinux/"><u>Download FREE Recovery Images for Dell, HP, Lenovo & Microsoft Surface Systems Using Windows/Linux</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-update-methods-for-ftdi-drivers-in-microsoft-windows-os/"><u>Easy Update Methods for FTDI Drivers in Microsoft Windows OS</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-microsoft-surface-duo-2s-innovative-features-after-two-weeks-balancing-confusion-with-curiosity-zdnet/"><u>Exploring the Microsoft Surface Duo 2'S Innovative Features After Two Weeks: Balancing Confusion with Curiosity | ZDNet</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/mirroring-your-android-device-on-an-apple-tv-a-step-by-step-guide/"><u>Mirroring Your Android Device on an Apple TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/pinterests-top-free-tools-effortless-video-downloads-online/"><u>Pinterest’s Top Free Tools Effortless Video Downloads Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-by-upgrading-your-samsung-tv-software/"><u>Revamp Your Viewing Experience by Upgrading Your Samsung TV Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/revolutionize-your-desktop-efficiency-mastering-the-windows-11-taskbar-insights-by-zdnet/"><u>Revolutionize Your Desktop Efficiency: Mastering the Windows 11 Taskbar - Insights by ZDNET</u></a></li>
+<li><a href="https://techidaily.com/top-5-netflix-friendly-vpns-enhancing-streaming-privacy/"><u>Top 5 Netflix-Friendly VPNs Enhancing Streaming Privacy</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-11-update-costs-microsoft-introduces-new-annual-fee-starting-next-year-learn-the-expected-prices/"><u>Windows 11 Update Costs: Microsoft Introduces New Annual Fee Starting Next Year - Learn the Expected Prices</u></a></li>
 </ul></div>
 

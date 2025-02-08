@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2025-01-24T17:59:37.338Z
-updated: 2025-01-26T20:51:16.670Z
+date: 2025-02-02T19:14:14.672Z
+updated: 2025-02-08T20:39:09.126Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,16 +107,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-elevating-video-appeal-for-profiles/"><u>[New] Elevating Video Appeal for Profiles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-youtube-editors-handbook-a-step-by-step-journey-for-2024/"><u>[New] The Ultimate YouTube Editor's Handbook A Step-by-Step Journey for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-recording-erasing-identifiable-information/"><u>[Updated] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-does-immediate-subscribing-affect-content-recommendations-for-2024/"><u>[Updated] Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/comprehensive-guide-to-deploying-a-vcenter-server-appliance-on-esxi-environment/"><u>Comprehensive Guide to Deploying a vCenter Server Appliance on ESXi Environment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-methodology-for-unrivaled-mobile-screen-recording-using-mobizen-for-2024/"><u>Elite Methodology for Unrivaled Mobile Screen Recording Using Mobizen for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 8T</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728486012728-m2-ssdwindows-1011/"><u>M.2 SSDの徹底的な初期化：Windows 10/11でのガイド</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-the-process-transferring-iphone-video-footage-to-dvd-with-ease-on-windows-and-mac-systems/"><u>Mastering the Process: Transferring iPhone Video Footage to DVD with Ease on Windows and Mac Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-windows-11-essential-guide-on-using-its-built-in-backup-features/"><u>Mastering Windows 11: Essential Guide on Using Its Built-In Backup Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nalyzing-earnings-disparity-dailymovement-and-youtube-profits-compared-for-2024/"><u>[New] Analyzing Earnings Disparity DailyMovement and YouTube Profits Compared for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-monetize-mastery-turning-views-into-revenue-on-vimeo/"><u>[New] In 2024, Monetize Mastery Turning Views Into Revenue on Vimeo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-smart-shoppers-guide-to-top-gaming-mice-and-keyboards/"><u>[Updated] 2024 Approved Smart Shoppers' Guide to Top Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hefty-helpers-airborne-lifting-titans-unveiled-for-2024/"><u>[Updated] Hefty Helpers Airborne Lifting Titans Unveiled for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-step-by-step-guide-removing-a-see-through-backdrop-from-your-images/"><u>1. Step-by-Step Guide: Removing a See-Through Backdrop From Your Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-webinar-tools-for-efficient-recording/"><u>2024 Approved Affordable Webinar Tools for Efficient Recording</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-of-the-beat-the-ultimate-ranking-of-top-10-watched-youtubes-in-music-2013-unlocking-viral-beats-spotlight-on-2014s-top-10-youtube-sensations/"><u>Best of the Beat: The Ultimate Ranking of Top 10 Watched YouTubes in Music, 201#3: 'Unlocking Viral Beats: Spotlight on 2014'S Top 10 YouTube Sensations!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/expert-tips-on-inserting-captions-into-youtube-videos/"><u>Expert Tips on Inserting Captions Into YouTube Videos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-does-youtube-request-video-converter-access-comprehensive-malwarecare-tutorial/"><u>How Does YouTube Request Video Converter Access? Comprehensive MalwareCare Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-genesis-app/"><u>In 2024, Giggle Genesis App</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-it-possible-for-malware-to-propagate-via-wi-fi-networks-without-physical-connection/"><u>Is It Possible for Malware to Propagate via Wi-Fi Networks Without Physical Connection?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-your-pdf-safe-from-malware-tips-for-identifying-dangerous-pdf-files/"><u>Is Your PDF Safe From Malware? Tips for Identifying Dangerous PDF Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/june-2024s-premier-discounts-at-best-buy-discover-the-deals/"><u>June 2024'S Premier Discounts at Best Buy - Discover the Deals</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/master-the-process-of-converting-wav-recordings-to-compressed-m4a-format/"><u>Master the Process of Converting WAV Recordings to Compressed M4A Format</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-11-taskbar-icons-layout/"><u>Perfecting Windows 11 Taskbar Icons Layout</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-rated-tool-for-editing-picture-backdrops-transform-your-images-with-ease/"><u>Top-Rated Tool for Editing Picture Backdrops: Transform Your Images with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-device-detection-issues-in-windows-10s-bluetooth/"><u>Troubleshooting Guide: Fixing Device Detection Issues in Windows 10'S Bluetooth</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ultimate-guide-effortless-import-of-vcf-file-into-your-android-phone/"><u>Ultimate Guide: Effortless Import of VCF File Into Your Android Phone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/your-ultimate-checklist-for-broadcasting-bts-seventeens-epic-stage-show-directly-into-your-living-room/"><u>Your Ultimate Checklist for Broadcasting BTS SEVENTEEN’s Epic Stage Show Directly Into Your Living Room!</u></a></li>
 </ul></div>
 

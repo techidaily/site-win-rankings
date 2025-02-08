@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.8 Karaoke Software: Enhanced Audio Features & New Updates - Free Download From PCDJ"
-date: 2025-01-24T18:57:44.058Z
-updated: 2025-01-26T20:36:14.433Z
+date: 2025-02-06T18:58:27.116Z
+updated: 2025-02-08T16:44:02.379Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,24 +84,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overwatch-simplified-recording-strategies/"><u>2024 Approved Overwatch Simplified Recording Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>2024 Approved Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/capture-crystal-clear-audio-like-a-pro-using-the-latest-version-of-ubuntu-recorder-software/"><u>Capture Crystal Clear Audio Like a Pro Using the Latest Version of Ubuntu Recorder Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-enabling-advanced-analytics-and-personalization/"><u>Cookiebot: Enabling Advanced Analytics and Personalization</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-superior-pandora-replacements-for-an-unmatched-internet-radio-experience/"><u>Discover Superior Pandora Replacements for an Unmatched Internet Radio Experience</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/discover-the-ultimate-5-spyware-elimination-programs-keep-malicious-trackers-at-bay/"><u>Discover the Ultimate 5 Spyware Elimination Programs – Keep Malicious Trackers at Bay</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/proven-methods-for-youtubers-rapid-subscriber-expansion-for-2024/"><u>Proven Methods for Youtubers' Rapid Subscriber Expansion for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quick-playlist-streaming-your-mp3-music-library-online/"><u>Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/simple-steps-quick-guide-to-converting-videos-into-gifs/"><u>Simple Steps: Quick Guide to Converting Videos Into GIFs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/six-effective-strategies-to-protect-your-mobile-device-from-cyber-threats/"><u>Six Effective Strategies to Protect Your Mobile Device From Cyber Threats</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-broadcasting-among-sus-gaming-sessions-for-pc-users/"><u>Step-by-Step Tutorial: Broadcasting 'Among Sus' Gaming Sessions for PC Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-5-chrome-security-apps-protect-your-web-surfing-and-online-financial-transactions/"><u>Top 5 Chrome Security Apps: Protect Your Web Surfing & Online Financial Transactions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-rated-eco-friendly-chroma-key-software-of-2021/"><u>Top-Rated Eco-Friendly Chroma Key Software of 2021</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transformacion-gratuita-de-audio-desde-dts-hasta-wav-con-la-herramienta-en-linea-de-convertir-audio-de-movavi/"><u>Transformación Gratuita De Audio Desde DTS Hasta WAV Con La Herramienta en Línea De Convertir Audio De Movavi</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-guide-to-safeguarding-your-raspberry-pi-data-on-windows/"><u>Ultimate Guide to Safeguarding Your Raspberry Pi Data on Windows</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-guide-how-to-effectively-record-sound-from-the-web/"><u>Ultimate Guide: How to Effectively Record Sound From the Web</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-your-home-entertainment-with-a-highly-rated-echo-pop-for-an-unbeatable-price-of-18-during-prime-day-sale-find-out-how-on-zdnet-now/"><u>Unleash Your Home Entertainment with a Highly Rated Echo Pop for an Unbeatable Price of $18 During Prime Day Sale - Find Out How on ZDNET Now!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winxvideo-artificial-intelligence-masterclass-professional-video-optimization-learn-how-to-elevate-your-content-with-cutting-edge-audio-and-video-processing114/"><u>Winxvideo Artificial Intelligence Masterclass: Professional Video Optimization - Learn How to Elevate Your Content with Cutting-Edge Audio & Video Processing Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/x-3/"><u>X=-3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-all-about-color-grading/"><u>[Updated] All About Color Grading</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-eyevision-recorder-ultimate/"><u>[Updated] EyeVision Recorder Ultimate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-apps-and-websites-for-american-sign-language-training/"><u>Best Free Apps and Websites for American Sign Language Training</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/diagnosing-the-cause-of-sluggish-scanning-with-yl-software-a-comprehensive-guide-by-yl-computing/"><u>Diagnosing the Cause of Sluggish Scanning with YL Software: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhance-your-singing-experience-with-personalized-karaoke-visuals-how-to-add-custom-background-imagery-in-pcdj/"><u>Enhance Your Singing Experience with Personalized Karaoke Visuals: How to Add Custom Background Imagery in PCDJ</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-high-precision-display-unveiled-hp-dreamcolor-z32x/"><u>In 2024, High Precision Display Unveiled HP DreamColor Z32X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-itel-a05s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Itel A05s with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210470498-9780578362809-life-is-worth-more-than-just-living/"><u>Life Is Worth More Than Just Living | Free Book</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/premium-vehicle-desktop-graphics-and-full-coverage-screen-savers-from-yl-digital-innovations-yl-computing/"><u>Premium Vehicle Desktop Graphics & Full Coverage Screen Savers From YL Digital Innovations (YL Computing)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ct-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-unrecognized-usb-issues-expert-tips-from-yl-computing/"><u>Resolving Unrecognized USB Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solutions-to-fix-the-annoying-hum-from-your-pcs-sound-card-tips-by-yl-computing/"><u>Solutions to Fix the Annoying Hum From Your PC's Sound Card - Tips by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solving-the-problem-of-undetected-devices-by-your-scanner-expert-advice-by-yl-software/"><u>Solving the Problem of Undetected Devices by Your Scanner - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/switching-your-default-file-opener-on-windows-tips-from-yl-software/"><u>Switching Your Default File Opener on Windows: Tips From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-basic-hardware-and-software-needs-unveiling-the-essential-specs-for-windows-10-explained-by-experts-at-yl-computing/"><u>Understanding Basic Hardware and Software Needs: Unveiling the Essential Specs for Windows 10 - Explained by Experts at YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-common-monitor-error-messages-insights-from-yl-computing-and-yl-software/"><u>Understanding Common Monitor Error Messages: Insights From YL Computing & YL Software</u></a></li>
 </ul></div>
 
