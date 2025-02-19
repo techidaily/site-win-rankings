@@ -1,7 +1,7 @@
 ---
 title: "Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017"
-date: 2025-02-03T20:36:03.771Z
-updated: 2025-02-08T20:09:52.401Z
+date: 2025-02-15T19:38:30.404Z
+updated: 2025-02-18T22:17:44.733Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s the top 20 most requested songs of 2017 according to DJ Event Planner:
@@ -57,7 +57,7 @@ As a DJ it’s always a bit of fun reviewing the list each year. The usual suspe
 _What do you think of the **most requested songs of 2017** list? Does it jive with the requests you’ve received? Feel free to share your thoughts in the comment section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/2017-most-requested-songs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-joke-to-jest-constructing-impactful-social-media-memes/"><u>[Updated] 2024 Approved From Joke to Jest Constructing Impactful Social Media Memes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-a-novice-using-facebook-analytics-for-2024/"><u>[Updated] Essential Tips for a Novice Using Facebook Analytics for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-earnings-enigma-the-revenue-of-a-youtuber/"><u>[Updated] In 2024, Earnings Enigma The Revenue of a YouTuber</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>[Updated] In 2024, Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-language-learning-with-chatgpt-plus-a-comprehensive-guide/"><u>Boosting Your Language Learning with ChatGPT Plus: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/bypassing-the-0x8007007f-glitch-in-windows-11-updates-with-proven-techniques/"><u>Bypassing the 0X8007007F Glitch in Windows 11 Updates with Proven Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nt-strategy-amplified-selective-rank-watcher-solutions/"><u>Content Strategy Amplified Selective Rank Watcher Solutions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-guide-to-installing-windows-10-on-new-ssd-without-cddvd-step-by-step-methods/"><u>Easy Guide to Installing Windows 10 on New SSD Without CD/DVD - Step-by-Step Methods</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-move-your-iphone-video-content-to-windows-11-top-5-solutions/"><u>How To Move Your iPhone Video Content to Windows 11 – Top 5 Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone XS</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/leading-live-file-duplicator-tools-ensuring-immediate-update-synchronization/"><u>Leading Live File Duplicator Tools Ensuring Immediate Update Synchronization</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/professionelle-recovery-dienstleistungen-fur-ihre-canon-dslr-bildwiedergabereparatur/"><u>Professionelle Recovery Dienstleistungen Für Ihre Canon DSLR - Bildwiedergabereparatur</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/protecting-data-integrity-a-guide-to-securely-cloning-the-western-digital-sn75o-nvme-ssd/"><u>Protecting Data Integrity: A Guide to Securely Cloning the Western Digital SN75^o NVMe SSD</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/schritt-fur-schritt-anleitung-fur-das-ubertragen-von-benutzerprofilen-unter-windows-cuon-einem-pc-auf-einen-anderen/"><u>Schritt-Für-Schritt-Anleitung Für Das Übertragen Von Benutzerprofilen Unter Windows Cuon Einem PC Auf Einen Anderen</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/section-2a-explanation-of-relevant-concept-cartel-theory-and-antitrust-law/"><u>Section 2A: Explanation of Relevant Concept (Cartel Theory and Antitrust Law)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-saves-photos-the-new-software-launched/"><u>Stellar Saves Photos: The New Software Launched</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[New] 2024 Approved Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlock-potential-with-best-free-text-psdfree/"><u>[Updated] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-your-syma-x8c-experience/"><u>2024 Approved Enhancing Your Syma X8C Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/capture-spectacular-video-on-youtube-top-webcam-picks/"><u>Capture Spectacular Video on YouTube Top Webcam Picks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/economic-downturn-sparks-rise-in-chinese-protest-movements-amid-real-estate-uncertainties-reveals-freedom-house-an-analysis-by-yl-computing-yl-software/"><u>Economic Downturn Sparks Rise in Chinese Protest Movements Amid Real Estate Uncertainties, Reveals 'Freedom House': An Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-troubleshooting-sound-card-issues-insights-from-yl-computing/"><u>Effective Strategies for Troubleshooting Sound Card Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-troubleshooting-techniques-for-resolving-incorrect-printouts-expert-tips-from-yl-software-solutions/"><u>Effective Troubleshooting Techniques for Resolving Incorrect Printouts - Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-evolution-of-faith-a-deep-dive-into-chinas-spiritual-heritage/"><u>Exploring the Evolution of Faith: A Deep Dive Into China's Spiritual Heritage</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-top-third-party-applications-to-optimize-recovery-operations-insights-by-yl-software-experts/"><u>Exploring Top Third-Party Applications to Optimize Recovery Operations: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fixing-a-malfunctioning-scanner-expert-tips-and-solutions-yl-computing/"><u>Fixing a Malfunctioning Scanner: Expert Tips & Solutions - YL Computing</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-12-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 12 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a1-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A1 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>In 2024, Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x6-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X6 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streaming-content-artist/"><u>In 2024, Streaming Content Artist</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-hardware-related-bsod-issues-in-windows-expert-tips-from-yl-computing/"><u>Resolving Hardware-Related BSOD Issues in Windows: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/restoring-your-data-after-hard-drive-failure-expert-advice-from-yl-software/"><u>Restoring Your Data After Hard Drive Failure: Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-try-digital-journals-for-effective-note-taking/"><u>Top 6 Must-Try Digital Journals for Effective Note-Taking</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-computing-reveals-tips-for-verifying-scanner-functionality-and-connection-status/"><u>YL Computing Reveals Tips for Verifying Scanner Functionality & Connection Status</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.8 Karaoke Software: Enhanced Audio Features & New Updates - Free Download From PCDJ"
-date: 2025-02-06T18:58:27.116Z
-updated: 2025-02-08T16:44:02.379Z
+date: 2025-02-17T23:40:38.200Z
+updated: 2025-02-19T00:25:45.512Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,22 +84,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-all-about-color-grading/"><u>[Updated] All About Color Grading</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-eyevision-recorder-ultimate/"><u>[Updated] EyeVision Recorder Ultimate</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-apps-and-websites-for-american-sign-language-training/"><u>Best Free Apps and Websites for American Sign Language Training</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions/"><u>Comprehensive Approach to Integrating Whiteboards in Zoom Sessions</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/diagnosing-the-cause-of-sluggish-scanning-with-yl-software-a-comprehensive-guide-by-yl-computing/"><u>Diagnosing the Cause of Sluggish Scanning with YL Software: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/enhance-your-singing-experience-with-personalized-karaoke-visuals-how-to-add-custom-background-imagery-in-pcdj/"><u>Enhance Your Singing Experience with Personalized Karaoke Visuals: How to Add Custom Background Imagery in PCDJ</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-high-precision-display-unveiled-hp-dreamcolor-z32x/"><u>In 2024, High Precision Display Unveiled HP DreamColor Z32X</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-itel-a05s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Itel A05s with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210470498-9780578362809-life-is-worth-more-than-just-living/"><u>Life Is Worth More Than Just Living | Free Book</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/premium-vehicle-desktop-graphics-and-full-coverage-screen-savers-from-yl-digital-innovations-yl-computing/"><u>Premium Vehicle Desktop Graphics & Full Coverage Screen Savers From YL Digital Innovations (YL Computing)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ct-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/resolving-unrecognized-usb-issues-expert-tips-from-yl-computing/"><u>Resolving Unrecognized USB Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solutions-to-fix-the-annoying-hum-from-your-pcs-sound-card-tips-by-yl-computing/"><u>Solutions to Fix the Annoying Hum From Your PC's Sound Card - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solving-the-problem-of-undetected-devices-by-your-scanner-expert-advice-by-yl-software/"><u>Solving the Problem of Undetected Devices by Your Scanner - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/switching-your-default-file-opener-on-windows-tips-from-yl-software/"><u>Switching Your Default File Opener on Windows: Tips From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-basic-hardware-and-software-needs-unveiling-the-essential-specs-for-windows-10-explained-by-experts-at-yl-computing/"><u>Understanding Basic Hardware and Software Needs: Unveiling the Essential Specs for Windows 10 - Explained by Experts at YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-common-monitor-error-messages-insights-from-yl-computing-and-yl-software/"><u>Understanding Common Monitor Error Messages: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elevating-engagement-finding-your-youtube-segment/"><u>[New] 2024 Approved Elevating Engagement Finding Your YouTube Segment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essentials-of-using-igtv-effectively-and-efficiently/"><u>[New] Essentials of Using IGTV Effectively and Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-illuminating-the-future-luminances-influence-on-hdr/"><u>[Updated] 2024 Approved Illuminating the Future Luminance’s Influence on HDR</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples-for-2024/"><u>[Updated] From Bystander to Leader in the World of Insta Essential Tips & Examples for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-the-ultimate-guide-top-8-free-introduction-template-websites-of-2023/"><u>1. The Ultimate Guide: Top 8 Free Introduction Template Websites of 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soundwave-statements-on-whatsapp-snapshots/"><u>2024 Approved Soundwave Statements on WhatsApp Snapshots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blitz-through-edits-with-windows-11-pro-tips-for-2024/"><u>Blitz Through Edits with Windows 11 Pro Tips for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-removing-images-from-your-icloud-storage/"><u>Effective Strategies for Removing Images From Your iCloud Storage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-blending-multiple-hdr-photographs-in-lightroom-for-2024/"><u>Expert Tips for Blending Multiple HDR Photographs in Lightroom for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-spectrum-of-present-use-to-future-drones-potential/"><u>In 2024, The Spectrum of Present Use to Future Drones' Potential</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-list-of-premium-4k-yt-converters-ranked-by-usage-for-2024/"><u>Master List of Premium 4K YT Converters Ranked by Usage for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/quick-and-effective-methods-to-eliminate-black-backdrops-in-images-expert-advice/"><u>Quick & Effective Methods to Eliminate Black Backdrops in Images: Expert Advice</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-copying-content-from-samsung-galaxy-s21-smartphone-to-windows-or-macpc/"><u>Step-by-Step Tutorial on Copying Content From Samsung Galaxy S21 Smartphone to Windows or MacPC</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-converting-your-m4b-recordings-into-mp3-for-any-device/"><u>Step-by-Step Tutorial: Converting Your M4B Recordings Into MP3 for Any Device</u></a></li>
 </ul></div>
 

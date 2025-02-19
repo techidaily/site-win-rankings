@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-02-03T17:35:21.551Z
-updated: 2025-02-08T19:08:09.604Z
+date: 2025-02-11T19:32:02.734Z
+updated: 2025-02-18T19:17:35.986Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,22 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-rankings.techidaily.com/1-eficaz-y-rapido-tres-soluciones-simplificadas-para-la-sincronizacion-de-tu-unidad-d-con-onedrive/"><u>1. Eficaz Y Rápido: Tres Soluciones Simplificadas Para La Sincronización De Tu Unidad D Con OneDrive</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/copia-ombra-del-volume-comprendi-il-vss-e-i-suoi-vantaggi/"><u>Copia Ombra Del Volume: Comprendi Il VSS E I Suoi Vantaggi</u></a></li>
-<li><a href="https://games-able.techidaily.com/dodging-delay-escaping-load-screen-lock-up/"><u>Dodging Delay: Escaping Load Screen Lock-Up</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-sony-vaio-drivers-installed-for-windows-computers/"><u>Get the Latest Sony VAIO Drivers Installed for Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-rekindle-the-glow-solving-corsairs-led-problems/"><u>How to Rekindle the Glow: Solving Corsair's LED Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-nord-ce-3-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-13-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 13 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/optimizing-data-transfer-with-automatic-smb-compression-on-windows-server-vehicles-that-can-be-driven-and-they-are-often-used-in-off-road-conditions-or-area130/"><u>Optimizing Data Transfer with Automatic SMB Compression on Windows Server Vehicles that Can Be Driven, and They Are Often Used in Off-Road Conditions or Areas with Limited Accessibility.</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/swift-and-simple-methods-for-transferring-data-from-your-synology-nas-to-a-windowsmac/"><u>Swift & Simple Methods for Transferring Data From Your Synology NAS to a Windows/Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209850843-9781945252150-the-art-of-listening-to-angels/"><u>The Art of Listening to Angels | Free Book</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-art-of-soft-ending-sounds-in-premiere-pro-for-2024/"><u>The Art of Soft-Ending Sounds in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-7-solutions-when-windows-explorer-continually-fails-explore-with-revouninstaller/"><u>Top 7 Solutions When Windows Explorer Continually Fails – Explore With RevoUninstaller</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/transitionner-votre-disque-dur-de-portable-vers-un-ssd-en-quatre-etapes-le-guide-ultime/"><u>Transitionner Votre Disque Dur De Portable Vers Un SSD en Quatre Étapes : Le Guide Ultime</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-an-sos-only-display-on-iphone-discover-six-remedies/"><u>Troubleshoot an 'SOS Only' Display on iPhone: Discover Six Remedies</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-1011-paranael-ma-thasatavaza-fildara-ka-anapasathata-hana-ka-samathhana/"><u>Windows 10/11 प्रणाली में दस्तावेज़ फ़ोल्डर के अनुपस्थित होने का समाधान</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-11-how-to-fix-missing-bcd-file-errors/"><u>Windows 11: How to Fix Missing BCD File Errors</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/windows-how-often-are-temporary-files-deleted-by-default/"><u>Windows: How Often Are Temporary Files Deleted by Default?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions/"><u>[New] 2024 Approved Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[New] Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-contents-visibility-strategic-use-of-imagery-in-video-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Content's Visibility Strategic Use of Imagery in Video Thumbnails</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/determining-your-gpus-cooling-efficiency-a-guide-tech-insights-by-yl/"><u>Determining Your GPU's Cooling Efficiency: A Guide - Tech Insights by YL</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-free-apple-device-compatible-video-converter-supports-ipadiphoneipod-touch-and-apple-tv/"><u>Download Free Apple Device Compatible Video Converter – Supports iPad/iPhone/iPod Touch & Apple TV</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easy-tutorial-to-enable-continuous-updates-in-your-windows-11-system-with-help-from-yl-software-experts/"><u>Easy Tutorial to Enable Continuous Updates in Your Windows 11 System with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-you-swap-out-a-damaged-ssd-or-hdd-on-your-computer-the-complete-guide-from-yl-technologies/"><u>How Can You Swap Out a Damaged SSD or HDD on Your Computer - The Complete Guide From YL Technologies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-10-best-face-swap-apps-for-iphone-and-android-devices/"><u>In 2024, FREE 10 Best Face Swap Apps for iPhone and Android Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-use-emojis-on-windows/"><u>New How to Use Emojis on Windows</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-access-and-edit-microsoft-word-files-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Access and Edit Microsoft Word Files with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-impact-and-outcomes-of-the-boxer-uprising-as-explained-by-yl-solutions/"><u>The Impact and Outcomes of the Boxer Uprising as Explained by YL Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oice-modification-tools-for-youtube-creators-for-2024/"><u>Top Voice Modification Tools for YouTube Creators for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-system-alerts-how-to-detect-and-diagnose-scan-malfunctions-with-yl-software-guidance/"><u>Understanding System Alerts: How to Detect and Diagnose Scan Malfunctions with YL Software Guidance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Auto-Cue Mastery Video Guide: Setting Mix Points and Automixing in PCDJ"
-date: 2025-02-05T16:59:15.403Z
-updated: 2025-02-08T20:07:18.342Z
+date: 2025-02-14T19:18:48.107Z
+updated: 2025-02-18T23:16:39.526Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ The video tutorial below will walk you through how **autocue** works, and how yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT IS AUTOCUE?
@@ -35,13 +35,13 @@ This means when you load a track to one of the four available decks in DEX 3 and
 The wonderful thing about the revamped **autocue feature** is that the autocue points will be used as mix points for automix.   **Trim the long intro or outtro** using the new autocue mix points for more **seamless transitions** between tracks when using automix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -63,22 +63,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/autocuemixinout-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-conquer-video-editing-on-pclaptop-with-inshot/"><u>[Updated] Conquer Video Editing on PC/Laptop with Inshot</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-zoom-alternatives-in-remote-work-software-for-2024/"><u>[Updated] Expert Zoom Alternatives in Remote Work Software for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/aktualisierung-von-trim-einstellungen-bei-ssds-unter-windows-11-aktivierendeaktivieren/"><u>Aktualisierung Von TRIM Einstellungen Bei SSDs Unter Windows 11: Aktivieren/Deaktivieren</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/como-navegar-por-archivos-de-imagenes-en-particiones-o-volumenes-existentes-guia-completa/"><u>Cómo Navegar Por Archivos De Imágenes en Particiones O Volúmenes Existentes: Guía Completa</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/free-solutions-eight-effective-methods-for-retrieving-your-adobe-illustrator-files-post-crash/"><u>Free Solutions: Eight Effective Methods for Retrieving Your Adobe Illustrator Files Post-Crash</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-a-corrupted-boot-partition-in-windows-11-a-step-by-step-guide/"><u>How to Fix a Corrupted Boot Partition in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-a78-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo A78 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-obstacles-restoring-connection-between-chatgpt-and-plugins/"><u>Overcoming Obstacles: Restoring Connection Between ChatGPT and Plugins</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/passo-passo-alla-creazione-di-ununita-flash-avviabile-in-windows-7/"><u>Passo Passo Alla Creazione Di Un'unità Flash Avviabile in Windows 7</u></a></li>
-<li><a href="https://article-tips.techidaily.com/perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen Top Video Lights Strategies for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/sichere-speicherung-von-onedrive-dateien-auf-einem-nas-mit-qnap-oder-synology/"><u>Sichere Speicherung Von OneDrive-Dateien Auf Einem NAS Mit QNAP Oder Synology</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-ultimate-selection-of-free-file-management-tools-for-windows-versions-11-10-8-and/"><u>The Ultimate Selection of Free File Management Tools for Windows Versions (11, 10, 8 & ^)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-bot-safety-top-3-privacy-issues/"><u>Understanding Bot Safety: Top 3 Privacy Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unveiling-the-secrets-to-fhd-in-social-tweeting-for-2024/"><u>Unveiling the Secrets to FHD in Social Tweeting for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728505085149-windows/"><u>Windows簡單指南：恢復刪除之後丟失的照片</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-breaking-free-from-the-old-a-complete-step-by-step-guide-to-updating-your-tiktok-avatar-for-2024/"><u>[New] Breaking Free From the Old A Complete, Step-By-Step Guide to Updating Your TikTok Avatar for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-sites-for-downloading-desired-youtube-ringtones/"><u>[Updated] In 2024, Top Sites for Downloading Desired YouTube Ringtones</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728473589381-google-drive/"><u>無需付費的同步器，將網路文件管理程式快速移回 Google Drive</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/choreographed-combat-selecting-superior-fighting-titles-for-2024/"><u>Choreographed Combat Selecting Superior Fighting Titles for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-netgear-orbi-rbs50y-backyard-wireless-network-evaluation/"><u>Comprehensive Netgear Orbi RBS50Y Backyard Wireless Network Evaluation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-vac-bans-on-dota-2-expert-advice-for-gamers/"><u>Fixing Persistent VAC Bans on Dota 2: Expert Advice for Gamers</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-simple-pour-retrouver-vos-images-supprimees-avec-un-nikon-dslrcompacte-camera/"><u>Guide Simple Pour Retrouver Vos Images Supprimées Avec Un Nikon DSLR/Compacte Caméra.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/logre-el-exito-con-los-servicios-de-copia-de-seguridad-de-asociacion-con-aomei-una-solucion-clave/"><u>Logre El Éxito Con Los Servicios De Copia De Seguridad De Asociación Con AOMEI: Una Solución Clave</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/pc-freie-methoden-zur-ubertragung-von-android-apps-auf-ihren-iphone-top-5-tipps/"><u>PC-Freie Methoden Zur Übertragung Von Android-Apps Auf Ihren iPhone - Top 5 Tipps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs"
-date: 2025-02-02T19:14:14.672Z
-updated: 2025-02-08T20:39:09.126Z
+date: 2025-02-15T17:47:07.673Z
+updated: 2025-02-18T20:08:00.384Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,24 +107,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nalyzing-earnings-disparity-dailymovement-and-youtube-profits-compared-for-2024/"><u>[New] Analyzing Earnings Disparity DailyMovement and YouTube Profits Compared for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-monetize-mastery-turning-views-into-revenue-on-vimeo/"><u>[New] In 2024, Monetize Mastery Turning Views Into Revenue on Vimeo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-smart-shoppers-guide-to-top-gaming-mice-and-keyboards/"><u>[Updated] 2024 Approved Smart Shoppers' Guide to Top Gaming Mice & Keyboards</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-hefty-helpers-airborne-lifting-titans-unveiled-for-2024/"><u>[Updated] Hefty Helpers Airborne Lifting Titans Unveiled for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-step-by-step-guide-removing-a-see-through-backdrop-from-your-images/"><u>1. Step-by-Step Guide: Removing a See-Through Backdrop From Your Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-webinar-tools-for-efficient-recording/"><u>2024 Approved Affordable Webinar Tools for Efficient Recording</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/best-of-the-beat-the-ultimate-ranking-of-top-10-watched-youtubes-in-music-2013-unlocking-viral-beats-spotlight-on-2014s-top-10-youtube-sensations/"><u>Best of the Beat: The Ultimate Ranking of Top 10 Watched YouTubes in Music, 201#3: 'Unlocking Viral Beats: Spotlight on 2014'S Top 10 YouTube Sensations!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-tips-on-inserting-captions-into-youtube-videos/"><u>Expert Tips on Inserting Captions Into YouTube Videos</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-does-youtube-request-video-converter-access-comprehensive-malwarecare-tutorial/"><u>How Does YouTube Request Video Converter Access? Comprehensive MalwareCare Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-genesis-app/"><u>In 2024, Giggle Genesis App</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/is-it-possible-for-malware-to-propagate-via-wi-fi-networks-without-physical-connection/"><u>Is It Possible for Malware to Propagate via Wi-Fi Networks Without Physical Connection?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/is-your-pdf-safe-from-malware-tips-for-identifying-dangerous-pdf-files/"><u>Is Your PDF Safe From Malware? Tips for Identifying Dangerous PDF Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/june-2024s-premier-discounts-at-best-buy-discover-the-deals/"><u>June 2024'S Premier Discounts at Best Buy - Discover the Deals</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/master-the-process-of-converting-wav-recordings-to-compressed-m4a-format/"><u>Master the Process of Converting WAV Recordings to Compressed M4A Format</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-windows-11-taskbar-icons-layout/"><u>Perfecting Windows 11 Taskbar Icons Layout</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-rated-tool-for-editing-picture-backdrops-transform-your-images-with-ease/"><u>Top-Rated Tool for Editing Picture Backdrops: Transform Your Images with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-device-detection-issues-in-windows-10s-bluetooth/"><u>Troubleshooting Guide: Fixing Device Detection Issues in Windows 10'S Bluetooth</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/ultimate-guide-effortless-import-of-vcf-file-into-your-android-phone/"><u>Ultimate Guide: Effortless Import of VCF File Into Your Android Phone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/your-ultimate-checklist-for-broadcasting-bts-seventeens-epic-stage-show-directly-into-your-living-room/"><u>Your Ultimate Checklist for Broadcasting BTS SEVENTEEN’s Epic Stage Show Directly Into Your Living Room!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-facebook-cover-videos-essential-insights-for-2024/"><u>[New] Mastering Facebook Cover Videos Essential Insights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-a-loyal-following-with-respectful-requests/"><u>[Updated] In 2024, Building a Loyal Following with Respectful Requests</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-google-pixel-7a-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Google Pixel 7a FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comment-recuperer-avec-succes-les-sauvegardes-de-votre-jeu-civ-vi-une-methodologie-etape-par-etape/"><u>Comment Récupérer Avec Succès Les Sauvegardes De Votre Jeu Civ VI ? Une Méthodologie Étape Par Étape</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comment-resoudre-quand-windows-10-demarre-sur-le-mauvais-disque-dur-solutions-et-astuces/"><u>Comment Résoudre Quand Windows 10 Démarre Sur Le Mauvais Disque Dur : Solutions Et Astuces</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/die-beste-externe-festplatte-fur-datenwiedergabe-ihre-entscheidungsgrundlage/"><u>Die Beste Externe Festplatte Für Datenwiedergabe - Ihre Entscheidungsgrundlage</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/download-and-configure-robocopy-for-windows-server-ebytevate-plus-alternatives-to-consider/"><u>Download and Configure Robocopy for Windows Server Ebytevate: Plus Alternatives to Consider</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-to-preventsolve-jurassic-world-evolution-game-freezes/"><u>Expert Advice to Prevent/Solve Jurassic World Evolution Game Freezes</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gerer-lauto-suppression-des-courriels-dans-votre-boite-gmail-pour-avoir-le-controle-complet/"><u>Gérer L’Auto-Suppression Des Courriels Dans Votre Boîte Gmail Pour Avoir Le Contrôle Complet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guarantee-flawless-automatic-syncing-of-your-macs-photos/"><u>Guarantee Flawless Automatic Syncing of Your Mac's Photos</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/handling-exceptions-row-not-found-in-database-queries/"><u>Handling Exceptions: 'Row Not Found' In Database Queries</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-play-40c-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Play 40C by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rhythm-rendezvous-optimal-dj-video-selections/"><u>In 2024, Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-the-unable-to-generate-test-sound-glitch/"><u>Quick Solutions for the 'Unable to Generate Test Sound' Glitch</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/resolving-network-drive-connection-issues-in-windows-11-comprehensive-solutions-and-workarounds/"><u>Resolving Network Drive Connection Issues in Windows 11: Comprehensive Solutions & Workarounds</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/scopri-come-recuperare-filmati-cancellati-dalla-tua-videocamera/"><u>Scopri Come Recuperare Filmati Cancellati Dalla Tua Videocamera!</u></a></li>
 </ul></div>
 
