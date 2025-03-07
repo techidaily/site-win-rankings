@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.8 Karaoke Software: Enhanced Audio Features & New Updates - Free Download From PCDJ"
-date: 2025-02-17T23:40:38.200Z
-updated: 2025-02-19T00:25:45.512Z
+date: 2025-03-03T19:15:46.255Z
+updated: 2025-03-07T11:53:10.176Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everything New, Changed, and Fixed in LYRX 1.18
 
 * New Audio Engine upgrade for Windows audio output system using WASAPI (new implementation) or ASIO (DirectSound discontinued)
@@ -61,10 +57,6 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C1121&ssl=1 1121 1900 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2022-08-05 15:04:012023-04-10 17:03:39Karaoke Software | Download LYRX 1.8 Update with Upgraded Audio Engine + More}
@@ -84,19 +76,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevating-engagement-finding-your-youtube-segment/"><u>[New] 2024 Approved Elevating Engagement Finding Your YouTube Segment</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-essentials-of-using-igtv-effectively-and-efficiently/"><u>[New] Essentials of Using IGTV Effectively and Efficiently</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-illuminating-the-future-luminances-influence-on-hdr/"><u>[Updated] 2024 Approved Illuminating the Future Luminance’s Influence on HDR</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples-for-2024/"><u>[Updated] From Bystander to Leader in the World of Insta Essential Tips & Examples for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-the-ultimate-guide-top-8-free-introduction-template-websites-of-2023/"><u>1. The Ultimate Guide: Top 8 Free Introduction Template Websites of 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-soundwave-statements-on-whatsapp-snapshots/"><u>2024 Approved Soundwave Statements on WhatsApp Snapshots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blitz-through-edits-with-windows-11-pro-tips-for-2024/"><u>Blitz Through Edits with Windows 11 Pro Tips for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-removing-images-from-your-icloud-storage/"><u>Effective Strategies for Removing Images From Your iCloud Storage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-blending-multiple-hdr-photographs-in-lightroom-for-2024/"><u>Expert Tips for Blending Multiple HDR Photographs in Lightroom for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-spectrum-of-present-use-to-future-drones-potential/"><u>In 2024, The Spectrum of Present Use to Future Drones' Potential</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-list-of-premium-4k-yt-converters-ranked-by-usage-for-2024/"><u>Master List of Premium 4K YT Converters Ranked by Usage for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/quick-and-effective-methods-to-eliminate-black-backdrops-in-images-expert-advice/"><u>Quick & Effective Methods to Eliminate Black Backdrops in Images: Expert Advice</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-copying-content-from-samsung-galaxy-s21-smartphone-to-windows-or-macpc/"><u>Step-by-Step Tutorial on Copying Content From Samsung Galaxy S21 Smartphone to Windows or MacPC</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-converting-your-m4b-recordings-into-mp3-for-any-device/"><u>Step-by-Step Tutorial: Converting Your M4B Recordings Into MP3 for Any Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-ten-youtube-regulations-to-abide-by-for-2024/"><u>[New] Top Ten YouTube Regulations to Abide By for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[New] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-unveils-powerhouse-triad-the-u3-graphic-pro-monitors-for-professionals/"><u>AOC Unveils Powerhouse Triad - The U3 Graphic Pro Monitors for Professionals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/benq-bl2711u-27-professional-4k-monitor-review/"><u>BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-guide-restoring-accidentally-erased-files-on-windows-1011-tips-from-zdnet/"><u>Complete Guide: Restoring Accidentally Erased Files on Windows 10/11 - Tips From ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/discover-the-stealthy-windows-groovy-tool-in-windows-11-that-accelerates-app-closure-for-a-snappier-system-experience-cnet/"><u>Discover the Stealthy Windows Groovy Tool in Windows 11 that Accelerates App Closure for a Snappier System Experience | CNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/embracing-the-delight-of-apple-a-google-staffer-advocates-for-macbooks-over-lamentable-windows-machines-insights-from-zdnet/"><u>Embracing the Delight of Apple: A Google Staffer Advocates for MacBooks Over Lamentable Windows Machines - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellence-in-technology-mwc-and-makeuseof-best-picks/"><u>Excellence in Technology: MWC & MakeUseOf Best Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/increasing-likes-and-shares-facebooks-best-practices-for-2024/"><u>Increasing Likes & Shares Facebook's Best Practices for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/introducing-the-new-era-of-web-navigation-microsofts-bing-ai-chatbot-now-integrated-with-google-chrome-wired-news/"><u>Introducing the New Era of Web Navigation: Microsoft's Bing AI Chatbot Now Integrated with Google Chrome | Wired News</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-the-dangers-of-fabricated-followers-on-feed-for-2024/"><u>Navigating the Dangers of Fabricated Followers on Feed for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-error-printer-spooler-not-active-on-windows/"><u>Overcoming Error: “Printer Spooler Not Active” On Windows</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-to-switching-from-windows-to-linux-mint-on-your-computer/"><u>Step-by-Step Guide to Switching From Windows to Linux Mint on Your Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-infamous-cyber-incident-of-2024-dissecting-crowdstrike-and-windows-meltdown-saga-on-zdnet/"><u>The Infamous Cyber Incident of 2024: Dissecting CrowdStrike and Windows Meltdown Saga on ZDNET</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-risks-of-debloating-your-windows-pc-alternative-strategies-for-optimal-performance/"><u>The Risks of Debloating Your Windows PC: Alternative Strategies for Optimal Performance</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transferring-windows-license-rights-can-you-apply-your-previous-pcs-upgrade-permission-to-another-machine/"><u>Transferring Windows License Rights: Can You Apply Your Previous PC's Upgrade Permission to Another Machine?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-are-my-youtube-comments-disappearing-troubleshooting-tips-and-solutions/"><u>Why Are My YouTube Comments Disappearing? Troubleshooting Tips & Solutions</u></a></li>
 </ul></div>
 

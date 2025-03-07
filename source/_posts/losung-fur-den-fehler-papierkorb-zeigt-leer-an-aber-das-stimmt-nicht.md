@@ -1,7 +1,7 @@
 ---
 title: "Lösung Für Den Fehler: 'Papierkorb' Zeigt Leer an - Aber Das Stimmt Nicht!"
-date: 2025-01-19T21:54:49.930Z
-updated: 2025-01-26T23:22:32.964Z
+date: 2025-02-28T11:26:57.045Z
+updated: 2025-03-07T04:28:41.556Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846a7d2596697ef888fa555dd7.jpg
@@ -37,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -88,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -106,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -144,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -156,19 +136,11 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -219,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,20 +216,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-hot-picks-best-free-screen-recorders-for-windows-users/"><u>[New] Hot Picks Best Free Screen Recorders For Windows Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-the-world-of-vivacut-expert-editor-review-2024/"><u>[New] Inside the World of VivaCut Expert Editor Review 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/adding-fresh-user-accounts-effortlessly-master-the-control-panel-with-yls-expert-advice/"><u>Adding Fresh User Accounts Effortlessly: Master the Control Panel with YL's Expert Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-nord-ce-3-lite-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus Nord CE 3 Lite 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-and-correcting-code-41-troubles-in-the-device-manager/"><u>Deciphering and Correcting Code 41 Troubles in the Device Manager</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-steps-for-shutting-down-non-needed-programsservices-advice-from-yl-computing-experts/"><u>Essential Steps for Shutting Down Non-Needed Programs/Services: Advice From YL Computing Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/exploring-the-advantages-of-pcdjs-cutting-edge-digitgame-trivia-applications-and-interactive-lockout-buzzers-for-competitive-play/"><u>Exploring the Advantages of PCDJ's Cutting-Edge DigitGame Trivia Applications and Interactive Lockout Buzzers for Competitive Play</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmoras-top-10-for-seamless-image-transitions-for-2024/"><u>Filmora's Top 10 for Seamless Image Transitions for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/preserve-cognitive-health-expert-tips-on-preventing-memory-decline-by-yl-software-experts/"><u>Preserve Cognitive Health: Expert Tips on Preventing Memory Decline by YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/reloop-touch-compatible-with-dex-3-and-pcdj-the-ultimate-controller-for-pro-djs/"><u>Reloop TOUCH: Compatible with DEX 3 & PCDJ - The Ultimate Controller for Pro DJs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-personalizing-your-pc-with-windows-control-panel-tweaks-tips-from-yl-computing/"><u>Step-by-Step Guide: Personalizing Your PC with Windows Control Panel Tweaks - Tips From YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/transition-zum-erfolg-ihre-windows-vorgangerversionen-nahtlos-in-windows-cuieren-schritt-fur-schritt-anleitung-und-tipps-fur-einen-reibungslosen-wechsel/"><u>Transition Zum Erfolg: Ihre Windows Vorgängerversionen Nahtlos in Windows Cuieren - Schritt-Für-Schritt-Anleitung Und Tipps Für Einen Reibungslosen Wechsel</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-magix-vision-control-a-deep-dive-for-2024/"><u>[Updated] MAGIX Vision Control A Deep Dive for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/adjusting-pc-energy-options-a-step-by-step-guide-via-windows-control-panel-tips-from-yl-computing/"><u>Adjusting PC Energy Options: A Step-by-Step Guide via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/complete-macxdvd-suite-unlock-with-official-licensing-complimentary-update/"><u>Complete MacXDVD Suite Unlock with Official Licensing – Complimentary Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-ai-is-shaping-the-future-exploring-its-influence-on-our-lives/"><u>How AI Is Shaping the Future: Exploring Its Influence on Our Lives</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-effective-is-file-fragmentation-cleanup-in-accelerating-pc-speed-advice-from-yl-software/"><u>How Effective Is File Fragmentation Cleanup in Accelerating PC Speed - Advice From YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/popular-playlist-hits-the-highest-demanded-songs-for-pcdjs-in-2017/"><u>Popular Playlist Hits: The Highest Demanded Songs for PCDJs in 2017</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-converting-your-dvds-into-quicktime-movie-files/"><u>Step-by-Step Guide: Converting Your DVDs Into QuickTime Movie Files</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/strategies-to-purge-youtubes-video-buffer-list/"><u>Strategies to Purge YouTube's Video Buffer List</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-hits-of-17-dj-essentials-curated-mp3s-for-seamless-video-mashups/"><u>Top Hits of '17 - DJ Essentials: Curated MP3s for Seamless Video Mashups</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-scanner-startup-issues-insights-and-solutions-from-yl-computings-software-team/"><u>Troubleshooting Scanner Startup Issues: Insights and Solutions From YL Computing’s Software Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-crafting-captivating-slideshows-for-tiktok-users/"><u>Tutorial: Crafting Captivating Slideshows for TikTok Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/wie-uberschreibe-ich-windows-8-oder-81-auf-einem-neuen-pc-schritt-fur-schritt-anleitung/"><u>Wie Überschreibe Ich Windows 8 Oder 8.1 Auf Einem Neuen PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-softwares-expert-strategies-for-fixing-driver-errors-easily/"><u>YL Software's Expert Strategies for Fixing Driver Errors Easily</u></a></li>
 </ul></div>
 

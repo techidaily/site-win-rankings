@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Hits of 2018-2019 Based on DJ Playlists and Audience Requests: Insights From PCDJ"
-date: 2025-02-11T19:32:02.734Z
-updated: 2025-02-18T19:17:35.986Z
+date: 2025-02-28T20:50:38.369Z
+updated: 2025-03-06T17:24:51.027Z
 tags:
   - product
 categories:
@@ -35,10 +35,6 @@ We last posted the list of the top 200 most requested songs in 2016 and the char
 
 _The charts are Copyright © 2019 by Intelligence, Inc._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-songs.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2019-06-20 10:16:362023-04-10 17:03:58The 200 Most Requested Songs Of 2018-2019 According To DJ Intelligence}
@@ -58,20 +54,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/06/top-200-most-requested-son
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-immersive-worlds-unveiled-delving-into-mr-ar-and-vrs-distinctions/"><u>[New] 2024 Approved Immersive Worlds Unveiled Delving Into MR, AR, and VR's Distinctions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[New] Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-contents-visibility-strategic-use-of-imagery-in-video-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Content's Visibility Strategic Use of Imagery in Video Thumbnails</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-your-gpus-cooling-efficiency-a-guide-tech-insights-by-yl/"><u>Determining Your GPU's Cooling Efficiency: A Guide - Tech Insights by YL</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-free-apple-device-compatible-video-converter-supports-ipadiphoneipod-touch-and-apple-tv/"><u>Download Free Apple Device Compatible Video Converter – Supports iPad/iPhone/iPod Touch & Apple TV</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-tutorial-to-enable-continuous-updates-in-your-windows-11-system-with-help-from-yl-software-experts/"><u>Easy Tutorial to Enable Continuous Updates in Your Windows 11 System with Help From YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-swap-out-a-damaged-ssd-or-hdd-on-your-computer-the-complete-guide-from-yl-technologies/"><u>How Can You Swap Out a Damaged SSD or HDD on Your Computer - The Complete Guide From YL Technologies</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-10-best-face-swap-apps-for-iphone-and-android-devices/"><u>In 2024, FREE 10 Best Face Swap Apps for iPhone and Android Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-use-emojis-on-windows/"><u>New How to Use Emojis on Windows</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-access-and-edit-microsoft-word-files-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Access and Edit Microsoft Word Files with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-impact-and-outcomes-of-the-boxer-uprising-as-explained-by-yl-solutions/"><u>The Impact and Outcomes of the Boxer Uprising as Explained by YL Solutions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oice-modification-tools-for-youtube-creators-for-2024/"><u>Top Voice Modification Tools for YouTube Creators for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-system-alerts-how-to-detect-and-diagnose-scan-malfunctions-with-yl-software-guidance/"><u>Understanding System Alerts: How to Detect and Diagnose Scan Malfunctions with YL Software Guidance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-a-singular-stream-from-diverse-youtube-videos/"><u>[New] In 2024, Creating a Singular Stream From Diverse YouTube Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-most-watched-twitter-moments-of-the-decade-for-2024/"><u>[New] The Most Watched Twitter Moments of the Decade for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-blend-how-chromeos-now-mirrors-windows-11-functionality-for-a-seamless-user-experience-techtrends/"><u>Discover the Blend: How ChromeOS Now Mirrors Windows 11 Functionality for a Seamless User Experience | TechTrends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-10t-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme 10T 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/exploring-the-mechanics-of-blockchain-with-yl-computings-in-depth-analysis/"><u>Exploring the Mechanics of Blockchain with YL Computing's In-Depth Analysis</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/free-methods-for-converting-your-dvd-to-quicktime-mov-format-on-a-mac/"><u>Free Methods for Converting Your DVD to QuickTime MOV Format on a Mac</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/go-green-with-music-ultimate-online-karaoke-setlist-for-st-patricks-festive-extravaganza/"><u>Go Green with Music: Ultimate Online Karaoke Setlist for St. Patrick’s Festive Extravaganza</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-it-time-to-upgrade-your-failed-hard-drive-with-a-new-one-insights-from-yl-computings-expertise/"><u>Is It Time to Upgrade Your Failed Hard Drive with a New One? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-landscape-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Navigating the Social Landscape: Strategies for Facebook, Twitter, Instagram & Youtube Success</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-pivotal-influence-of-sun-yat-sen-in-creating-the-chinese-republic-discovered-through-yl-software/"><u>The Pivotal Influence of Sun Yat-Sen in Creating the Chinese Republic - Discovered Through YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-techniques-for-recovering-deleted-files-on-a-windows-pc-expert-advice-from-yl-computing/"><u>Top Techniques for Recovering Deleted Files on a Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/yl-software-solutions-for-replacing-out-of-date-drivers-step-by-step-instructions/"><u>YL Software Solutions for Replacing Out-of-Date Drivers - Step-by-Step Instructions</u></a></li>
 </ul></div>
 

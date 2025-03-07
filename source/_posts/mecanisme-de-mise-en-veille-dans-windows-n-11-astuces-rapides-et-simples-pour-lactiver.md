@@ -1,7 +1,7 @@
 ---
 title: "Mécanisme De Mise en Veille Dans Windows N 11 : Astuces Rapides Et Simples Pour L'activer"
-date: 2025-01-19T20:16:01.853Z
-updated: 2025-01-26T22:26:46.707Z
+date: 2025-03-04T11:41:27.290Z
+updated: 2025-03-06T23:18:07.373Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c689fcbfa16aad9f4c667d5e.jpg
@@ -28,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,22 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-a-concierge-guide-for-monitoring-facebook-livestreams/"><u>[Updated] In 2024, A Concierge Guide for Monitoring Facebook Livestreams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-picsart-masterclass-full-analysis-tutorial-and-review-for-the-year-2024/"><u>[Updated] PicsArt Masterclass Full Analysis, Tutorial & Review for the Year 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-audience-anticipation-crafting-captivating-video-content-on-social-media/"><u>2024 Approved Audience Anticipation Crafting Captivating Video Content on Social Media</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-list-15-anime-focused-youtube-binge-spots/"><u>2024 Approved Ultimate List 15 Anime-Focused YouTube Binge Spots</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-to-resolving-sekiro-abrupt-end-errors/"><u>Effortless Guide to Resolving Sekiro Abrupt End Errors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elite-broadband-cable-selection-the-2024-comprehensive-review/"><u>Elite Broadband Cable Selection - The 2024 Comprehensive Review</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-fixes-for-frequent-registry-errors-expert-advice-from-yl-software/"><u>Essential Fixes for Frequent Registry Errors - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-you-control-update-installation-on-your-pc-running-windows-11-insights-by-yl-computing/"><u>How Can You Control Update Installation on Your PC Running Windows 11? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-does-a-cluttered-system-impact-performance-insights-from-yl-software-experts/"><u>How Does a Cluttered System Impact Performance: Insights From YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s23-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S23 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-fix-the-connection-was-reset-issue-on-your-windows-pc-tips-from-yl-computing/"><u>How to Fix the 'Connection Was Reset' Issue on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/mastering-audio-controls-a-guide-to-tweaking-windows-10-sound-settings-tips-by-yl-computing/"><u>Mastering Audio Controls: A Guide to Tweaking Windows 10 Sound Settings - Tips by YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-stability-solutions-for-continuous-playtime-on-pcs/"><u>Red Dead Redemption 2 Stability: Solutions for Continuous Playtime on PCs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/securing-your-files-a-step-by-step-guide-to-password-protection-learn-from-yl-computing-experts/"><u>Securing Your Files: A Step-by-Step Guide to Password Protection - Learn From YL Computing Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-through-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper Through Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/unveiling-hidden-dangers-a-deep-dive-into-the-perils-of-crypto-asset-investment-expert-insights-from-yl-computing/"><u>Unveiling Hidden Dangers: A Deep Dive Into the Perils of Crypto Asset Investment - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1726028334062-mkvwav/"><u>マスターレベルでMKVからWAVへの最適な変換技術を学ぶ：専任のガイド</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-engage-in-windows-11s-dynamic-app-ecosystem-for-2024/"><u>[Updated] Engage in Windows 11'S Dynamic App Ecosystem for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-high-quality-console-gameplay-capture-using-pcs-for-2024/"><u>[Updated] High-Quality Console Gameplay Capture Using PCs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-verdicts-in-camcorders-which-superiorly-captures-sports/"><u>2024 Approved Ultimate Verdicts in Camcorders Which Superiorly Captures Sports?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/expert-tips-for-correcting-monitor-malfunctions-on-windows-and-mac-learn-how-with-yl-software-solutions/"><u>Expert Tips for Correcting Monitor Malfunctions on Windows and Mac - Learn How with YL Software Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-edge-40-neo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Edge 40 Neo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-g24-power-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for G24 Power?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-to-installuninstall-applications-via-windows-control-panel-a-comprehensive-guide-by-yl-computing/"><u>How to Install/Uninstall Applications via Windows Control Panel: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-phantom-v-fold-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Phantom V Fold to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotation-software-top-picks/"><u>In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/is-your-network-adapter-operating-correctly-discover-troubleshooting-techniques-with-yl-software-guidance/"><u>Is Your Network Adapter Operating Correctly? Discover Troubleshooting Techniques with YL Software Guidance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kein-qualitatsverlust-wie-du-mp4-filme-drehen-kannst-schlusselworter-fur-eine-drehung-von-90-180-oder-270-grad/"><u>Kein Qualitätsverlust: Wie Du MP4-Filme Drehen Kannst - Schlüsselwörter Für Eine Drehung Von 90, 180 Oder 270 Grad</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/seamless-setup-syncing-firewall-configurations-with-network-adapters-guided-by-yl-software/"><u>Seamless Setup: Syncing Firewall Configurations with Network Adapters, Guided by YL Software</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/setting-up-your-region-preferences-on-a-windows-pc-a-step-by-step-guide/"><u>Setting Up Your Region Preferences on a Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/sing-your-heart-out-new-releases-on-the-party-cdj-karaoke-subscription-3-26-18-release-date/"><u>Sing Your Heart Out: New Releases on the Party CDJ Karaoke Subscription (3-26-18 Release Date)</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-printer-setup-and-file-printing-on-your-windows-pc/"><u>Step-by-Step Guide: Printer Setup & File Printing on Your Windows PC</u></a></li>
 </ul></div>
 

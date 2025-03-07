@@ -1,7 +1,7 @@
 ---
 title: 有效轉移多重保留區系統至新硬碟技術演示
-date: 2025-01-20T20:32:29.357Z
-updated: 2025-01-26T16:35:47.556Z
+date: 2025-02-28T21:30:11.178Z
+updated: 2025-03-06T17:47:33.174Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b2b4875663befca17245e9f8.jpg
@@ -54,10 +54,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -74,21 +70,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -97,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -161,17 +141,9 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -211,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,18 +232,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essentials-for-youtube-music-playlists-for-2024/"><u>[New] Essentials for YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleep-well-with-asmr-techniques-and-tips/"><u>[Updated] Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-skype-recording-techniques-for-pc-mac-users/"><u>2024 Approved Skype Recording Techniques for PC, Mac Users</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/bitcoin-heating-up-experts-debate-if-pepe-is-its-secret-catalyst-insights-from-yl-computing/"><u>Bitcoin Heating Up! Experts Debate If Pepe Is Its Secret Catalyst - Insights From YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/boost-your-computers-performance-monitoring-and-optimizing-cpu-and-ram-use-tips-from-yl-tech/"><u>Boost Your Computer's Performance: Monitoring & Optimizing CPU and RAM Use – Tips From YL Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excessive-tiktok-drafts-simplify-with-smart-editing-techniques-for-2024/"><u>Excessive TikTok Drafts? Simplify with Smart Editing Techniques for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-efficiently-utilizing-the-telnet-command-line-in-windows-os/"><u>Expert Tips for Efficiently Utilizing the Telnet Command Line in Windows OS</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-i-accelerate-performance-of-applications-on-my-computer-expert-tips-from-yl-computing/"><u>How Can I Accelerate Performance of Applications on My Computer? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-indoor-brightness-sunlight-strategies-inside/"><u>In 2024, Mastering Indoor Brightness Sunlight Strategies Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seize-opportunities-in-openais-challenge-for-error-discovery/"><u>Seize Opportunities in OpenAI’s Challenge for Error Discovery</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/solving-your-cpu-cooling-woes-why-might-a-pcs-fan-remain-silent-advice-by-yl-software-experts/"><u>Solving Your CPU Cooling Woes: Why Might a PC's Fan Remain Silent? Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/top-methods-for-fixing-scanners-that-wont-work-insights-from-yl-computing-and-yl-software/"><u>Top Methods for Fixing Scanners That Won't Work - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-key-distinctions-wired-vs-wireless-networks-explained-by-yl-computing/"><u>Understanding Key Distinctions: Wired Vs. Wireless Networks Explained by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-the-seamless-shift-from-imovie-to-youtube-broadcasts/"><u>[New] 2024 Approved Navigating the Seamless Shift From iMovie to YouTube Broadcasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-farm-family-bonding-the-ultimate-agritainment-guide/"><u>2024 Approved Farm Family Bonding The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-making-the-transition-from-older-windows-to-new-version-11/"><u>2024 Approved Making the Transition From Older Windows to New Version 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-compression-related-distortion-on-youtube/"><u>2024 Approved Navigating Compression-Related Distortion on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-effective-fb-fundraising-posts/"><u>Creating Effective FB Fundraising Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-unknown-devices-in-new-windows-release/"><u>Dealing with Unknown Devices in New Windows Release</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easily-modifying-speaker-volume-via-windows-control-panel-tutorial-by-yl-computing/"><u>Easily Modifying Speaker Volume via Windows Control Panel - Tutorial by YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fixing-continuous-graphics-card-malfunctions-expert-advice-from-yl-computer-experts/"><u>Fixing Continuous Graphics Card Malfunctions: Expert Advice From YL Computer Experts</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guaranteeing-robust-cybersecurity-for-your-computer-insights-by-yl-software-professionals/"><u>Guaranteeing Robust Cybersecurity for Your Computer: Insights by YL Software Professionals</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-i-fix-an-unrecognized-usb-drive-issue-expert-tips-from-yl-computings-software-solutions/"><u>How Can I Fix an Unrecognized USB Drive Issue? - Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lenovo-thinkphone-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Lenovo ThinkPhone Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/increasing-engagement-on-instagram-videos-for-2024/"><u>Increasing Engagement on Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/master-your-windows-environment-an-expert-walkthrough-to-reconfigure-the-taskbar-by-yl-computing/"><u>Master Your Windows Environment: An Expert Walkthrough to Reconfigure the Taskbar by YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-obstacles-in-adding-new-printer-to-network/"><u>No Obstacles in Adding New Printer to Network</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/solving-image-recognition-errors-with-tips-from-yl-software-professionals/"><u>Solving Image Recognition Errors with Tips From YL Software Professionals</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/understanding-common-computer-troubles-and-their-effect-on-system-speed-yl-tech-solutions/"><u>Understanding Common Computer Troubles and Their Effect on System Speed - YL Tech Solutions</u></a></li>
 </ul></div>
 
